@@ -1,0 +1,68 @@
+Número binário, octal, hexadecimal
+ Von Neumann
+ Interação entre hardware e software (bios, OS), so falar que o melhor OS é Linux
+
+ Processador e funcionamento de registradores
+    - Registrador é a memória mais rápida, executa o processamento
+    - Registrador armazena instrução, dados de entrada e dados de saída
+    - Registrador envia dados para bd
+
+ Tipos de registradores
+    - AX - acumulador - armazena resultados
+    - BX - base - armazena endereço de instruções
+    - CX - contador - controla iterações de loop
+    - BP - base pointer - armazena o endereço base da pilha
+    - SP - stack pointer - armazena o enderço final da pilha
+    - CS - code segment - armazena o local da memoria onde se inicia as instruções (código do programa)
+    - SS - stack segment - controle do retorno de uma função (instrução)
+    - DS - data segment - aponta para o local da memoria onde ficam os dados (variáveis), manuseio em bloco
+    - IP - instruction pointer - aponta para a próxima instrução
+
+ Flags
+    - C - carry - overflow de calculo binário, ex soma de numeros com 4 digitos binario resulta em um de 5 -> overflow
+    - P - paridade - verifica se o numero é par ou não (isso é quantidade de dígitos no binário)
+    - A - auxiliar carry - overflow de soma de binario no meio do dado (no meio do numero) 
+    - Z - zero - indica se o resultado e zero ou nao
+    - S - signal - dígito a esquerda que indica se é positivo ou negativo (S=0 ou 1,sendo 0 positivo e 1 negativo), não é necessário colocar 0 pois é positivo por padrão
+    - T - trap - executa instruções controlada passo a passo
+    - I - interrupt enable flag - habilitar ou desabilitar interrupções
+    - D - direction - operações de string, define a ordem da operação (crescente ou decrescente)
+    - O - overflow - indica se houve ou não overflow para mudar o bit mais significativo
+ RI - Registrador de Instrução - armazena a instrução que deverá ser executada, busca instrução na memória
+ REM - Registrador de Endereço de Memória - deve estar integrado ao RI, 
+ RDM - Registrador de Dados de Memória - deve estar integrado ao REM,
+
+Barramentos - interligação de componentes de uma arquitetura de computadores
+- interliga os registradores com os dispositivos
+- principais tipos de barramentos:
+    - barramento de dados: fazer a leitura dos dados que estão nos discos, transferir os dados do HDD para a memória RAM, e depois da RAM para a cache. 
+    - barramento de endereços: disponibiliza posições de memória para o barramento de dados 
+    - barramento de controle: controla o funcionamento dos outros barramentos, e controla a instrução de máquina
+- Para aumentar a capacidade (largura de dados) deve aumentar a largura do barramento (inserir mais linnhas). Normalmente tem 16 linhas, no máximo 32
+- Taxa de transferência de um barramento - velocidade - KBit, MBit, GBit 
+    - ciclo do barramento::
+    - depende da largura do barramento
+    - depende do tipo de processador (32-bits, 64-bits, 128-bits)
+
+Barramento e seu compartilhamento
+- Barramento interno - system bus - mais rápidos, CPU, memória, PCIe
+- Barramento externo - mais lento - mais lentos, discos HDD/SSD
+- Para evitar colisão de sinais elétricos, dados devem fluir em um sentido único, faz por exemplo primeiramente a leitura e depois gravação, não ao mesmo tempo (serial)
+
+Barramentos paralelos - multiplexados
+- pode ler e gravar ao mesmo tempo
+    - unibus 
+    - mca
+    - isa
+    - eisa
+    - pci
+    - agp - substituido pelo barramento pcie + placa gpu
+
+Barramentos serial - mais rápidos 
+    - usb - plug and play
+    - pcie - mais rápido de todos, tem controle de armazenamento de discos
+    - hyper-transport
+    - firewire
+    - SAS - barramento para gestão integrada de discos em servidores, uso em conjunto com RAID
+
+![[Pasted image 20241014210019.png]]

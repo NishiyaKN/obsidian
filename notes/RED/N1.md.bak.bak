@@ -1,0 +1,233 @@
+### Comandos
+**arp -a**: Usado para mostrar o IP local e MAC dos dispositivos da rede local que teve comunicação recente
+
+**ipconfig**: Mostra o endereço IPv4 e IPv6, máscara de subrede, default gateway
+![[Pasted image 20241005143235.png]]
+ipconfig /all
+ ![[Pasted image 20241005143221.png]]
+
+**ping -t [ip]**: Usado para testar a conectividade, -t faz com que o ping faça infinitos testes
+
+**tracert  [ip]**: Mostra o caminho percorrido (hops) até chegar ao ip especificado, não conta o ip do DNS. Começa com o Default Gateway do dispositivo (roteador a qual ele está conectado) e termina no endereço de destino.
+
+**nslookup [site.com]**: Mostra o endereço de IP do site e indica qual servidor DNS foi usado para a consulta
+### Tipos de portas
+Uma porta é um número de 16 bits, vai de 0 a 65535
+- **HTTP**: Porta 80
+- **HTTPS**: Porta 443
+- **SSH**: Porta 22
+- **SMTP**: Porta 25
+- **SMTPS**: Porta 465
+- **SMTP TLS**: Porta 587
+- **FTP**: Porta 21 (porta de comandos)
+- **FTPS**: Porta 989/990
+- **POP3**: Porta 110
+- **IMAP**: Porta 143
+- **Telnet**: Porta 23
+- **DNS**: Porta 53
+Servidores web respondem por padrão a porta 80 ou 443, mas é possível especificar uma porta: http:www.uscs.edu.br:5000
+### TCP e UDP
+São protocolos da camada de transporte do TCP/IP.
+###### TCP - Transmission Control Protocol
+- lento mas confiável e com verificação de erros
+- garante a entrega de dados em ordem e sem perda, enviando novamente pacotes perdidos
+- precisa fazer mais comunicações com o destinatário para saber se os pacotes foram enviados corretamente
+- um pouco mais lento pelo motivo acima
+- e-mail, webpages
+
+###### UDP - User Datagram Protocol
+- rápido mas não confiável
+- não verifica se chegou tudo ok
+- pacotes podem ser perdidos ou corrompidos
+- transmissão de vídeo e ligações, DNS e DHCP
+
+### Faixa de rede
+![[Pasted image 20241006095504.png]]
+IPs privados
+- 10.x.x.x /8
+- 172.16.x.x - 172.31.x.x /12
+- 192.168.x.x /16
+- 127.x.x.x - Reservado para testes internos e interfaces de loopback
+
+
+Net id rede = primeiro IP da subnet (192.168.1.0), usado para identificar a subnet
+Broadcast = ultimo IP da rede (192,168.1.255), quando todos os hosts sao destinatarios da mensagem em especifico
+Unicast = mensagem para um unico host
+Multicast = para varios mas nao todos os IPs (grupo)
+### Subnet Mask
+Mascara de rede determina como um endereço IP é dividido em network e host.
+- 1 representa a parte de network
+- 0 representa a parte de hosts
+
+/24 = 24 bits ligado 11111111.11111111.11111111.00000000 -> 255.255.255.0
+/24 tem 24 "1" e 8 "0" -> 2^8 = 256 -> 254 hosts utilizados
+
+- /24 (255.255.255.0) tem 256 IPs, sendo 254 usáveis
+- /16 (255.255.0.0) tem 65536 IPs, sendo 65534 usáveis
+- /30 (255.255.255.252) tem 4 IPs, sendo 2 usáveis
+![[Pasted image 20241006100644.png]]
+
+- Subnetting serve para dividir uma rede grande em redes menores, ajuda a reduzir o congestionamento da rede, melhora a segurança e alocação mais eficiente de IPs.
+- Se um dispositivo quer se comunicar com outro dispositivo que está na mesma subnet, ele consegue comunicar diretamente, se estiver em outra subnet, ele envia os dados para o default gateway
+- 192.168.1.10/24 está em outra subnet de 192.168.2.10
+### Encapsulamento de PDU
+PDU - Unidade de Protocolo de Dados - são dados com metadados (cabeçalhos). 
+Uma PDU tem nomes diferentes dependendo de qual nível da camada ela está. 
+- Dados - camada de aplicativo
+- Segmento - camada de transporte TCP (se for UDP é chamado de datagrama)
+- Pacote - camada de rede
+- Quadro/Frame - camada de enlance de dados
+- Bits - camada física
+Cada camada adiciona um cabeçalho novo à PDU
+
+![[Pasted image 20241005193618.png]]
+
+Datagrama - todo tipo de dado que não pede confirmação de que chegou ou não
+### Modelo OSI 
+Open System Interconnection, feito pela ISO. Modelo de referência
+- Estabelece regras para a interconectividade de dois dispositivos de rede
+7. **Aplicação** - programas do computador, protocolos de nível alto
+6. **Apresentação** - tradução, faz a conversão de caracteres, compressão e criptografia
+5. **Sessão** - mantém a conexão, controla quando que inicia e termina a comunicação entre as aplicações e controla as portas
+4. **Transporte** - detecção e correção de erros que podem ter ocorridos nas camadas inferiores, controle e ordenação do fluxo de dados, peer-to-peer, estabele uma comunicação direta entre a origem e destino
+3. **Rede** - endereçamento dos dispositivos na rede, determina o melhor caminho que as informações devem percorrer (protocolos de roteamento). Roteadores e Gateways estão presentes aqui.
+2. **Enlace** - link de dados, faz a detecção e correção de erros que podem ter acontecido na camada física, e faz também o controle do fluxo da transmissão dos dados
+1. **Física** - fios de cobre, fibra, comunicação eletromagnética (wireless)
+
+![[Pasted image 20241005195440.png]]
+7 - Aplicação
+6 - Apresentação 
+5 - Sessão 
+4 - Transporte (segmento/datagrama) - adiciona as portas, numero de sequencia e confirmação
+3 - Rede (pacote) - adiciona IPs
+2 - Enlance (quadro) - adiciona MAC
+1 - Físico (bits)
+Modelo OSI é mais para referência, não é realmente usado no mundo real
+
+![[Pasted image 20241120115657.png]]
+
+### Modelo TCP/IP
+Modelo de protocolo que é usado na prática pela internet, para padronizar o networking.
+![[Pasted image 20241005194922.png|500]]
+![[Pasted image 20241005210127.png]]
+![[Pasted image 20241006095302.png]]
+Ao receber um dado, um dispositivo verifica o endereço MAC, se for o correto, ele desencapsula e verifica o IP, desencapsula e verifica a informação de transporte e a aplicação consegue receber o dado
+
+TCP quebra os dados em unidades menores (segmentos), envia por meio de IP.
+### Cabos
+- Copper Straight-Through para conectar diferentes dispositivos
+- Copper Cross-Over para conectar dois disposivitos iguais (dois switches)
+### FTP
+- Para fazer upload de um arquivo de um PC para um servidor FTP:
+	- ftp 10.0.0.2 (ip do server)
+	- coloca o user e passwd
+	- put arquivo.txt
+- Para obter um arquivo de um servidor FTP
+	- ftp 10.0.0.2 (ip do server)
+	- coloca o user e passwd
+	- get arquivo.txt
+### Handshake
+Estabelece e mantêm conexões entre os dispositivos de rede. 
+- Primeiramente os dispositivos enviam pacotes de **controle** para iniciar a comunicação, contendo informações como **endereços IP, portas** e etc.
+- Depois os dispositivos negociam os **parâmetros da comunicação,** como o tamanho máximo dos pacotes, tipo de codificação e outras coisas relacionadas ao **protocolo**.
+- Utilizado em TCP/IP, HTTP, FTP, SMTP, etc.
+
+
+Protocolos são regras que tornam a comunicação entre dispositivos possível
+TCP - Transmission Control Protocol
+IP - Internet Protocol
+UDP - User Datagram Protocol
+OSI - Open System Interconnection
+
+Ethernet
+Fast Ethernet
+Gigabit Ethernet
+
+
+MAC address - fica na NIC (placa de rede)
+
+Dispositivo final: pc, printer, tv
+Dispositivo intermediário: router, switch, firewall, ap
+
+Router analiza pacotes e identica o melhor caminho entre dispositivos
+
+Switch conecta fisicamente vários equipamentos localmente por cabos
+
+Ap msm coisa de um switch, mas sem cabo
+
+Controle de acesso é usuário e senha em redes
+
+Firewall faz a segurança da rede, no acesso as aplicações 
+
+Router sem fio une switch, router, ap para SOHO
+
+Modem - modulador demulador, comunicação por satélite, camada bem fisica da rede, ligado a telecomunicações
+Conexão de duas torres de comunicação, é enlance. Pode ceder árvores entre as torres e atrapalhar a comunicação
+Cabo de cobre tem categorias, que indica a taxa de transmissão que suporta, sempre o alcance de 100m
+
+Fibra tem multimodal (lan) e mono modo (maior alcance, até 100km)
+![[Pasted image 20241021150934.png]]
+
+![[WhatsApp Image 2024-10-01 at 09.19.38.jpeg]]
+![[redes.jpg]]
+![[111.jpg]]
+- Comandos
+    - arp -a
+    - ipconfig /all
+    - ping -t [ip]
+    - tracert [ip]
+    - nslookup [site.com]
+- Portas (16 bits)
+    - 80 HTTP
+    - 443 HTTPS
+    - 22 SSH
+    - 23 Telnet
+    - 21 FTP
+    - SMPT, POP2, IMAP, DNS
+- TCP e UDP
+- MAC Adress
+    - FF-FF-FF-FF-FF
+    - 48 bits
+- IPs?
+    - Identificador subnet (0)
+    - Broadcast (255)
+- Máscara de subrede (255.255.255.0)
+    - parte de network (1)
+    - parte de hosts (0)
+    - subnetting
+- PDU
+    - Dados
+    - Segmento
+    - Pacote
+    - Frame
+    - Bits
+- OSI
+    - Aplicação
+    - Apresentação
+    - Sessão
+    - Transporte
+    - Rede
+    - Enlace
+    - Física
+- TCP/IP
+    - Aplicação
+    - Transporte
+    - Internet
+    - Rede
+- Cabos
+    - Cobre 100m
+        - Straigh-Through
+        - Cross-Over
+        - Unshielded
+    - Fibra
+        - Multimodal (lan)
+        - Mono modo (100km)
+- Handshake
+- Dispositivos de rede
+    - Router
+    - Switch
+    - AP
+    - Firewall
+    - Router sem fio
+    - Modem
+

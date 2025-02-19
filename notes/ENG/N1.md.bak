@@ -1,0 +1,151 @@
+uma das questões da prova é descrever requisitos funcionais e não funcionais de acordo com o caso que ele dará
+uma das questões é desenvolver um diagrama da UML de caso de uso ou de componentes ou de implementação 
+
+descrever um requisito não funcional   
+ 
+USAR O GUIA DE ESTUDO E MATERIAL DE APOIO, PRINCIPALMENTRE O CILABOS E DO MODELO RUP 
+### Fundamentos (atividades) da Engenharia de Software
+- **Especificação** - fazer um planejamento, levantamento dos requisitos, modelagem do banco de dados. **Define as funcionalidades e restrições** do sw.
+
+- **Desenvolvimento / Projeto e Implementação** - **projetar e escrever o código**, montar o software com componentes já prontos como APIs, libraries, web services ,etc., testes necessários para ver se está funcionando
+
+- **Validação e verificação** - fazer uma constatação de se aquilo que foi especificado e aquilo que foi desenvolvido são os mesmos, está ligada ao controle e garantia da qualidade, mesmo fazer perguntas e conversar com o clienete já é uma validação, V&V em todo o decorrer do processo. Assegura que **atende aos requisitos do cliente**.
+
+- **Evolução** - modificações para atender as **necessidades mutáveis do cliente e do mercado**, quando é necessário uma intervenção para que o software continue funcionando
+
+### Fluxo de software
+![[Pasted image 20241013121835.png]]
+![[Pasted image 20241013121847.png]]
+### Modelos de ciclo de vida
+###### Cascata - ciclo de vida clássico
+- Fases:
+	- Definição e Análise de Requisitos
+	- Projeto do Software
+	- Implementação e Testes de Unidade
+	- Integração e Testes de Sistema
+	- Operação e Manutenção
+	![[Pasted image 20241013134910.png]]
+- Principal desafio é a **dificuldade de acomodar mudanças de requisitos**
+- Uma fase deve ser concluída antes de ir para a próxima fase
+- Versão operacional do software só estará disponível perto do final do projeto
+- Recomendado em projetos onde os **requisitos são bem compreendidos**, exige documentação rigorosa
+- Não recomendado para sistemas de negócios
+###### Incremental
+- Particiona o desenvolvimento e entrega o sistema aos poucos, por meio de incrementos
+- Cada incremento é uma funcionalidade do sistema
+- Usuário possui melhor visão sobre o projeto e pode fornecer feedback constante, assim os requisitos do usuário são priorizados
+![[Pasted image 20241013134950.png]]
+- Combina processos lineares e paralelos
+- Aplicam-se sequências lineares que geram incrementos
+- O primeiro incremento é apenas o essencial do projeto, atende a requisitos básicos. Cliente pode fazer uma avaliação para ser usado como base para os próximos incrementos
+- **Foco é entregar um produto operacional em cada incremento**
+- Especialização de papéis e paralelização de atividades
+- Recomendado para sistemas de infomações, que mudam com frequência
+###### Evolucionário - iterativo
+- Necessidades de negócio e de produto mudam conforme o desenvolvimento do projeto 
+- Software pode ser ajustado de acordo com o feedback constante do cliente
+###### Prototipação
+- Indicado para quando o cliente define objetivos gerais do software, sem muito detalhamento, ou quando o desenvolvedor não está seguro quanto a questões relacionadas ao desenvolvimento. Ou seja, **quando os requisitos não são totalmente conhecidos**
+- Mitigação de riscos e incertezas iniciais
+- Auxilia na compreensão do que será desenvolvido
+- **Define um "projeto rápido"**, com layouts da UI, telas, e etc.
+- A partir da avaliação do protótipo, refina os requisitos
+- Serve como um primeiro sistema, podendo ser descartável ou reaproveitável
+- Pode ser operacional (pode ser testado) ou não
+- **Participação ativa do cliente**
+- Pode acarretar em expectativas irreais ao cliente, em termos de funcionalidade e de tempo
+- Cliente pode não aceitar mesmo após vários protótipos
+###### Espiral
+- Junta a iteratividade da prototipação e a sistemática controlada do modelo cascata
+- Cada volta / iteração tempos versões evolucionárias do sistema
+- Para sistemas grandes e complexos com baixa tolerância a falhas
+- Cada volta há uma atividade dedicada à **análise de riscos**, podendo ser apoiada por protótipos
+- Cada volta é dedicada a uma fase do ciclo
+- Cada versão possui diversas etapas, cada etapa passa por várias iterações
+- É realizado incrementos e aprimoramentos sobre cada etapa, aumentando o nível de complexidade do software e evoluindo o produto ao longo do tempo.
+![[Pasted image 20241013141129.png|700]]
+###### RUP - Rational Unified Process
+![[Pasted image 20241013150322.png]]
+- Modelo dividido em fases e orientado a casos de uso
+- Possui framework de processo e manuais para utilização das melhores práticas de especificação de projeto
+- Objetivo é **produzir software com qualidade que satisfaça as necessidades dos clientes dentro de um prazo e orçamento definido**
+- Possui 3 perspectivas:
+	- **Dinâmica**, mostra fases sobre o tempo
+	- **Estática**, mostra atividades do processo
+	- **Prática**, sugere boas práticas para serem usadas
+- Possui 4 fases de negócio:
+	- **Concepção**: define o escopo do projeto, julga se o projeto deve continuar ou ser descartado
+	- **Elaboração**: modelagem do software, elabora o plano de desenvolvimento para o software e identifica os riscos
+	- **Construção**: projeto, programação, testes, documentação
+	- **Transição**: libera o sistema, já operacional
+- Cada fase exige esforço e programação diferente
+- Cada fase é iterativa e incremental
+- Iteração tem objetivo de minimizar os riscos.
+- Boas práticas:
+	- Desenvolvimento iterativo
+	- Emprego de arquiteturas baseadas em componentes
+	- Requisitos devem ser gerenciados
+	- Uso de diagramas UML
+	- Gerenciamento de mudanças
+- Workflow - conjunto de atividades que representam os processos essenciais de desenvolvimento, define o que deve ser feito, quem é o responsável e como as atividades se relacionam, gerando sempre um artefato ou componente.
+
+###  Princípios da Engenharia de Requisitos
+![[Pasted image 20241013195123.png]]
+9 principios e oq significa
+### Ambiguidade
+- Informações podem não ser transmitidas adequadamente, ou nem ser transmitidas
+- Autor pode pressupor que o leitor tenha algum conhecimento implícito anterior sobre o tema
+- Requisitos podem se tornar suscetíveis a diversas interpretações
+
+### Classificações de requisitos
+- Requisitos de negócios - metas e objetivos de negócios 
+- Requisitos de domínio - assunto para o qual o sistema será desenvolvido
+- Requisitos de usuário - o que os usuários querem, perspectiva dos usuários
+- Requisitos de stakeholders - o que os stakeholdeeers querem ver presentes no sistema, perspectiva stakeholder
+- Requisistos de sistema - o que o sistema deve fazer, perspectiva dos desenvolvedores
+### Tipos de requisitos
+- Funcionais 
+	- resultado ou comportamento fornecido por uma função de um sistema
+- de Qualidade 
+	- características do sistema
+- Restrições 
+	- limitam o espaço de solução além do que é necessário para atender aos requisitos funcionais e de qualidade
+	- não podem ser influenciadas pelos membros da equipe
+	- não são implementadas, são cumpridas (e.g. sistema deve estar disponível no mais tardar no segundo semestre de 2024)
+###### Requisitos não funcionais
+- especificados por linguagem natural
+- deve ser quantificável (e.g. deve processar os dados em até 3 segundos)
+- ISO 25000
+![[Pasted image 20241013201920.png]]
+![[Pasted image 20241013201926.png]]
+![[Pasted image 20241013201932.png]]
+![[Pasted image 20241013201939.png]]
+### Gerenciamento de Requisitos
+![[Pasted image 20241013202247.png]]
+### Elicitação de requisitos
+- identificar e descobrir o máximo de informações para o conhecimento do software a ser desenvolvido
+- base para a elicitação é o **conhecimento do contexto do software**, obtido durante a engenharia de requisitos
+- extrair informações sobre a funcionalidade diversas fontes
+###### Técnicas de elicitação
+Usadas para identificar requisitos subconscientes (óbvios), conscientes (esperados) e inconscientes (ocultos, inesperados) dos usuários
+- Reuniões
+- Análise de stakeholders
+- Brainstorming (técnica de criatividade)
+	- consiste em anotar todas as idéias de todos os participantes e fazer uma filtragem depois
+- Entrevista
+- JAD
+- Prototipação
+- Modelagem 
+	- representação e organização do conhecimento adquirido durante a fase de elicitação
+	- modelos de requisitos facilitam a comunicação entre os desenvolvedores do sw
+	- DFD, UML, DER, Redes Petri
+###### Técnicas de pesquisa
+- entrevistas ou questionários
+- dirigidas pelo ER
+- desvantagem de entrevistas: tempo consumido para elicitação
+- desvantagem de questionários: não fornecem feedback imediato entre user e er
+classificacoes e tipos de requisitos, especificamente nao funcionais de acordo com a iso
+elicitacao de requisitos
+### Diagramas UML
+![[Pasted image 20241013203640.png]]
+regras uml, diagramas de componentes, implementacao e caso de uso
