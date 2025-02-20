@@ -18,7 +18,7 @@ executada
 
 Na memória do registrador temos o dado processado, e precisa enviar para o armazenamento em disco, então faz o caminho inverso: registrador -> memória RAM -> caminhar até o disco. Ciclo da instrução vai concluir somente com o armazenamento do dado no dispositivo de disco.
 
-![[notes/SDI/Media/Pasted image 20240909084035.png|650]]
+![[MISC/0MKSH/04S/SDI/Media/Pasted image 20240909084035.png|650]]
 ##### Compilador
  software que traduz um programa escrito em uma linguagem de programação de alto nível (código fonte) para uma linguagem de montagem (assembly), cada instrução da linguagem é substituída por um conjunto de instruções equivalentes da linguagem de montagem. Traduzido uma vez, executado várias.
 ##### INTERPRETADOR

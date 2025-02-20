@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React JS.md",
+                "file": "_USCS/CLOUD/01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React JS"
+              "title": "01"
             }
           }
         ]
@@ -168,11 +168,29 @@
   },
   "active": "fba6ebb50b0230d4",
   "lastOpenFiles": [
+    "_USCS/VIRT/01.md",
+    "_USCS/CLOUD/01.md",
+    "_USCS/SO/01.md",
+    "_USCS/SO/Untitled.md",
+    "_USCS/ETICA/01.md",
+    "Untitled 1.md",
+    "React JS.md",
+    "_USCS/ETICA/CLOUD.md",
+    "_USCS/CLOUD",
+    "_USCS/CALC",
+    "_USCS/ETICA",
+    "_USCS/TEORIA",
+    "_USCS/VIRT",
+    "_USCS/VIRT.md",
+    "MISC/B3/Dicionario.md",
+    "_USCS/SO",
+    "Untitled.md",
+    "MISC/0MKSH/04S",
+    "notes/0MKSH/Untitled.md",
+    "Genki.md",
     "Logic Rationale.md",
     "README.md",
     "日本語.md",
-    "React JS.md",
-    "Linux Essentials.md",
-    "Genki.md"
+    "Linux Essentials.md"
   ]
 }
