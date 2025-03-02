@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_USCS/CLOUD/01.md",
+                "file": "_USCS/SO/FreeBSD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01"
+              "title": "FreeBSD"
             }
           }
         ]
@@ -168,10 +168,10 @@
   },
   "active": "fba6ebb50b0230d4",
   "lastOpenFiles": [
-    "_USCS/VIRT/01.md",
     "_USCS/CLOUD/01.md",
+    "_USCS/VIRT/01.md",
     "_USCS/SO/01.md",
-    "_USCS/SO/Untitled.md",
+    "_USCS/SO/FreeBSD.md",
     "_USCS/ETICA/01.md",
     "Untitled 1.md",
     "React JS.md",
