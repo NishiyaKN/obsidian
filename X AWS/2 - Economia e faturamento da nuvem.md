@@ -24,7 +24,47 @@
 - **TCO** - estimativa financeira para ajudar a identificar custos diretos e indiretos de um sistema
 	- comparar os custos da execução de um ambiente de infraestrutura inteiro para uma carga de trabalho específica on-premises em comparação com a AWS
 	- criar orçamento e um caso de negócios para migrar para a nuvem
-- Calculadora de preço da AWS
+- **Calculadora de preço da AWS**
 	- estima custos mensais
 	- modela soluções antes de criá-las
-	- 
+		- consegue criar uma estimativa para o custo do caso de uso
+
+### 2.3 AWS Organizations
+- Serviço de gerenciamento de contas, onde várias contas podem fazer parte de u ma organização.
+	- Políticas de acesso
+	- Automatização de criação e gerenciamento de contas AWS
+	- Cobrança consolidada
+	![[Pasted image 20250311211608.png]]
+	- OU (organizational unit) - contêiner para várias contas em uma raiz, podendo conter outras OUs
+	- As ramificações consistem em UOs filhas e elas se movem para baixo até terminarem em contas,  que são como as folhas da árvore.
+	- Quando você anexa uma política a um dos nós na hierarquia, ela flui para baixo e afeta todas as  ramificações e folhas. 
+	- Cada conta pode fazer parte de apenas uma OU
+	
+- Pode criar políticas de controle de serviço (SCPs) para permitir ou negar acesso a serviços AWS para contas / grupos AWS (até mesmo o usuário raiz)
+- Criar  grupos de contas e anexar políticas a um grupo para garantir que as políticas 
+- Simplifica o gerenciamento de contas usando APIs para automatizar a criação e o gerenciamento de novas contas da AWS.
+##### Políticas do AWS Identity and Access Management (IAM)
+- Permite ou nega acesso a serviços, recursos individuais ou ações de API.
+- Pode ser aplicada apenas a usuários, grupos ou funções
+- Nunca restringe o usuário raiz
+
+### 2.4 AWS Billing and Cost Management
+- Serviço usado para pagar a fatura AWS, monitorar seu uso e controlar seus custos.
+- Prevê usos e custos futuros
+##### Painel de faturamento
+Visualizar status das despesas acumuladas no mês
+- Spend Summary - gráfico que mostra quanto gastou mês passados, esse mês até agora, e o previsto até final desse mês
+- Bills - lista custos do mês passado para cada serviço AWS (por região)
+- Cost Explorer - gráfico que mostra o gasto mensal por serviço
+- Budgets - criar notificações para quando exceder o orçamento do mês
+- Reports - lista o uso de cada categoria de serviço usado por uma conta por hora ou por dia (junto de impostos)
+
+### 2.5 Suporte Técnico
+- Technical Accounts Manger (TAM) - oferece orientação, revisão de arquitetura e comunicação contínua
+- AWS Trusted Advisor - oferece práticas recomendadas, verifica oportunidades para reduzir despesar e aumentar produtividade.
+- Support Concierge - fornece análises sobre problemas de faturamentos e contas (dúvidas não técnicas)
+##### Planos de suporte
+- Basic - acesso à central de recursos,  painel de status do serviço, perguntas frequentes  sobre produtos, fóruns de discussão e suporte  a verificações de integridade
+- Developer - suporte para beta testers AWS ou pra implementar AWS
+- Business - clientes que executam cargas de trabalho de produção
+- Enterprise - clientes que executam cargas de trabalho comerciais 
