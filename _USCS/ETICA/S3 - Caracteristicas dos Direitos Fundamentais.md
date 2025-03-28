@@ -1,3 +1,5 @@
+ Caracteristicas dos Direitos Fundamentais
+ 
 1. Universalidade
 - Os direitos fundamentais são universais, ou seja, aplicam-se a todos os indivíduos, independentemente de raça, credo, nacionalidade ou convicção política.
 - Podem ser pleiteados em qualquer foro nacional ou internacional, conforme expresso na Declaração e Programa de Ação de Viena de 1993.

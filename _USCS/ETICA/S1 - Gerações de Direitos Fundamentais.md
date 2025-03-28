@@ -39,9 +39,6 @@
 	- Alguns autores associam-nos aos direitos relacionados à engenharia genética (Norberto Bobbio) ou à participação democrática (Paulo Bonavides).
 - Exemplo recente: Inclusão da proteção de dados pessoais como direito fundamental pela Emenda Constitucional 115/2022.
 - Importância: Ainda é discutível, mas reflete a evolução dos direitos em resposta a novas realidades tecnológicas e sociais.
-
-6. Titularidade dos Direitos Fundamentais
-
 - Universalidade:
 	- Os direitos fundamentais são universais, mas com ressalvas, pois alguns são destinados a grupos específicos (ex.: direito à nacionalidade).
 	- Aplicam-se a todos os indivíduos sob a jurisdição do Estado, mas alguns direitos são restritos a brasileiros ou residentes.
@@ -58,3 +55,4 @@
 - Os direitos fundamentais evoluíram ao longo do tempo, refletindo as necessidades e lutas de cada época.
 - Sua titularidade é ampla, mas com limitações, especialmente em relação a pessoas jurídicas e estrangeiros.
 - A inclusão de novas gerações de direitos, como a proteção de dados, demonstra a adaptação do ordenamento jurídico às transformações sociais e tecnológicas.
+

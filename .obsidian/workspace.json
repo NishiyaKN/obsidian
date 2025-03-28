@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_USCS/TEOC/n1.md",
+                "file": "_USCS/ETICA/D4 - Crimes Virtuais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n1"
+              "title": "D4 - Crimes Virtuais"
             }
           }
         ]
@@ -168,17 +168,24 @@
   },
   "active": "fba6ebb50b0230d4",
   "lastOpenFiles": [
-    "_USCS/TEOC/02.md",
-    "_USCS/TEOC/2 - Conjuntos, Relações e Linguagens.md",
-    "_USCS/TEOC/n1.md",
-    "_USCS/TEOC/1 - Introdução à Teoria da Computação.md",
-    "_USCS/SO/01.md",
     "_USCS/ETICA/S4 - Crimes Virtuais.md",
+    "_USCS/ETICA/D4 - Crimes Virtuais.md",
+    "_USCS/ETICA/01.md",
+    "_USCS/ETICA/D N1.md",
+    "_USCS/ETICA/D1 - Direitos Fundamentais.md",
+    "_USCS/ETICA/N1.md",
     "_USCS/ETICA/S3 - Caracteristicas dos Direitos Fundamentais.md",
     "_USCS/ETICA/S2 - Artigo 5 da Constituicao 1988.md",
-    "_USCS/ETICA/Untitled",
-    "_USCS/ETICA/01.md",
     "_USCS/ETICA/S1 - Gerações de Direitos Fundamentais.md",
+    "_USCS/ETICA/D3 - Características dos Direitos Fundamentais.md",
+    "_USCS/ETICA/D2 - Artigo 5 da Constituicao 1988.md",
+    "_USCS/Untitled.md",
+    "_USCS/TEOC/n1.md",
+    "_USCS/TEOC/02.md",
+    "_USCS/TEOC/2 - Conjuntos, Relações e Linguagens.md",
+    "_USCS/TEOC/1 - Introdução à Teoria da Computação.md",
+    "_USCS/SO/01.md",
+    "_USCS/ETICA/Untitled",
     "_USCS/VIRT/01.md",
     "Pasted image 20250317190437.png",
     "X AWS/2 - Economia e faturamento da nuvem.md",
@@ -193,18 +200,11 @@
     "Logic Rationale.md",
     "X AWS",
     "React JS.md",
-    "README.md",
-    "Untitled.md",
-    "_USCS/VIRT/AWS.md",
-    "_USCS/ETICA/CLOUD.md",
     "_USCS/CLOUD",
     "_USCS/CALC",
     "_USCS/ETICA",
     "_USCS/TEOC",
     "_USCS/VIRT",
-    "_USCS/VIRT.md",
-    "MISC/B3/Dicionario.md",
-    "_USCS/SO",
-    "notes/0MKSH/Untitled.md"
+    "_USCS/SO"
   ]
 }
