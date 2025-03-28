@@ -11,9 +11,9 @@
 
 ## 3️⃣ Titularidade de Direitos (Art. 1º CF)
 - **Não são titulares**:
-  - 🏛️ Pessoas jurídicas de direito público internacional
-  - 🚫 Entidades sem personalidade jurídica
-  - ⚖️ Indivíduos com direitos judicialmente restringidos
+  - 🏛️ Pessoas jurídicas (direito à existência, e não à vida)
+  - 🚫 O próprio Estado
+  - ⚖️ Animais, não humanos
 
 ## 4️⃣ LGPD e Dados Pessoais
 - **Casos de divulgação sem consentimento**:
