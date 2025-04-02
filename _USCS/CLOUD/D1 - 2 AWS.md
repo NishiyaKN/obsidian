@@ -1,4 +1,5 @@
-## 🚀 Visão Geral da AWS (Amazon Web Services)  
+#en
+# 🚀 Visão Geral da AWS (Amazon Web Services)  
 
 ### 📌 História e Contexto  
 - **2006**: Lançamento da AWS, originada da infraestrutura interna da Amazon.  

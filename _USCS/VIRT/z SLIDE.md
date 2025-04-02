@@ -81,3 +81,7 @@
 - **Slide 37**: Configuração de VMs com alocação dinâmica de CPU (0.2% a 1.3% por VM).
 - **Redução energética**: 79% em cenário 9:1 (R710).
 - **wPrime**: Eficiência cai drasticamente com concorrência (ex: 44 VMs ativas).
+
+
+
+![[Pasted image 20250401142353.png]]
