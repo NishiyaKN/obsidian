@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X AWS/2 - Economia e faturamento da nuvem.md",
+                "file": "X AWS/8 - Banco de dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Economia e faturamento da nuvem"
+              "title": "8 - Banco de dados"
             }
           }
         ]
@@ -168,6 +168,15 @@
   },
   "active": "fba6ebb50b0230d4",
   "lastOpenFiles": [
+    "X AWS/10 - Auto Scaling e monitoramento.md",
+    "X AWS/9 - Arquitetura de nuvem.md",
+    "X AWS/4 - Segurança na nuvem AWS.md",
+    "X AWS/3 - Visão geral da infraestrutura global da AWS.md",
+    "X AWS/5 - Redes e entrega de conteúdo.md",
+    "X AWS/6 - Computação.md",
+    "X AWS/7 - Armazenamento.md",
+    "X AWS/8 - Banco de dados.md",
+    "X AWS/2 - Economia e faturamento da nuvem.md",
     "X AWS/1 - Visão geral dos conceitos de nuvem.md",
     "_USCS/CLOUD/01.md",
     "_USCS/CLOUD/D2 - 4 Compartilhar Imagens Docker.md",
@@ -185,16 +194,7 @@
     "MISC/0MKSH/03S/BDN/Aula 02.md",
     "MISC/0MKSH/03S/BDN/Aula 03.md",
     "MISC/0MKSH/03S/BDN/Hackolade.md",
-    "MISC/0MKSH/03S/BDN/MongoDB.md",
-    "MISC/0MKSH/03S/BDN/Aula 01.md",
-    "_USCS/VIRT/D2.md",
     "Pasted image 20250401142353.png",
-    "_USCS/SO/D 01.md",
-    "_USCS/SO/01.md",
-    "_USCS/SO/AF2 e outros forms.md",
-    "_USCS/SO/D2 - 3.md",
-    "_USCS/SO/D2 - 2.md",
-    "_USCS/SO/D2 - 1.md",
     "_USCS/ETICA/Untitled",
     "Pasted image 20250317190437.png",
     "X AWS/Media/Pasted image 20250311211608.png",
