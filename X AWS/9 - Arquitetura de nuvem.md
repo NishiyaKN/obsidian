@@ -56,3 +56,12 @@
 	- Defina a carga de trabalho
 	- Responda diversas perguntas do que foi visto acima
 	- Ele oferece um plano de ação para melhorar a carga de trabalho para a nuvem
+## 9.3 - AWS Trusted Advisor
+- Ferramenta online que fornece orientações em tempo real
+- Examina todo o seu ambiente da AWs
+- Oferece recomendações de:
+	- **Otimização de custos**: eliminar recursos não utilizados
+	- **Desempenho**: verifica os Service Limits, monitora as instâncias com uso excessivo
+	- **Segurança**: habilitar recursos de segurança, analisar permissões
+	- **Tolerância a falhas**: auto scaling, health check, multi-AZ, backup
+	- **Service Limits**: verifica se usa mais de 80% do service limit
