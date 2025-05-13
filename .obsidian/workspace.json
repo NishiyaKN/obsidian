@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISC/CDB.md",
+                "file": "CDB/>12.7%.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CDB"
+              "title": ">12.7%"
             }
           }
         ]
@@ -168,8 +168,11 @@
   },
   "active": "fba6ebb50b0230d4",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "CDB/>12.7%.md",
+    "CDB/100 a 122 - anos.md",
+    "CDB",
     "X AWS/10 - Auto Scaling e monitoramento.md",
-    "MISC/CDB.md",
     "X AWS/9 - Arquitetura de nuvem.md",
     "X AWS/8 - Banco de dados.md",
     "X AWS/4 - Segurança na nuvem AWS.md",
@@ -192,8 +195,6 @@
     "_USCS/VIRT/z BALLOONING.md",
     "_USCS/VIRT/z SLIDE.md",
     "_USCS/VIRT/z MEMVIRT.md",
-    "MISC/0MKSH/03S/BDN/Aula 02.md",
-    "MISC/0MKSH/03S/BDN/Aula 03.md",
     "Pasted image 20250401142353.png",
     "_USCS/ETICA/Untitled",
     "Pasted image 20250317190437.png",
@@ -205,7 +206,6 @@
     "_USCS/CALC",
     "_USCS/ETICA",
     "_USCS/TEOC",
-    "_USCS/VIRT",
-    "_USCS/SO"
+    "_USCS/VIRT"
   ]
 }
