@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CDB/>12.7%.md",
+                "file": "CDB/Optimal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": ">12.7%"
+              "title": "Optimal"
             }
           }
         ]
@@ -168,9 +168,10 @@
   },
   "active": "fba6ebb50b0230d4",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "CDB/>12.7%.md",
-    "CDB/100 a 122 - anos.md",
+    "CDB/100 a 122 - 2 anos.md",
+    "CDB/Optimal.md",
+    "Untitled.canvas",
     "CDB",
     "X AWS/10 - Auto Scaling e monitoramento.md",
     "X AWS/9 - Arquitetura de nuvem.md",
