@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fba6ebb50b0230d4",
+            "id": "d53e44ffdeea8743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CDB/Optimal.md",
+                "file": "EAD/01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimal"
+              "title": "01"
             }
           }
         ]
@@ -166,11 +166,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fba6ebb50b0230d4",
+  "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
+    "Linux Essentials.md",
+    "MISC/2025 exame óculos.md",
+    "EAD/01.md",
+    "Prompt/Resumo Markdown.md",
+    "EAD",
+    "Prompt",
+    "MISC/Hyakk.md",
+    "MISC/Linux.md",
+    "MISC/n1.md",
+    "MISC/React JS.md",
+    "_USCS/VIRT/Media/Pasted image 20250401142353.png",
+    "_USCS/VIRT/Media/Pasted image 20250317190437.png",
+    "_USCS/VIRT/Media",
+    "MISC/Logic Rationale.md",
+    "CDB/Optimal.md",
     "CDB/>12.7%.md",
     "CDB/100 a 122 - 2 anos.md",
-    "CDB/Optimal.md",
     "Untitled.canvas",
     "CDB",
     "X AWS/10 - Auto Scaling e monitoramento.md",
@@ -187,26 +201,12 @@
     "_USCS/CLOUD/D2 - 4 Compartilhar Imagens Docker.md",
     "_USCS/CLOUD/D2 - 2 Java Docker.md",
     "_USCS/CLOUD/D1 - 1 Fundamentos.md",
-    "_USCS/CLOUD/D2 - 1 Docker.md",
-    "_USCS/CLOUD/D1 - 4 GCP.md",
-    "_USCS/CLOUD/D1 - 3 Azure.md",
-    "_USCS/CLOUD/D1 - 2 AWS.md",
-    "_USCS/VIRT/01.md",
-    "_USCS/VIRT/D1.md",
-    "_USCS/VIRT/z BALLOONING.md",
-    "_USCS/VIRT/z SLIDE.md",
-    "_USCS/VIRT/z MEMVIRT.md",
-    "Pasted image 20250401142353.png",
     "_USCS/ETICA/Untitled",
-    "Pasted image 20250317190437.png",
     "X AWS/Media/Pasted image 20250311211608.png",
     "X AWS/Media",
     "X AWS/3",
     "X AWS",
     "_USCS/CLOUD",
-    "_USCS/CALC",
-    "_USCS/ETICA",
-    "_USCS/TEOC",
-    "_USCS/VIRT"
+    "_USCS/CALC"
   ]
 }
