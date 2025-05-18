@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/Resumo Markdown.md",
+                "file": "Prompt/Flashcards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumo Markdown"
+              "title": "Flashcards"
             }
           }
         ]
@@ -168,9 +168,10 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
+    "Prompt/Resumo Markdown.md",
+    "Prompt/Flashcards.md",
     "_USCS/SO/D3 - 1.md",
     "_USCS/SO/D2 - 3.md",
-    "Prompt/Resumo Markdown.md",
     "_USCS/SO/01.md",
     "_USCS/SO/AF2 e outros forms.md",
     "_USCS/SO/D2 - 2.md",
@@ -198,7 +199,6 @@
     "MISC/Logic Rationale.md",
     "CDB/Optimal.md",
     "CDB/>12.7%.md",
-    "CDB/100 a 122 - 2 anos.md",
     "Untitled.canvas",
     "CDB",
     "_USCS/ETICA/Untitled",
