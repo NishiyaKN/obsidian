@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAD/01 - 3.md",
+                "file": "EAD/03 - 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - 3"
+              "title": "03 - 4"
             }
           }
         ]
@@ -168,11 +168,16 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
-    "EAD/01 - 2.md",
-    "EAD/01 - 3.md",
+    "EAD/03 - 1.md",
+    "EAD/03 - 4.md",
     "EAD/01 - 1.md",
+    "EAD/01 - 3.md",
+    "EAD/01 - 4.md",
+    "EAD/02 - 1.md",
     "Prompt/Resumo Markdown.md",
+    "EAD/02 - 3.md",
     "Linux Essentials.md",
+    "EAD/01 - 2.md",
     "MISC/2025 exame óculos.md",
     "EAD",
     "Prompt",
@@ -196,11 +201,6 @@
     "X AWS/3 - Visão geral da infraestrutura global da AWS.md",
     "X AWS/5 - Redes e entrega de conteúdo.md",
     "X AWS/6 - Computação.md",
-    "X AWS/7 - Armazenamento.md",
-    "X AWS/2 - Economia e faturamento da nuvem.md",
-    "X AWS/1 - Visão geral dos conceitos de nuvem.md",
-    "_USCS/CLOUD/01.md",
-    "_USCS/CLOUD/D2 - 4 Compartilhar Imagens Docker.md",
     "_USCS/ETICA/Untitled",
     "X AWS/Media/Pasted image 20250311211608.png",
     "X AWS/Media",
