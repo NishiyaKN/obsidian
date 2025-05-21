@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAD/02 - 2.md",
+                "file": "EAD/Testes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - 2"
+              "title": "Testes"
             }
           }
         ]
@@ -168,8 +168,22 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
+    "EAD/03 - 4.md",
+    "EAD/03 - 3.md",
+    "EAD/03 - 2.md",
+    "EAD/03 - 1.md",
+    "EAD/Testes.md",
     "EAD/02 - 1.md",
+    "EAD/02 - 3.md",
+    "EAD/04 - 3.md",
+    "Pasted image 20250520220746.png",
+    "Pasted image 20250520220736.png",
+    "Pasted image 20250520220729.png",
+    "Pasted image 20250520220700.png",
+    "EAD/Media",
+    "EAD/Media/Pasted image 20250520220649.png",
     "EAD/02 - 2.md",
+    "EAD/01 - 4.md",
     "_USCS/SO/D2 - 2.md",
     "Prompt/Flashcards.md",
     "Prompt/Resumo Markdown.md",
@@ -177,14 +191,9 @@
     "_USCS/SO/D2 - 3.md",
     "_USCS/SO/01.md",
     "_USCS/SO/AF2 e outros forms.md",
-    "EAD/04 - 3.md",
     "EAD/04 - 1.md",
-    "EAD/03 - 4.md",
-    "EAD/03 - 1.md",
     "EAD/01 - 1.md",
     "EAD/01 - 3.md",
-    "EAD/01 - 4.md",
-    "EAD/02 - 3.md",
     "Linux Essentials.md",
     "EAD/01 - 2.md",
     "MISC/2025 exame óculos.md",
@@ -193,12 +202,9 @@
     "MISC/Hyakk.md",
     "MISC/Linux.md",
     "MISC/n1.md",
-    "MISC/React JS.md",
     "_USCS/VIRT/Media/Pasted image 20250401142353.png",
     "_USCS/VIRT/Media/Pasted image 20250317190437.png",
     "_USCS/VIRT/Media",
-    "MISC/Logic Rationale.md",
-    "CDB/Optimal.md",
     "Untitled.canvas",
     "CDB",
     "_USCS/ETICA/Untitled",
@@ -206,7 +212,6 @@
     "X AWS/Media",
     "X AWS/3",
     "X AWS",
-    "_USCS/CLOUD",
-    "_USCS/CALC"
+    "_USCS/CLOUD"
   ]
 }
