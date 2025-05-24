@@ -3,6 +3,7 @@
 ![](Pasted%20image%2020250520220736.png)
 ![](Pasted%20image%2020250520220746.png)
 ^^^ Condições de negociação das organizações perante os organismos de financiamento
+![](Pasted%20image%2020250524124429.png)
 
 Pode-se dizer, que em nível mundial, a concepção de empreendedorismo como ‘arte’ ou ‘ciência’ começou a tomar corpo a partir dos anos 1970, quando nos Estados Unidos, mais precisamente na faculdade “Babson College” (Escola de Negócios norte-americana, pioneira no ensino de empreendedorismo, localizada em Massachusetts – www.babson.edu), professores e alunos foram estimulados a desenvolver projetos a pedido de grandes organizações com o intuito de aliar o conhecimento teórico adquirido em sala de aula à experiência prática ou vivência profissional, dando os primeiros passos no que viria a ser chamado de empreendedorismo com o sentido atual.
 
