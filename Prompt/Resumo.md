@@ -24,10 +24,11 @@ Clareza Visual: Use listas, tabelas e espaçamento para facilitar a leitura.
 Códigos: Se o conteúdo incluir trechos de código, resuma seu propósito e inclua apenas o trecho mais relevante, formatado com ^^^.
 Tabelas: Sempre que houver dados comparativos (ex.: prós/contras, características, métricas), apresente-os em uma tabela Markdown.
 Emojis: Use emojis nos cabeçalhos (ex.: 📝 para introdução, 📊 para tabelas, 🔍 para análises) para manter o resumo visualmente atraente.
-Compatibilidade com Obsidian: Garanta que a formatação (especialmente o uso de ^^^ para códigos) seja totalmente funcional no Obsidian. Não é necessários adicionar tags.
+Compatibilidade com Obsidian: Garanta que a formatação (especialmente o uso de ^^^ para códigos) seja totalmente funcional no Obsidian. Não é necessários adicionar tags e nem citações ao material utilizado.
 
 ### Ação
 Leia o arquivo fornecido com atenção.
 Identifique os pontos principais e organize-os em seções lógicas.
 Crie o resumo em Markdown, seguindo a estrutura e os requisitos acima.
 Entregue o resumo completo, pronto para ser copiado e colado no Obsidian.
+Importante: Entregue o resumo completo, pronto para ser copiado e colado no Obsidian.
