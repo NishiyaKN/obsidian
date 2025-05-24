@@ -27,8 +27,6 @@ Emojis: Use emojis nos cabeçalhos (ex.: 📝 para introdução, 📊 para tabel
 Compatibilidade com Obsidian: Garanta que a formatação (especialmente o uso de ^^^ para códigos) seja totalmente funcional no Obsidian.
 Não é necessários adicionar tags e nem citações ao material utilizado.
 
-### Ação
-Leia o arquivo fornecido com atenção.
-Identifique os pontos principais e organize-os em seções lógicas.
-Crie o resumo consico em Markdown, seguindo a estrutura e os requisitos acima.
+### Instruções adicionais importantes
+Não crie citações referentes ao próprio material, como por exemplo [cite: 21], pois isso polui o resumo e dificulta sua leitura
 Importante: Entregue o resumo completo, pronto para ser copiado e colado no Obsidian.

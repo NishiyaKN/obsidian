@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/Resuminho.md",
+                "file": "_USCS/VIRT/04 - Containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resuminho"
+              "title": "04 - Containers"
             }
           }
         ]
@@ -168,10 +168,11 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
-    "Prompt/Resumo.md",
-    "_USCS/VIRT/04 - Containers.md",
     "_USCS/VIRT/01.md",
+    "Prompt/Resuminho Gemini.md",
+    "_USCS/VIRT/04 - Containers.md",
     "Prompt/Resuminho.md",
+    "Prompt/Resumo.md",
     "_USCS/VIRT/D1.md",
     "_USCS/CLOUD/D1 - 1 Fundamentos.md",
     "Prompt/Flashcards.md",
@@ -202,7 +203,6 @@
     "_USCS/SO/D3 - 1.md",
     "_USCS/SO/D2 - 3.md",
     "_USCS/SO/01.md",
-    "_USCS/SO/AF2 e outros forms.md",
     "EAD",
     "Prompt",
     "_USCS/VIRT/Media/Pasted image 20250401142353.png",
