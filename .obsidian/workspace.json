@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAD/Testes.md",
+                "file": "EAD/04 - 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testes"
+              "title": "04 - 2"
             }
           }
         ]
@@ -168,14 +168,16 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
-    "EAD/03 - 4.md",
+    "EAD/04 - 3.md",
+    "EAD/04 - 2.md",
+    "EAD/04 - 1.md",
     "EAD/03 - 3.md",
+    "EAD/03 - 4.md",
     "EAD/03 - 2.md",
-    "EAD/03 - 1.md",
     "EAD/Testes.md",
+    "EAD/03 - 1.md",
     "EAD/02 - 1.md",
     "EAD/02 - 3.md",
-    "EAD/04 - 3.md",
     "Pasted image 20250520220746.png",
     "Pasted image 20250520220736.png",
     "Pasted image 20250520220729.png",
@@ -191,7 +193,6 @@
     "_USCS/SO/D2 - 3.md",
     "_USCS/SO/01.md",
     "_USCS/SO/AF2 e outros forms.md",
-    "EAD/04 - 1.md",
     "EAD/01 - 1.md",
     "EAD/01 - 3.md",
     "Linux Essentials.md",
@@ -201,7 +202,6 @@
     "Prompt",
     "MISC/Hyakk.md",
     "MISC/Linux.md",
-    "MISC/n1.md",
     "_USCS/VIRT/Media/Pasted image 20250401142353.png",
     "_USCS/VIRT/Media/Pasted image 20250317190437.png",
     "_USCS/VIRT/Media",
