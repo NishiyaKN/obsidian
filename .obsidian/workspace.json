@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/Resumo DeepSeek.md",
+                "file": "_USCS/SO/D4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumo DeepSeek"
+              "title": "D4"
             }
           }
         ]
@@ -168,19 +168,20 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
-    "_USCS/SO/D3 - 2.md",
-    "_USCS/SO/G3 -2.md",
     "Prompt/Resumo DeepSeek.md",
+    "_USCS/SO/D4.md",
     "Prompt/Resuminho Gemini.md",
-    "Prompt/Resumo.md",
+    "_USCS/SO/G3 -2.md",
+    "Prompt/Flashcards.md",
     "Prompt/Resuminho.md",
+    "_USCS/SO/D3 - 2.md",
+    "Prompt/Resumo.md",
     "_USCS/SO/FreeBSD.md",
     "_USCS/SO/D3 - 1.md",
     "_USCS/VIRT/04 - Containers.md",
     "_USCS/VIRT/01.md",
     "_USCS/VIRT/D1.md",
     "_USCS/CLOUD/D1 - 1 Fundamentos.md",
-    "Prompt/Flashcards.md",
     "_USCS/ETICA/0D.md",
     "_USCS/ETICA/0G.md",
     "EAD/Media/Pasted image 20250520220700.png",
@@ -196,7 +197,6 @@
     "EAD/03 - 4.md",
     "EAD/04 - 2.md",
     "EAD/04 - 3.md",
-    "EAD/04 - 1.md",
     "EAD/Media/Pasted image 20250524121358.png",
     "EAD/Media/Pasted image 20250524121139.png",
     "EAD/Media/Pasted image 20250520220746.png",
