@@ -58,4 +58,7 @@
 - Edit files inside the environment in real time 
 - Access via the browser
 ### Google Cloud APIs
+- API's to control the Google Cloud
 ### The Cloud Console Mobile App
+- App to manage Google Cloud services
+- Free
