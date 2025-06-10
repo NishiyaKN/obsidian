@@ -57,6 +57,5 @@
 ##### Cloud Shell code editor
 - Edit files inside the environment in real time 
 - Access via the browser
-### LAB - Gettin Started with Cloud Shell and gcloud
 ### Google Cloud APIs
 ### The Cloud Console Mobile App
