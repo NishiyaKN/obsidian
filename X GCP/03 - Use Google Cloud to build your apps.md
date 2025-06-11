@@ -52,4 +52,8 @@ Step 1 triggers the code for the other 3
 - Billet to the nearest 100 milliseconds, only when code is running
 - Supports JS, Python or Go inside a Node.js environment
 ### Containerizing and Orchestrating Apps with GKE
+- Hybrid:
+	- Manageable infraestructure like Compute Engine
+	- Developer orientation like the App Engine
+- 
 ### Managed serverless computing with Cloud Run
