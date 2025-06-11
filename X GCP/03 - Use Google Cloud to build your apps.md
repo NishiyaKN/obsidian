@@ -52,8 +52,26 @@ Step 1 triggers the code for the other 3
 - Billet to the nearest 100 milliseconds, only when code is running
 - Supports JS, Python or Go inside a Node.js environment
 ### Containerizing and Orchestrating Apps with GKE
+Managed environment for deploying containerized apps
 - Hybrid:
 	- Manageable infraestructure like Compute Engine
-	- Developer orientation like the App Engine
-- 
+	- Developer orientation and scalability like the App Engine
+- Limited access to the file system and hardware 
+- Quick to boot
+- All that is needed is a OS that supports containers
+- Scale a webserver, for example, by multiplying the container, in seconds
+- Scale with multiple containers (microservices)
 ### Managed serverless computing with Cloud Run
+- Stateless containers by using web request ou pubsub events 
+- Built on Knative (Kubernetes, can move the workload to different platforms)
+- Almost instantaneous scaling
+- Charges for the resources used while handling requests, booting and shutdown only.
+- SSL (HTTPS) is auto managed
+- Workflow:
+	1. Code an app with a server that listens to web requests
+	2. Build the image
+	3. Deploy the container to Cloud Run
+- Source-based workflow:
+	1. Code the app
+	2. Deploy the source code
+	3. Container is auto generated

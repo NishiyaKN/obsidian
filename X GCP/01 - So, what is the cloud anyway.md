@@ -23,22 +23,22 @@ Has these 5 characteristics:
 - Deliver products and services more quickly and reliably
 **Serverless:** 
 - Allows developer to concentrate on code
-- No infraestructure management needed
+- No infraestructure management needed[03 - Use Google Cloud to build your apps](03%20-%20Use%20Google%20Cloud%20to%20build%20your%20apps.md)
 ### Google Cloud architecture
 ![](Pasted%20image%2020250609103715.png)
-**Computing services**:
+###### Computing services
 - Compute Engine
 - Google Kubernetes Engine
 - App Engine
 - Cloud Run
 - Cloud Run functions
-**Storage services:**
+###### Storage services
 - Cloud Storage
 - Cloud SQL (SQL)
 - Spanner (SQL)
 - Bigtable (NoSQL)
 - Firestore (NoSQL)
-**Big Data and ML:**
+###### Big Data and ML
 - Cloud Storage
 - Dataproc
 - Bigtable
@@ -50,7 +50,6 @@ Has these 5 characteristics:
 - Spanner
 - AutoML
 - Vertex AI
-
-**Google Network Infaestructure**
+###### Google Network Infaestructure
 **Regions**: independent geographical area, composed by zones, services can run in multiple regions (40+)
 **Zone**: area where google cloud resources are deployed, can have redudancy with other zones or not (121+)
