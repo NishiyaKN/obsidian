@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X GCP/03 - Use Google Cloud to build your apps.md",
+                "file": "X GCP/gcloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Use Google Cloud to build your apps"
+              "title": "gcloud"
             }
           }
         ]
@@ -168,9 +168,10 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
+    "X GCP/03 - Use Google Cloud to build your apps.md",
+    "X GCP/gcloud.md",
     "X GCP/01 - So, what is the cloud anyway.md",
     "X GCP/02 - Start with a solid platform.md",
-    "X GCP/03 - Use Google Cloud to build your apps.md",
     "X GCP/Media/Pasted image 20250609105830.png",
     "X GCP/Media/Pasted image 20250610201539.png",
     "Untitled.md",
