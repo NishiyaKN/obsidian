@@ -17,6 +17,13 @@
 `gcloud compute ssh gcelab2 --zone=europe-west1-b` - ssh to VM
 `gcloud compute instances list` - list VMs
 `gcloud compute instances list --filter="name=('gcelab2')"` VM by name
+###### Cloud Storage
+`gcloud storage buckets create gs://<YOUR-BUCKET-NAME>` create a bucket
+`gcloud storage cp ada.jpg gs://YOUR-BUCKET-NAME` copy local file to bucket
+`gcloud storage ls gs://YOUR-BUCKET-NAME` ls the bucket
+`gsutil acl ch -u AllUsers:R gs://YOUR-BUCKET-NAME/ada.jpg` make the file accessible to all
+`gsutil acl ch -d AllUsers gs://YOUR-BUCKET-NAME/ada.jpg` remove access to all
+###### Firewall
 `gcloud compute firewall-rules list` - list firewall
 `gcloud compute firewall-rules create fw-be \
     --allow tcp:8081-8082 \
