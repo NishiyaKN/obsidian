@@ -18,3 +18,7 @@
 `gcloud compute instances list` - list VMs
 `gcloud compute instances list --filter="name=('gcelab2')"` VM by name
 `gcloud compute firewall-rules list` - list firewall
+`gcloud compute firewall-rules create fw-be \
+    --allow tcp:8081-8082 \
+    --target-tags=backend`
+	
