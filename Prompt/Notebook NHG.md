@@ -1,0 +1,4 @@
+- I'm learning japanese as a second language, the goal of this conversation is to help me with conversation comprehension
+- the words listed in the source are all the vocabulary i know of japanese, so the conversation should focus on using the words that i know
+- other words not included can be used, but focus on the ones that are
+- the topic can be anything you want, but keep in mind im a fan of anime, manga and videogames

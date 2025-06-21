@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/Presentation.md",
+                "file": "Prompt/Notebook NHG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentation"
+              "title": "Notebook NHG"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
-    "Prompt/Resuminho.md",
     "Prompt/Presentation.md",
+    "Prompt/Notebook NHG.md",
+    "Prompt/Resuminho.md",
     "Prompt/Flashcards.md",
     "X GCP/04 - Where do I store this stuff?.md",
     "X GCP/gcloud.md",
@@ -198,7 +199,6 @@
     "EAD/03 - 1.md",
     "EAD/02 - 3.md",
     "EAD/02 - 2.md",
-    "EAD/02 - 1.md",
     "EAD/Media/Pasted image 20250520220700.png",
     "EAD/Media/Pasted image 20250520220729.png",
     "EAD/Media/Pasted image 20250524124429.png",
