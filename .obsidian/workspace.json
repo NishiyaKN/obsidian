@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/Notebook NHG.md",
+                "file": "_USCS/CLOUD/D1 - 1 Fundamentos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notebook NHG"
+              "title": "D1 - 1 Fundamentos"
             }
           }
         ]
@@ -166,10 +166,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d53e44ffdeea8743",
+  "active": "a83c32916dc19d5d",
   "lastOpenFiles": [
-    "Prompt/Presentation.md",
+    "_USCS/CLOUD/D1 - 2 AWS.md",
+    "_USCS/CLOUD/D1 - 1 Fundamentos.md",
+    "_USCS/CLOUD/01.md",
+    "Untitled.md",
     "Prompt/Notebook NHG.md",
+    "Prompt/Presentation.md",
     "Prompt/Resuminho.md",
     "Prompt/Flashcards.md",
     "X GCP/04 - Where do I store this stuff?.md",
@@ -179,7 +183,6 @@
     "X GCP/02 - Start with a solid platform.md",
     "X GCP/Media/Pasted image 20250609105830.png",
     "X GCP/Media/Pasted image 20250610201539.png",
-    "Untitled.md",
     "X GCP/Media",
     "X GCP/Media/Pasted image 20250609103715.png",
     "X GCP/10.md",
@@ -196,9 +199,6 @@
     "EAD/03 - 4.md",
     "EAD/03 - 3.md",
     "EAD/03 - 2.md",
-    "EAD/03 - 1.md",
-    "EAD/02 - 3.md",
-    "EAD/02 - 2.md",
     "EAD/Media/Pasted image 20250520220700.png",
     "EAD/Media/Pasted image 20250520220729.png",
     "EAD/Media/Pasted image 20250524124429.png",
