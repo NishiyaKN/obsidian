@@ -85,6 +85,21 @@ Relational Database Management Systems
 - Managed backups (cost of 1 instance includes 7 backups)
 - Includes a network firewall
 ### Spanner as a managed service
-### NoSQL managed services options
+- Scales horizontally (add and removes servers)
+- Uses SQL (with joins and secondary indexes)
+- Used for advertising, finance and marketing (manage end-user metadata
+- High number of IO operations 
+- Automatic replication across regions
 ### Firestore, a NoSQL document store
+- Scales horizontally
+- Document structure
+- Used for mobile, web and server development
+- Indexed by default
+- App can manage data even offline, when it becomes online it synchronizes the changes
+- Automatic replication across regions
 ### Bigtable as a NoSQL option
+- Big data analysis
+- Used in IoT, user analytics and financial data analysis
+- Used if working with more than 1 TB of semi-structured or structured data
+- Used with high throughput or rapidly changing data
+- Used for machine learning algorithms on the data

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_USCS/CLOUD/D1 - 1 Fundamentos.md",
+                "file": "X GCP/05 - There's an API for that!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D1 - 1 Fundamentos"
+              "title": "05 - There's an API for that!"
             }
           }
         ]
@@ -166,21 +166,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a83c32916dc19d5d",
+  "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
-    "_USCS/CLOUD/D1 - 2 AWS.md",
+    "X GCP/04 - Where do I store this stuff?.md",
+    "X GCP/05 - There's an API for that!.md",
+    "X GCP/06 - You can't secure the cloud, right?.md",
+    "X GCP/07.md",
+    "X AWS/8 - Banco de dados.md",
+    "X AWS/7 - Armazenamento.md",
+    "X AWS/6 - Computação.md",
+    "X AWS/4 - Segurança na nuvem AWS.md",
+    "X AWS/2 - Economia e faturamento da nuvem.md",
+    "X GCP/03 - Use Google Cloud to build your apps.md",
+    "X GCP/02 - Start with a solid platform.md",
+    "X GCP/01 - So, what is the cloud anyway.md",
     "_USCS/CLOUD/D1 - 1 Fundamentos.md",
+    "_USCS/CLOUD/D1 - 2 AWS.md",
     "_USCS/CLOUD/01.md",
     "Untitled.md",
     "Prompt/Notebook NHG.md",
     "Prompt/Presentation.md",
     "Prompt/Resuminho.md",
     "Prompt/Flashcards.md",
-    "X GCP/04 - Where do I store this stuff?.md",
     "X GCP/gcloud.md",
-    "X GCP/03 - Use Google Cloud to build your apps.md",
-    "X GCP/01 - So, what is the cloud anyway.md",
-    "X GCP/02 - Start with a solid platform.md",
     "X GCP/Media/Pasted image 20250609105830.png",
     "X GCP/Media/Pasted image 20250610201539.png",
     "X GCP/Media",
@@ -188,17 +196,9 @@
     "X GCP/10.md",
     "X GCP/09.md",
     "X GCP/08.md",
-    "X GCP/07.md",
-    "X GCP/06.md",
-    "X GCP/05.md",
     "EAD/Testes.md",
     "X GCP",
     "EAD/04 - 3.md",
-    "EAD/04 - 2.md",
-    "EAD/04 - 1.md",
-    "EAD/03 - 4.md",
-    "EAD/03 - 3.md",
-    "EAD/03 - 2.md",
     "EAD/Media/Pasted image 20250520220700.png",
     "EAD/Media/Pasted image 20250520220729.png",
     "EAD/Media/Pasted image 20250524124429.png",
