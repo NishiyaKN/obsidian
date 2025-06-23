@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X GCP/05 - There's an API for that!.md",
+                "file": "X GCP/06 - You can't secure the cloud, right?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - There's an API for that!"
+              "title": "06 - You can't secure the cloud, right?"
             }
           }
         ]
@@ -168,9 +168,9 @@
   },
   "active": "d53e44ffdeea8743",
   "lastOpenFiles": [
-    "X GCP/06 - You can't secure the cloud, right?.md",
-    "X GCP/01 - So, what is the cloud anyway.md",
     "X GCP/05 - There's an API for that!.md",
+    "X GCP/01 - So, what is the cloud anyway.md",
+    "X GCP/06 - You can't secure the cloud, right?.md",
     "X GCP/04 - Where do I store this stuff?.md",
     "X GCP/07.md",
     "X AWS/8 - Banco de dados.md",
