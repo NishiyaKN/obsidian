@@ -19,10 +19,8 @@
 - According to the Linux Foundation, ==RPM== is the standard package management system
 - RPM is used by RHEL, SUSE, Arch, etc.
 - Yumex, Gnome PackageKit -> GUI for rpm management
-
 ### Security
 - Linux sysadmins will usually disable root access
-
 ### License
 **Copyleft Licenses**:  Any derivative software must be released under the same license terms, preserving the open sourceness
 - **GPLv2** - Used by the Linux kernel. If you modify the kernel, you must share the modifications.
@@ -30,7 +28,3 @@
 
 **Permissive Licenses**: Very few restrictions, allow for redistributing under other licenses, including closed source licenses
 - **MIT, BSD, Apache 2.0**
-
-
-
-
