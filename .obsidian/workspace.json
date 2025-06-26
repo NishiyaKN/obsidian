@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f15351f9e1ffbf10",
+        "id": "f574c0cc9a4ad8b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d53e44ffdeea8743",
+            "id": "bbdc2017b9be9f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,7 +166,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d53e44ffdeea8743",
+  "active": "bbdc2017b9be9f31",
   "lastOpenFiles": [
     "X Linux/Linux Essentials.md",
     "X Linux/05 - CMD.md",
