@@ -40,6 +40,6 @@
 ### IAP - Identity-Aware Proxy
 - Used to set up auth to https-based apps without the use of a VPN
 - Layer of protection between the outside world and an internal service
-- 
+- Does not protect inside a VM or project
 ### IAM authorization best practices
 
