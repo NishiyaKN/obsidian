@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X Linux/05 - CMD.md",
+                "file": "X GCP/06 - You can't secure the cloud, right?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - CMD"
+              "title": "06 - You can't secure the cloud, right?"
             }
           }
         ]
@@ -166,10 +166,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bbdc2017b9be9f31",
+  "active": "a83c32916dc19d5d",
   "lastOpenFiles": [
-    "X Linux/Linux Essentials.md",
+    "X GCP/Media/Pasted image 20250701133336.png",
     "X Linux/05 - CMD.md",
+    "X Linux/Linux Essentials.md",
     "Intern.md",
     "MISC/Linux.md",
     "X Linux",
@@ -198,7 +199,6 @@
     "X GCP/Media/Pasted image 20250610201539.png",
     "X GCP/Media",
     "X GCP/Media/Pasted image 20250609103715.png",
-    "X GCP/10.md",
     "X GCP",
     "EAD/Media/Pasted image 20250520220700.png",
     "EAD/Media/Pasted image 20250520220729.png",
