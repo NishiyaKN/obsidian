@@ -29,4 +29,9 @@
 - Substitutes commands
 	- `echo today is`\``date`\`
 	- Basically like `echo today is $(date)`
-	
+### Navigation / files
+`cd ~bob` goes to the home dir of user bob
+`ls -R` lists all files recursively
+`ls -S` sorts by biggest size 
+`ls -t` sorts by last modified
+`ls --full-time` shows in `-l` format with full timestamp
