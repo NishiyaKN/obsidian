@@ -42,4 +42,7 @@
 - Layer of protection between the outside world and an internal service
 - Does not protect inside a VM or project
 ### IAM authorization best practices
-
+- Grant roles to groups instead of individuals
+	- Easier to update group membership than changing IAM policies individualy
+- Use sub-groups if needed
+- 

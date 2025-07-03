@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X Linux/05 - CMD.md",
+                "file": "X GCP/06 - You can't secure the cloud, right?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - CMD"
+              "title": "06 - You can't secure the cloud, right?"
             }
           }
         ]
@@ -168,9 +168,9 @@
   },
   "active": "bbdc2017b9be9f31",
   "lastOpenFiles": [
+    "X Linux/05 - CMD.md",
     "X GCP/06 - You can't secure the cloud, right?.md",
     "X GCP/Media/Pasted image 20250701133336.png",
-    "X Linux/05 - CMD.md",
     "X Linux/Linux Essentials.md",
     "Intern.md",
     "MISC/Linux.md",
