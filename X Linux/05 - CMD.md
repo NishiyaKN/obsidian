@@ -35,3 +35,14 @@
 `ls -S` sorts by biggest size 
 `ls -t` sorts by last modified
 `ls --full-time` shows in `-l` format with full timestamp
+### Regex
+`echo *` shows all files in the directory
+`ls [aD]*` shows all files that start with a or D
+`ls [!a-c]*` shows all files that don't start with a,b or c
+`ls D*` shows all files inside all folders that starts with D
+`ls -d D*` shows all files and folders that starts with D (does not do it recursively)
+### cp/mv
+`cp/mv -i source dest` asks before overwriting file `dest`
+`cp/mv -n source dest` does not overwrite file `dest`
+`cp/mv -p` preserve file attributes, such as timestamp
+note: `rm -i file` asks before deleting
