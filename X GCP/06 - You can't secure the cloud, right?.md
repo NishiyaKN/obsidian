@@ -45,4 +45,3 @@
 - Grant roles to groups instead of individuals
 	- Easier to update group membership than changing IAM policies individualy
 - Use sub-groups if needed
-- 
