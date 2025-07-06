@@ -25,3 +25,12 @@ Best used for large volumes of unstructured data and highly complex tasks
 ##### Advanced Deep Learning
 - **Generative Models**: generate new data similar to input data
 - **Transformer Architecture**: Consisting of encoders and decoders, used for language translation and code generation
+### Categories of AI
+##### Discriminative (Predictive) Model
+- Identifies boundaries within data
+- Recognize patterns
+- Ex: Classify a cat or dog photo
+##### Generative Model
+- Create something new
+- Replicate data
+- 
