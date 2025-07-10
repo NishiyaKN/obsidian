@@ -12,7 +12,7 @@
 - AI learns from interections and feedback
 - Playing videogames, robotics, etc
 ## Machine Learning Approaches
-##### Traditiona Machine Learning
+##### Traditional Machine Learning
 Best used for structured data
 - **Decision Trees**: Flowchart decision structures (if/else)
 - **Regression Algorithms**: Used to predict numerical values through relationships between variables
@@ -33,4 +33,3 @@ Best used for large volumes of unstructured data and highly complex tasks
 ##### Generative Model
 - Create something new
 - Replicate data
-- 
