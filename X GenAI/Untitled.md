@@ -7,4 +7,11 @@
 ##### Regression
 - Try to predict a numeric value based on another, continuous, value
 - Ex: predict the stock price for a company
-### Machine Learning Pipeline
+### Model Fit
+##### Overfitting
+- Model performs well on training data, but poorly on evaluation data
+- Learns the particulars of the data set too well
+- Basically memorizing the training data, not learning
+##### Underfitting
+- Model performs pooly on training data
+- Don't capture the relationship between the input examples and target values
