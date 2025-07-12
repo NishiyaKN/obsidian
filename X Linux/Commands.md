@@ -52,4 +52,22 @@ note: `rm -i file` asks before deleting
 `gunzip file.txt.gz` unzips the file
 `gzip -d file.txt.gz` same as above
 ### Archiving files
-`tar -c archive_name.tar file1 file2 file3` creates a tar archive with 3 files
+**`-f` flag always  needs to be in the end, right before the archive name**
+
+`tar -cf archive_name.tar file1 file2` creates a tar archive with 2 files
+`tar -czf archive_name.tar.gz file1 file2` creates a tar archive with 2 files that are compressed
+`tar -cjf archive_name.tbz file1 file2` creates a tar archive with 2 files that are compressed (using bzip2)
+
+`tar -tzf archive_name.tar.gz` list contents from a tarball with gzip compression
+`tar -tjf archive_name.tbz` list contents from a tarball with bzip2 compression
+
+`tar -rf archive.tar file` adds a file to an already existing tarball (can't do for compressed tarballs)
+
+`tar -xf archive_name.tar.gz` extracts the files 
+`tar -xf archive_name.tar.gz folder/subfolder/file.txt` extracts the specified file only
+
+`zip -r zipfile.zip folder` compresses and archives a folder recursively
+`unzip -l zipfile.zip` lists files inside a zipfile
+`unzip zipfile.zip` extracts all the files
+`unzip zipfile.zip file.txt` extracts the specified file
+### Text viz
