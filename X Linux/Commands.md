@@ -70,4 +70,15 @@ note: `rm -i file` asks before deleting
 `unzip -l zipfile.zip` lists files inside a zipfile
 `unzip zipfile.zip` extracts all the files
 `unzip zipfile.zip file.txt` extracts the specified file
-### Text viz
+### Text visualization
+`head file.txt` shows first 10 lines
+`tail file.txt`shows last 10 lines
+
+`head -5 file.txt` shows first 5 lines
+`tail -5 file.txt` shows last 5 lines
+
+`head -n 5 file.txt` shows first 5 lines
+`tail -n 5 file.txt` shows last 5 lines
+
+`head -n -5 file.txt` shows **everything but the last** 5 lines (doesn't work with tail)
+`tail -n +25` shows last lines starting from the 25th line (doesnt' work with head)
