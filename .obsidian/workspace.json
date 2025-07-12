@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X GenAI/Untitled.md",
+                "file": "X Linux/Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Commands"
             }
           }
         ]
@@ -168,29 +168,29 @@
   },
   "active": "bbdc2017b9be9f31",
   "lastOpenFiles": [
-    "X GenAI/AI Basics.md",
+    "X Linux/Linux Essentials.md",
+    "X Linux/Commands.md",
+    "X GCP/07 - Networking.md",
+    "X GCP/06 - Security.md",
+    "X GCP/05 - API.md",
+    "X GCP/03 - Compute.md",
+    "X GCP/04 - Storage.md",
+    "X GCP/02 - GCP.md",
+    "X GCP/01 - Introduction.md",
     "X GenAI/Untitled.md",
-    "X GCP/06 - You can't secure the cloud, right?.md",
+    "X GenAI/AI Basics.md",
     "X GenAI",
     "X AWS/Untitled.md",
-    "X Linux/05 - CMD.md",
     "X GCP/Media/Pasted image 20250701133336.png",
-    "X Linux/Linux Essentials.md",
     "Intern.md",
     "MISC/Linux.md",
     "X Linux",
     "Untitled 1.md",
-    "X GCP/05 - There's an API for that!.md",
-    "X GCP/01 - So, what is the cloud anyway.md",
-    "X GCP/04 - Where do I store this stuff?.md",
-    "X GCP/07.md",
     "X AWS/8 - Banco de dados.md",
     "X AWS/7 - Armazenamento.md",
     "X AWS/6 - Computação.md",
     "X AWS/4 - Segurança na nuvem AWS.md",
     "X AWS/2 - Economia e faturamento da nuvem.md",
-    "X GCP/03 - Use Google Cloud to build your apps.md",
-    "X GCP/02 - Start with a solid platform.md",
     "_USCS/CLOUD/D1 - 1 Fundamentos.md",
     "_USCS/CLOUD/D1 - 2 AWS.md",
     "_USCS/CLOUD/01.md",

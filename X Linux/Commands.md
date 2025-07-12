@@ -46,3 +46,10 @@
 `cp/mv -n source dest` does not overwrite file `dest`
 `cp/mv -p` preserve file attributes, such as timestamp
 note: `rm -i file` asks before deleting
+### Compressing files
+`gzip file.txt` compresses to `file.txt.gz`
+`gzip -l file.txt.gz` shows compression info
+`gunzip file.txt.gz` unzips the file
+`gzip -d file.txt.gz` same as above
+### Archiving files
+`tar -c archive_name.tar file1 file2 file3` creates a tar archive with 3 files

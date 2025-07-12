@@ -23,7 +23,7 @@ Has these 5 characteristics:
 - Deliver products and services more quickly and reliably
 **Serverless:** 
 - Allows developer to concentrate on code
-- No infraestructure management needed[03 - Use Google Cloud to build your apps](03%20-%20Use%20Google%20Cloud%20to%20build%20your%20apps.md)
+- No infraestructure management needed[03 - Compute](03%20-%20Compute.md)
 ### Google Cloud architecture
 ![](Pasted%20image%2020250609103715.png)
 ###### Computing services

@@ -25,6 +25,6 @@
 **Copyleft Licenses**:  Any derivative software must be released under the same license terms, preserving the open sourceness
 - **GPLv2** - Used by the Linux kernel. If you modify the kernel, you must share the modifications.
 - **GPLv3** - Created by RS to avoid tivoization. You can't use proprietary hardware that blocks the usage of modified software. Prohibits DRM
-
 **Permissive Licenses**: Very few restrictions, allow for redistributing under other licenses, including closed source licenses
 - **MIT, BSD, Apache 2.0**
+### Compressing and archiving
