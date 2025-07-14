@@ -36,22 +36,22 @@
 			- 0.234 = human
 			- -1.876 = female
 			- 0.765 = curious
-### Encoders and Decoders
+# Encoders and Decoders
 Uses layers of self-attention mechanisms in order to understand the input and generate an output
-##### Encoders
+### Encoders
 - Process and understands the input
 - Converts words into embeddings
-##### Decoders
+### Decoders
 - Generates text based on the encoder's output (and the previous generated text)
 -  Converts embeddings new text
-- Some models may use only decoders, no encod
+- Some models may use only decoder, no encoder
 ##### Decoding Strategies
 - **Greedy Decoding:** picks the most likely word at each step, may lead to suboptimal sequences
 - **Beam Search:** tries different possible sequences, explores a tree of possibilities and chooses the best
 - **Top-k Sampling :** randomly picks the next word from the top-k most likely candidates, more creative and diverse, less deterministic
 - **Top-p Sampling :** same as above, but instead of just the top most likely, picks any of the candidates that pass a threshold of probability
 ### Temperature
-- A **hyperparameter** (setting for when a model runs) that can affect decoding
+- A **hyperparameter** that can affect decoding
 - Control the randomness of token prediction
 - Higher temperature = more randomness
 - Lower temperature = more confident predictions
