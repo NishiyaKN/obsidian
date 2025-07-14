@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PY/virtualenv.md",
+                "file": "X GenAI/LLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "virtualenv"
+              "title": "LLM"
             }
           }
         ]
@@ -168,6 +168,12 @@
   },
   "active": "bbdc2017b9be9f31",
   "lastOpenFiles": [
+    "X GenAI/Untitled.md",
+    "X GenAI/LLM.md",
+    "X Linux/Linux Essentials.md",
+    "X Linux/Commands.md",
+    "1 PY.md",
+    "PY/virtualenv.md",
     "PY/Strings.md",
     "PY/Pandas.md",
     "PY/OOP.md",
@@ -175,9 +181,7 @@
     "PY/Listas.md",
     "PY/Geradores e closure.md",
     "PY/Exception.md",
-    "X Linux/Commands.md",
     "Untitled.md",
-    "X Linux/Linux Essentials.md",
     "X GCP/07 - Networking.md",
     "X GCP/06 - Security.md",
     "X GCP/05 - API.md",
@@ -185,7 +189,6 @@
     "X GCP/04 - Storage.md",
     "X GCP/02 - GCP.md",
     "X GCP/01 - Introduction.md",
-    "X GenAI/Untitled.md",
     "X GenAI/AI Basics.md",
     "X GenAI",
     "X AWS/Untitled.md",
@@ -194,9 +197,6 @@
     "MISC/Linux.md",
     "X Linux",
     "Untitled 1.md",
-    "X AWS/8 - Banco de dados.md",
-    "X AWS/7 - Armazenamento.md",
-    "X AWS/6 - Computação.md",
     "X GCP/Media/Pasted image 20250609105830.png",
     "X GCP/Media/Pasted image 20250610201539.png",
     "X GCP/Media",
