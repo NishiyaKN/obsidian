@@ -78,5 +78,23 @@ Uses layers of self-attention mechanisms in order to understand the input and ge
 - Can be fine-tuned for downstream tasks (serve as a base for specilized models)
 - Ex: BERT, GPT-3, T5
 
+i like to listen to jpop songs, budget is about 50 usd
+i like to listen to edm
 
-I like to listen to hardstyle and hardtekk music while running, i have a budget of 50 usd, what should i buy
+
+
+Create an app that recommends headphones, earphones, earbuds or IEMs models based on the user's preference. 
+
+From the user's use case (ex: working out, commuting, music production, etc), infer which type of device (ex: headphone or IEM, wired or wireless) would fit the user's needs. Do not recommend any specific model yet. If no use case is specified, consider that the user needs a daily driver device.
+
+From the user's prefered music genres or general taste in music, infer which sound signature (warm, bright, bassy, netral, vocal centered, etc) fits the user's preference and search for a device that is tuned in such way. Give at most 3 recommendations. If no sound signature is defined, consider a V-shaped signature, which is the most common one.
+
+Take in consideration the price of the device, make sure it stays within the user's budget. If no budget is defined, present the user with options in low, medium and high price categories.
+
+App strutucture:
+- Input box for the user interaction
+- Output box for use case analysis
+- Output box for model recommendation
+- Input box for follow up conversation
+
+Your outputs should not be too detailed
