@@ -74,5 +74,9 @@ Uses layers of self-attention mechanisms in order to understand the input and ge
 - Encourages the model to show it's thought process
 ### Foundation Models
 - Pre-trained on extensive datasets
-- Can be fine-tuned for downstream tasks
-- 
+- Broad applicability, very generalized
+- Can be fine-tuned for downstream tasks (serve as a base for specilized models)
+- Ex: BERT, GPT-3, T5
+
+
+I like to listen to hardstyle and hardtekk music while running, i have a budget of 50 usd, what should i buy
