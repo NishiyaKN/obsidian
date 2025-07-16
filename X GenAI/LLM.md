@@ -55,3 +55,24 @@ Uses layers of self-attention mechanisms in order to understand the input and ge
 - Control the randomness of token prediction
 - Higher temperature = more randomness
 - Lower temperature = more confident predictions
+### Storing LLM's Knowledge
+- After trained, it's knowledge is stored in the parameters (connections between the nodes of the neural network)
+- **Knowledge** is encoded in numerical weights assigned to the connections within the neural network
+	- These weights are adjusted during training
+- Stored as a binary format (.bin or .h5)
+	- Contains the entire model, including its architecture and learned weights
+### Types of Prompts
+##### Zero-Shot Prompting
+- Provide a task without giving any examples of hwo the task should be performed.
+- Must be well-crafted and clear
+- LLM relay only in it's knowledge from training
+##### Few-Shot Prompting
+- Gives a few examples of the task along with the prompt
+- Basically a guide to the model
+##### Chain of Thought Prompting
+- Guides the model through a step-by-step reasoning
+- Encourages the model to show it's thought process
+### Foundation Models
+- Pre-trained on extensive datasets
+- Can be fine-tuned for downstream tasks
+- 
