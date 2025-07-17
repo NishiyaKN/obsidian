@@ -1,4 +1,8 @@
+## AI
+- Ability of machines to mimic the cognitive abilities of human intelligence
+- 
 ## Methods of Machine Learning
+
 ###### Supervised learning
 - Requires labeled data (with the correct answer)
 - Train the AI to get the correct answer for each new data

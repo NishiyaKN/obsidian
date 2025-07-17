@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X GenAI/LLM.md",
+                "file": "X GenAI/Oracle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM"
+              "title": "Oracle"
             }
           }
         ]
@@ -168,9 +168,11 @@
   },
   "active": "bbdc2017b9be9f31",
   "lastOpenFiles": [
-    "X GenAI/NLP.md",
+    "X GenAI/Model type and training.md",
+    "X GenAI/Oracle.md",
+    "X GenAI/AI Basics.md",
     "X GenAI/LLM.md",
-    "X GenAI/Untitled.md",
+    "X GenAI/NLP.md",
     "X Linux/Linux Essentials.md",
     "X Linux/Commands.md",
     "1 PY.md",
@@ -190,12 +192,10 @@
     "X GCP/04 - Storage.md",
     "X GCP/02 - GCP.md",
     "X GCP/01 - Introduction.md",
-    "X GenAI/AI Basics.md",
     "X GenAI",
     "X AWS/Untitled.md",
     "X GCP/Media/Pasted image 20250701133336.png",
     "Intern.md",
-    "MISC/Linux.md",
     "X Linux",
     "X GCP/Media/Pasted image 20250609105830.png",
     "X GCP/Media/Pasted image 20250610201539.png",
