@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X GenAI/2 - Machine Learning.md",
+                "file": "X GenAI/4 - ANN (Artificial Neural Network).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Machine Learning"
+              "title": "4 - ANN (Artificial Neural Network)"
             }
           }
         ]
@@ -168,13 +168,14 @@
   },
   "active": "bbdc2017b9be9f31",
   "lastOpenFiles": [
-    "X GenAI/1- AI Basics.md",
-    "X GenAI/2 - Machine Learning.md",
-    "X GenAI/Model type and training.md",
+    "X GenAI/3 - Deep Learning.md",
+    "X GenAI/4 - ANN (Artificial Neural Network).md",
     "X GenAI/LLM.md",
-    "X GenAI/Untitled.md",
+    "X GenAI/Model type and training.md",
     "X GenAI/NLP.md",
     "X GenAI/Oracle.md",
+    "X GenAI/1- AI Basics.md",
+    "X GenAI/2 - Machine Learning.md",
     "X Linux/Linux Essentials.md",
     "X Linux/Commands.md",
     "1 PY.md",
@@ -193,7 +194,6 @@
     "X GCP/03 - Compute.md",
     "X GCP/04 - Storage.md",
     "X GCP/02 - GCP.md",
-    "X GCP/01 - Introduction.md",
     "X GenAI",
     "X GCP/Media/Pasted image 20250701133336.png",
     "X Linux",
