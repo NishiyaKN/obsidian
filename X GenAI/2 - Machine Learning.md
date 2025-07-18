@@ -1,17 +1,21 @@
-## AI
-- Ability of machines to mimic the cognitive abilities of human intelligence
-- 
+- Systems that can learn and predict outcomes from given examples (data)
 ## Methods of Machine Learning
-
-###### Supervised learning
+### Supervised learning
+- **Used to classify data or make predictions**
 - Requires labeled data (with the correct answer)
 - Train the AI to get the correct answer for each new data
 - Classification of images, speech recognition, etc
-###### Unsupervised Learning
+##### Categorical Data - Classification
+- Predict a category or label
+##### Continuous Data - Regression
+- Predict a numeric output
+### Unsupervised Learning
+- **Extracts trends and relationships from data**
 - Works with unlabeled data
-- Finds patters or structures
+- Finds patters or structures, grouping similar data into clusters
 - Generation of songs, code, etc
-###### Reinforcement Learning
+### Reinforcement Learning
+- **Used to make decision or choices**
 - Trial and error (reward and penalty)
 - AI learns from interections and feedback
 - Playing videogames, robotics, etc
@@ -29,11 +33,3 @@ Best used for large volumes of unstructured data and highly complex tasks
 ##### Advanced Deep Learning
 - **Generative Models**: generate new data similar to input data
 - **Transformer Architecture**: Consisting of encoders and decoders, used for language translation and code generation
-### Categories of AI
-##### Discriminative (Predictive) Model
-- Identifies boundaries within data
-- Recognize patterns
-- Ex: Classify a cat or dog photo
-##### Generative Model
-- Create something new
-- Replicate data

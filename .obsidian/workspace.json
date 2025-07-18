@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X GenAI/Oracle.md",
+                "file": "X GenAI/2 - Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oracle"
+              "title": "2 - Machine Learning"
             }
           }
         ]
@@ -168,11 +168,13 @@
   },
   "active": "bbdc2017b9be9f31",
   "lastOpenFiles": [
+    "X GenAI/1- AI Basics.md",
     "X GenAI/Model type and training.md",
-    "X GenAI/Oracle.md",
-    "X GenAI/AI Basics.md",
+    "X GenAI/2 - Machine Learning.md",
+    "X GenAI/Untitled.md",
     "X GenAI/LLM.md",
     "X GenAI/NLP.md",
+    "X GenAI/Oracle.md",
     "X Linux/Linux Essentials.md",
     "X Linux/Commands.md",
     "1 PY.md",
@@ -193,9 +195,7 @@
     "X GCP/02 - GCP.md",
     "X GCP/01 - Introduction.md",
     "X GenAI",
-    "X AWS/Untitled.md",
     "X GCP/Media/Pasted image 20250701133336.png",
-    "Intern.md",
     "X Linux",
     "X GCP/Media/Pasted image 20250609105830.png",
     "X GCP/Media/Pasted image 20250610201539.png",
