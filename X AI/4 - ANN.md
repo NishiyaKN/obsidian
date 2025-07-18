@@ -1,0 +1,31 @@
+# Artificial Neural Networks
+- Inspired by the human brain
+- Consists of interconnected nodes called neurons
+- Each neuron process information
+- **Weights** are assigned to the connections between neurons
+	- If the sum of weights crosses a specified treshold, the neuron is fired
+## Building Blocks of ANN
+### Layers
+- **Input Layer**:
+- **Hidden Layer**:
+	- optional
+- **Output Layer**:
+### Neurons
+- Computational unit that accepts an input, processess it and gives an output
+### Weights
+- Determinees the strength of connection between neurons
+### Activation Function
+- Based on the sum of weights, produce an output
+### Bias
+- Additional input to a neuron that allows a certain degree of flexibility
+## ANNs training
+### Backpropagation algorithm
+1. Feed an input to the neural network
+2. Input travels throught the network, being processed by the neurons
+3. Neurons generate a prediction output
+4. Network compares it's predicion output with the correct output
+5. Network quantifies how wrong the prediction was
+6. The output is propagated backwards, each neuron gets an error signal
+7. Neurons with error signal calculate how much their parameters contributed to the error, and how they should change
+8. Neurons bias and weights are updated, parameters are optimized 
+9. This is 1 iteration for a single batch of data in a single epoch

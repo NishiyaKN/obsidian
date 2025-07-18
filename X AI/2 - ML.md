@@ -1,18 +1,18 @@
+# Machine Learning
 - Systems that can learn and predict outcomes from given examples (data)
 ## Methods of Machine Learning
 ### Supervised learning
 - **Used to classify data or make predictions**
-- Requires labeled data (with the correct answer)
+- Requires **labeled** data (with the correct answer)
 - Train the AI to get the correct answer for each new data
-- Classification of images, speech recognition, etc
-##### Categorical Data - Classification
+#### Classification - Categorical Data
 - **Predict a category or label**
-- Binary classification
-	- Logistic regression
-		- predicts if something is true or false
-		- uses sigmoid function to fill the data (S-shape)
-- Multi-class classification
-##### Continuous Data - Regression
+	- **Binary classification**
+		- Logistic regression
+			- predicts if something is true or false
+			- uses sigmoid function to fill the data (S-shape)
+	- **Multi-class classification**
+#### Regression - Continuous Data
 - **Predict a numeric output**
 - Linear regression (straigh-line relationship between n inputs to one single output)
 	- Algorithm learns the **mapping function**, which represents the trained model
