@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X GenAI/2 - Machine Learning.md",
+                "file": "X GenAI/1- AI Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Machine Learning"
+              "title": "1- AI Basics"
             }
           }
         ]
@@ -168,11 +168,11 @@
   },
   "active": "bbdc2017b9be9f31",
   "lastOpenFiles": [
+    "X GenAI/2 - Machine Learning.md",
     "X GenAI/1- AI Basics.md",
     "X GenAI/Model type and training.md",
-    "X GenAI/2 - Machine Learning.md",
-    "X GenAI/Untitled.md",
     "X GenAI/LLM.md",
+    "X GenAI/Untitled.md",
     "X GenAI/NLP.md",
     "X GenAI/Oracle.md",
     "X Linux/Linux Essentials.md",

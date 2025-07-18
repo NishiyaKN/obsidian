@@ -6,9 +6,17 @@
 - Train the AI to get the correct answer for each new data
 - Classification of images, speech recognition, etc
 ##### Categorical Data - Classification
-- Predict a category or label
+- **Predict a category or label**
+- Binary classification
+	- Logistic regression
+		- predicts if something is true or false
+		- uses sigmoid function to fill the data (S-shape)
+- Multi-class classification
 ##### Continuous Data - Regression
-- Predict a numeric output
+- **Predict a numeric output**
+- Algorithm learns the **mapping function**, which represents the trained model
+	- This function receives an input, and based on it's value, it calculates the result (output)
+	- The entire purpose of a regression model is to perfect this function
 ### Unsupervised Learning
 - **Extracts trends and relationships from data**
 - Works with unlabeled data

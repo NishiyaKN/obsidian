@@ -11,3 +11,9 @@
 - Create something new
 - Replicate data
 ## Neural Network
+
+## Data Distribution
+**Standard Normal Distribution (Z-distribution)**:
+	**Mean of 0:** average of 0, data is centered around zero
+	**Standard deviation of 1:** measures how dispersed the data points are from the mean (in this case typical distance is of 1 unit)
+	
