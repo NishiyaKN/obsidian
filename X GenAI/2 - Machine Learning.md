@@ -14,18 +14,20 @@
 - Multi-class classification
 ##### Continuous Data - Regression
 - **Predict a numeric output**
-- Algorithm learns the **mapping function**, which represents the trained model
-	- This function receives an input, and based on it's value, it calculates the result (output)
-	- The entire purpose of a regression model is to perfect this function
+- Linear regression (straigh-line relationship between n inputs to one single output)
+	- Algorithm learns the **mapping function**, which represents the trained model
+		- This function receives an input, and based on it's value, it calculates the result (output)
+		- The entire purpose of a regression model is to perfect this function
 ### Unsupervised Learning
 - **Extracts trends and relationships from data**
+- Main objective is to make the agent learn the **optimal policy** that will yield the most rewards
 - Works with unlabeled data
-- Finds patters or structures, grouping similar data into clusters
+- Finds patters or structures, grouping similar data into **clusters**
 - Generation of songs, code, etc
 ### Reinforcement Learning
 - **Used to make decision or choices**
 - Trial and error (reward and penalty)
-- AI learns from interections and feedback
+- AI learns from interections with the environment and feedback
 - Playing videogames, robotics, etc
 ## Machine Learning Approaches
 ##### Traditional Machine Learning
