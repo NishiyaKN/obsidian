@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 AI/4 - LLM.md",
+                "file": "600 AI/1- AI Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - LLM"
+              "title": "1- AI Basics"
             }
           }
         ],
@@ -184,20 +184,21 @@
   },
   "active": "503ab7aae20a04c0",
   "lastOpenFiles": [
-    "600 AI/3.2 Generative AI.md",
+    "600 AI/5 - Prompt Engineering.md",
+    "600 AI/4 - LLM.md",
     "600 AI/1- AI Basics.md",
     "600 AI/2 - ML.md",
+    "600 AI/3.1.6 - Transformers (wip).md",
+    "600 AI/3.1.5 - GAN (wip).md",
     "600 AI/3 - DL.md",
     "600 AI/3.1 - ANN.md",
-    "600 AI/4 - LLM.md",
-    "600 AI/3.1.6 - Transformers (wip).md",
-    "-board.canvas",
     "600 AI/3.1.3 - RNN.md",
     "600 AI/3.1.1 - FNN (wip).md",
-    "Intern.md",
     "600 AI/3.1.2 - CNN.md",
+    "600 AI/3.2 Generative AI.md",
+    "-board.canvas",
+    "Intern.md",
     "_USCS/Untitled.md",
-    "600 AI/3.1.5 - GAN (wip).md",
     "600 AI/3.1.4 - Autoencoders (wip).md",
     "600 AI/3.1.3.1 - LSTM.md",
     "600 AI/Model type and training.md",

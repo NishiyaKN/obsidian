@@ -2,6 +2,8 @@
 **AI:** Ability of machines to mimic the cognitive abilities of human intelligence
 **Machine Learning**: algorithms that enables machine to learn from and make predictions about data
 **Deep Learning:** agorithms that learn complex data using neural networks
+## Models
+
 ## Categories of AI
 ### Discriminative (Predictive) Model
 - Identifies boundaries within data

@@ -5,6 +5,12 @@
 - Trained on a lot of data
 - Based on transformer architecture (deep learning)
 	- Allows for effienct processing of text and adaptable attention
+## Base LLM
+- LLMs by itself are trained to predict the next word rather than to performe a task the user wants
+	- This base training gives the LLM a deep understanding of language, grammar, facts and reasoning patterns 
+	- If given a input, it will complete the input text rather than doing what the prompt says
+- To a LLM perform tasks, it needs instruction tuning, 
+	- Involves fine-tuning a LLM on a varied set of instructions, each paired with a desired output
 ## Model Creation Process
 1. **Data collection**: books, websites, articles, etc
 2. **Pre-processing**: cleaning data to train
@@ -47,13 +53,13 @@
 Uses layers of self-attention mechanisms in order to understand the input and generate an output
 ### Encoders
 - Process and understands the input tokens
-- Converts tokens into embeddings
-- Embeddings can be use to generate new tokens with encoders, or for text classification/search
+- Converts tokens into context-rich embeddings (whole sentence)
+- Used for semantic search
 ### Decoders
-- Generates text based on the encoder's output (and the previous generated text)
-	- Can be used without encoder, 
-- Converts embeddings new text (a single word at a time)
-- Some models may use only decoder, no encoder
+- Converts tokens into embeddings (can use embeddings from encoders for sequence-to-sequence task, like translation) 
+- Generates text based on the embeddings and previously generated output
+	- Produces only a single token at a time
+- Used for text generation
 ##### Decoding Strategies
 - **Greedy Decoding:** picks the most likely word at each step, may lead to suboptimal sequences
 - **Beam Search:** tries different possible sequences, explores a tree of possibilities and chooses the best
@@ -70,17 +76,6 @@ Uses layers of self-attention mechanisms in order to understand the input and ge
 	- These weights are adjusted during training
 - Stored as a binary format (.bin or .h5)
 	- Contains the entire model, including its architecture and learned weights
-## Types of Prompts
-### Zero-Shot Prompting
-- Provide a task without giving any examples of hwo the task should be performed.
-- Must be well-crafted and clear
-- LLM relay only in it's knowledge from training
-### Few-Shot Prompting
-- Gives a few examples of the task along with the prompt
-- Basically a guide to the model
-### Chain of Thought Prompting
-- Guides the model through a step-by-step reasoning
-- Encourages the model to show it's thought process
 ## Foundation Models
 - Pre-trained on extensive datasets
 - Broad applicability, very generalized
