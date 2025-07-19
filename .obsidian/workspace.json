@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X AI/5 - RNN.md",
+                "file": "MISC/CDB/Optimal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - RNN"
+              "title": "Optimal"
             }
           }
         ]
@@ -166,20 +166,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bbdc2017b9be9f31",
+  "active": "a83c32916dc19d5d",
   "lastOpenFiles": [
+    "MISC/CDB/100 a 122 - 2 anos.md",
+    "MISC/CDB/12.7.md",
+    "Excalidraw/Drawing 2023-10-01 21.20.20.excalidraw.md",
+    "_USCS/5",
+    "Intern.md",
+    "1 PY.md",
+    "X AI/NLP.md",
+    "Untitled.md",
+    "X AI/Oracle.md",
+    "X AI/1- AI Basics.md",
+    "X AI/5 - RNN.md",
+    "X AI/4 - ANN.md",
+    "X AI/2 - ML.md",
+    "X AI/3 - DL.md",
+    "Excalidraw/Drawing 2025-07-18 22.57.02.excalidraw.md",
+    "X AI/LLM.md",
     "X Linux/Commands.md",
     "X Linux/Linux Essentials.md",
-    "X AI/2 - ML.md",
-    "X AI/1- AI Basics.md",
-    "X AI/3 - DL.md",
-    "X AI/4 - ANN.md",
-    "X AI/5 - RNN.md",
-    "X AI/LLM.md",
     "X AI/Model type and training.md",
-    "X AI/NLP.md",
-    "X AI/Oracle.md",
-    "1 PY.md",
     "PY/virtualenv.md",
     "PY/Strings.md",
     "PY/Pandas.md",
@@ -188,12 +195,6 @@
     "PY/Listas.md",
     "PY/Geradores e closure.md",
     "PY/Exception.md",
-    "Untitled.md",
-    "X GCP/07 - Networking.md",
-    "X GCP/06 - Security.md",
-    "X GCP/05 - API.md",
-    "X GCP/03 - Compute.md",
-    "X GCP/04 - Storage.md",
     "X AI",
     "X GCP/Media/Pasted image 20250701133336.png",
     "X Linux",
@@ -202,18 +203,17 @@
     "X GCP/Media",
     "X GCP/Media/Pasted image 20250609103715.png",
     "X GCP",
-    "EAD/Media/Pasted image 20250520220700.png",
-    "EAD/Media/Pasted image 20250520220729.png",
-    "EAD/Media/Pasted image 20250524124429.png",
-    "EAD/Media/Pasted image 20250524121358.png",
-    "EAD/Media/Pasted image 20250524121139.png",
-    "EAD/Media/Pasted image 20250520220746.png",
-    "EAD/Media",
-    "EAD",
+    "_USCS/5/EAD/Media/Pasted image 20250520220700.png",
+    "_USCS/5/EAD/Media/Pasted image 20250520220729.png",
+    "_USCS/5/EAD/Media/Pasted image 20250524124429.png",
+    "_USCS/5/EAD/Media/Pasted image 20250524121358.png",
+    "_USCS/5/EAD/Media/Pasted image 20250524121139.png",
+    "_USCS/5/EAD/Media/Pasted image 20250520220746.png",
+    "_USCS/5/EAD/Media",
+    "_USCS/5/EAD",
     "Prompt",
-    "_USCS/VIRT/Media",
+    "_USCS/5/VIRT/Media",
     "Untitled.canvas",
-    "CDB",
-    "_USCS/ETICA/Untitled"
+    "MISC/CDB"
   ]
 }
