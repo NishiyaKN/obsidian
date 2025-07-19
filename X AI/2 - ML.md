@@ -30,16 +30,16 @@
 - AI learns from interections with the environment and feedback
 - Playing videogames, robotics, etc
 ## Machine Learning Approaches
-## Traditional Machine Learning
+### Traditional Machine Learning
 Best used for structured data
 - **Decision Trees**: Flowchart decision structures (if/else)
 - **Regression Algorithms**: Used to predict numerical values through relationships between variables
 - **Clustering Algorithms**: Groups data into clusters based on similarity
-## Deep Learning
+### Deep Learning
 Best used for large volumes of unstructured data and highly complex tasks
 - **Artifical Neural Networks**: Like a human brain, process lots of datas and learn patterns from it
 - **Convolutiona Neural Networkds (CNNs)**: Specialized for vision tasks
 - **Recurrent Neural Networks (RNNs)**: Efficient for sequential data, such as predictive text
-## Advanced Deep Learning
+### Advanced Deep Learning
 - **Generative Models**: generate new data similar to input data
 - **Transformer Architecture**: Consisting of encoders and decoders, used for language translation and code generation
