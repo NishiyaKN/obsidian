@@ -8,20 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbdc2017b9be9f31",
+            "id": "81cbfbf2f7fd8c93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X AI/3.1.2 - CNN.md",
+                "file": "600 AI/3.2 Generative AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1.2 - CNN"
+              "title": "3.2 Generative AI"
+            }
+          },
+          {
+            "id": "503ab7aae20a04c0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "-board.canvas",
+                "viewState": {
+                  "x": 45,
+                  "y": 150,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "-board"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,57 +181,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "bbdc2017b9be9f31",
+  "active": "503ab7aae20a04c0",
   "lastOpenFiles": [
-    "X AI/3.1.6 - Transformers (wip).md",
-    "X AI/3.1.5 - GAN (wip).md",
-    "X AI/3.1.4 - Autoencoders (wip).md",
-    "X AI/3.1.3 - RNN.md",
-    "X AI/3.1.2 - CNN.md",
-    "X AI/3.1.1 - FNN (wip).md",
-    "X AI/3.1 - ANN.md",
-    "X AI/2 - ML.md",
-    "X AI/3 - DL.md",
-    "X AI/3.1.3.1 - LSTM.md",
-    "Untitled.canvas",
-    "X AI/Model type and training.md",
-    "X AI/LLM.md",
-    "X AI/1- AI Basics.md",
-    "Prompt/Flashcards.md",
-    "MISC/Watch Compass.md",
-    "MISC/React JS.md",
-    "MISC/NIPOMED.md",
-    "MISC/Logic Rationale.md",
+    "600 AI/3.2 Generative AI.md",
+    "-board.canvas",
+    "600 AI/2 - ML.md",
+    "600 AI/3 - DL.md",
+    "600 AI/1- AI Basics.md",
+    "600 AI/LLM.md",
+    "600 AI/3.1.3 - RNN.md",
+    "600 AI/3.1.1 - FNN (wip).md",
+    "600 AI/3.1 - ANN.md",
+    "Intern.md",
+    "600 AI/3.1.2 - CNN.md",
+    "_USCS/Untitled.md",
+    "600 AI/3.1.6 - Transformers (wip).md",
+    "600 AI/3.1.5 - GAN (wip).md",
+    "600 AI/3.1.4 - Autoencoders (wip).md",
+    "600 AI/3.1.3.1 - LSTM.md",
+    "600 AI/Model type and training.md",
+    "100 Prompts/Flashcards.md",
+    "998 MISC/Watch Compass.md",
+    "998 MISC/React JS.md",
+    "998 MISC/NIPOMED.md",
+    "998 MISC/Logic Rationale.md",
     "MISC/n1.md",
-    "MISC/Linux.md",
+    "998 MISC/Linux.md",
     "MISC/Hyakk.md",
-    "MISC/2025 exame óculos.md",
-    "MISC/B3/Dicionario.md",
-    "MISC/CDB/Optimal.md",
-    "MISC/CDB/100 a 122 - 2 anos.md",
-    "MISC/CDB/12.7.md",
-    "MISC/0MKSH/05S",
-    "X AI",
-    "X GCP/Media/Pasted image 20250701133336.png",
-    "X Linux",
-    "X GCP/Media/Pasted image 20250609105830.png",
-    "X GCP/Media/Pasted image 20250610201539.png",
-    "X GCP/Media",
-    "X GCP/Media/Pasted image 20250609103715.png",
-    "X GCP",
-    "MISC/0MKSH/05S/EAD/Media/Pasted image 20250520220700.png",
-    "MISC/0MKSH/05S/EAD/Media/Pasted image 20250520220729.png",
-    "MISC/0MKSH/05S/EAD/Media/Pasted image 20250524124429.png",
-    "MISC/0MKSH/05S/EAD/Media/Pasted image 20250524121358.png",
-    "MISC/0MKSH/05S/EAD/Media/Pasted image 20250524121139.png",
-    "MISC/0MKSH/05S/EAD/Media/Pasted image 20250520220746.png",
-    "MISC/0MKSH/05S/EAD/Media",
-    "MISC/0MKSH/05S/EAD",
-    "Prompt",
-    "MISC/0MKSH/05S/VIRT/Media",
-    "MISC/CDB"
+    "998 MISC/2025 exame óculos.md",
+    "998 MISC/0MKSH/05S",
+    "600 AI",
+    "400 GCP/Media/Pasted image 20250701133336.png",
+    "200 Linux",
+    "400 GCP/Media/Pasted image 20250609105830.png",
+    "400 GCP/Media/Pasted image 20250610201539.png",
+    "400 GCP/Media",
+    "400 GCP/Media/Pasted image 20250609103715.png",
+    "400 GCP",
+    "998 MISC/0MKSH/05S/EAD/Media/Pasted image 20250520220700.png",
+    "998 MISC/0MKSH/05S/EAD/Media/Pasted image 20250520220729.png",
+    "998 MISC/0MKSH/05S/EAD/Media/Pasted image 20250524124429.png",
+    "998 MISC/0MKSH/05S/EAD/Media/Pasted image 20250524121358.png",
+    "998 MISC/0MKSH/05S/EAD/Media/Pasted image 20250524121139.png",
+    "998 MISC/0MKSH/05S/EAD/Media/Pasted image 20250520220746.png",
+    "998 MISC/0MKSH/05S/EAD/Media",
+    "998 MISC/0MKSH/05S/EAD",
+    "100 Prompts",
+    "998 MISC/0MKSH/05S/VIRT/Media",
+    "998 MISC/CDB"
   ]
 }
