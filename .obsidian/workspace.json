@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 AI/OCI AI Stack.md",
+                "file": "600 AI/OCI Generative AI Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCI AI Stack"
+              "title": "OCI Generative AI Service"
             }
           }
         ],
@@ -189,6 +189,8 @@
   },
   "active": "709cd15749c53190",
   "lastOpenFiles": [
+    "600 AI/OCI AI Stack.md",
+    "600 AI/OCI Generative AI Service.md",
     "600 AI/5 - Customize LLM.md",
     "600 AI/Customize LLM with your data.md",
     "600 AI/3.1 - ANN.md",
@@ -214,7 +216,6 @@
     "100 Prompts/Flashcards.md",
     "998 MISC/Watch Compass.md",
     "998 MISC/React JS.md",
-    "998 MISC/NIPOMED.md",
     "998 MISC/0MKSH/05S",
     "600 AI",
     "400 GCP/Media/Pasted image 20250701133336.png",

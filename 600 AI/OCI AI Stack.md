@@ -44,4 +44,12 @@
 # Others
 - RDMA: data transfer or network communication taht bypasses CPU
 	- Extremely low latency, high bandwidth, low overhead for CPU
-- 
+# Skill Check Questions
+- What is the advantage of using OCI Superclusters for AI workloads?
+	- Deliver exceptional performance and scalability for complex AI tasks.
+- Which data type is used Oracle Database 23ai to compare documents?
+	- Vector
+- Which OCI Data Science Feature allows you to use catalogued models as HTTP endpoints on fully managed infrastructure?
+	- Model Deployments
+- Which OCI Data Science feature enables you to define and run repeatable machine learning tasks on fully managed infrastructure?
+	- Jobs
