@@ -3,21 +3,3 @@ Possuo amplo conhecimento e experiência com Linux, conheço bem o sistema e sou
 Tenho grande interesse em computação em nuvem, constantemente estudo sobre os serviços dos maiores provedores de nuvem e planejo me especializar melhor na área.
 
 Tenho conhecimentos básicos mas em constante desenvolvimento em relação a redes de computadores e programação, com maior foco em Python e Bash para scripts de automação de tarefas.
-w
-
-AI:
-OCI AI Foundations
-OCI Generative AI
-Oracle AI Vector Search
-OCI Data Science
-
-Oracle Cloud Infrastructure:
-OCI Foundations
-OCI Architect
-OCI Migration Architect
-OCI Networking
-OCI Developer OCI DevOps
-OCI Applications Integration
-OCI Observability
-Oracl
-

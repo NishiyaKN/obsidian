@@ -1,3 +1,4 @@
+# Large Language Models
 - Specializes in processing and generating human language.
 - Probabilistic model of text, tries to predict the next word based on past words.
 - Based on transformer architecture (deep learning)
@@ -29,7 +30,7 @@
 - Deep understanding of **context** and **relationships** within a text
 - Handles long sequence of complex data
 ## Storing LLM's Knowledge
-- After trained, it's knowledge is stored in the parameters (connections between the nodes of the neural network)
+- After trained, it's knowledge is stored in the parameters
 - **Knowledge** is encoded in numerical weights assigned to the connections within the neural network
 	- These weights are adjusted during training
 - Stored as a binary format (.bin or .h5)

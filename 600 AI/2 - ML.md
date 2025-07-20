@@ -38,7 +38,7 @@ Best used for structured data
 ### Deep Learning
 Best used for large volumes of unstructured data and highly complex tasks
 - **Artifical Neural Networks**: Like a human brain, process lots of datas and learn patterns from it
-- **Convolutiona Neural Networkds (CNNs)**: Specialized for vision tasks
+- **Convolutiona Neural Networks (CNNs)**: Specialized for vision tasks
 - **Recurrent Neural Networks (RNNs)**: Efficient for sequential data, such as predictive text
 ### Advanced Deep Learning
 - **Generative Models**: generate new data similar to input data
