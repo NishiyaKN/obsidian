@@ -1,15 +1,16 @@
 {
 	"nodes":[
+		{"id":"35d9ecf0c6a64505","type":"group","x":-280,"y":-152,"width":640,"height":552,"label":"Certs"},
 		{"id":"07df54360e67d2d7","type":"text","text":"AI Foundations","x":-220,"y":-80,"width":250,"height":60},
-		{"id":"2db36341d8e00f9c","type":"text","text":"OCI DevOps","x":-220,"y":220,"width":250,"height":60},
 		{"id":"159eacd062a9d711","type":"text","text":"OCI Foundations ","x":-220,"y":20,"width":250,"height":60},
-		{"id":"885d15519748ae9c","type":"text","text":"25/09","x":60,"y":220,"width":250,"height":60},
 		{"id":"60788a7f3726b96b","type":"text","text":"OCI Architect","x":-220,"y":120,"width":250,"height":60},
 		{"id":"12f61d728a5bb388","type":"text","text":"05/08","x":60,"y":20,"width":250,"height":60},
 		{"id":"2691d8f5069e6c9d","type":"text","text":"26/08","x":60,"y":120,"width":250,"height":60},
-		{"id":"7a1353f8a6734b4c","type":"text","text":"31/10","x":60,"y":320,"width":250,"height":60},
 		{"id":"323136d36a78120b","type":"text","text":"24/07","x":60,"y":-80,"width":250,"height":60},
-		{"id":"4d9ba6883f755f15","type":"text","text":"OCI Generative AI","x":-220,"y":320,"width":250,"height":60}
+		{"id":"4d9ba6883f755f15","type":"text","text":"OCI Generative AI","x":-220,"y":320,"width":250,"height":60},
+		{"id":"7a1353f8a6734b4c","type":"text","text":"31/10","x":60,"y":320,"width":250,"height":60},
+		{"id":"2db36341d8e00f9c","type":"text","text":"OCI DevOps","x":-220,"y":220,"width":250,"height":60},
+		{"id":"885d15519748ae9c","type":"text","text":"25/09","x":60,"y":220,"width":250,"height":60}
 	],
 	"edges":[]
 }
