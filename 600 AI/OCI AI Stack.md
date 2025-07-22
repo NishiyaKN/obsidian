@@ -23,14 +23,26 @@
 #### Text Translation
 - Neural Machine translation
 ### Vision
-#### Image Analysis Pretrained Model
+#### Image Analysis
 - Object detection
 - Image classification
 - Optical character recognition
-#### Image Analysis Custom Model
-- Custom object detection
+#### Document AI
+- Works with JpPEG, PNG, Tiff or photos containing text 
+- OCR
+- Document Classification
+	- Based on visual appearance and keywords
+- Language Detection
+- Table Extraction
+- Key Value Extraction
 ### Speech
 - Convert media files to readable texts stored in JSON or SRT
+- Transcriptions are timestamped
+- Batching support (multiples files with one call)
+- Processes 10 hours in <10 minute
+- Confidence score per word and transcription
+- Punctuates transcription
+- Profanity filtering by removing, masking or tagging
 ### Document Understanding
 - Detect and classify text, key-value pair and table in documents
 - Individual or batches
