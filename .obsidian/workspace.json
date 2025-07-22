@@ -39,17 +39,14 @@
             "id": "025bca6b8185bdb8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "-board.canvas",
-                "viewState": {
-                  "x": 40,
-                  "y": 124,
-                  "zoom": 0
-                }
+                "file": "500 OCI/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "-board"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -199,8 +196,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "025bca6b8185bdb8",
+  "active": "a83c32916dc19d5d",
   "lastOpenFiles": [
+    "-board.canvas",
+    "500 OCI/Untitled.md",
+    "500 OCI",
     "600 AI/OCI Vector Search.md",
     "600 AI/OCI Select AI.md",
     "600 AI/OCI Generative AI Service.md",
@@ -222,12 +222,10 @@
     "600 AI/3 - DL.md",
     "600 AI/2 - ML.md",
     "600 AI/1- AI Basics.md",
-    "-board.canvas",
     "19-07.md",
     "19/07.md",
     "19",
     "2025-07-19.md",
-    "100 Prompts/CS Help.md",
     "998 MISC/0MKSH/05S",
     "600 AI",
     "400 GCP/Media/Pasted image 20250701133336.png",
@@ -245,7 +243,6 @@
     "998 MISC/0MKSH/05S/EAD/Media/Pasted image 20250520220746.png",
     "998 MISC/0MKSH/05S/EAD/Media",
     "998 MISC/0MKSH/05S/EAD",
-    "100 Prompts",
-    "998 MISC/0MKSH/05S/VIRT/Media"
+    "100 Prompts"
   ]
 }
