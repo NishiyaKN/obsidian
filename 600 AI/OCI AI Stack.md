@@ -58,6 +58,8 @@
 - Accelerated: automated workflows, streamlined approach to building models
 - Collaborative: share and reproduce models
 - Enterprise-Grade: fully managed platform
+#### Model Catalog
+- Serves as a repository for storing, tracking and managing machine learning models
 # Others
 - RDMA: data transfer or network communication taht bypasses CPU
 	- Extremely low latency, high bandwidth, low overhead for CPU

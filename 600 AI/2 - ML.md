@@ -5,6 +5,7 @@
 - **Used to classify data or make predictions**
 - Requires **labeled** data (with the correct answer)
 - Train the AI to get the correct answer for each new data
+- **Target variable**: specific variable in the dataset that it's being trained to predict (classify as dog, cat, bird; house price; spam or not spam)
 #### Classification - Categorical Data
 - **Predict a category or label**
 	- **Binary classification**
@@ -18,6 +19,14 @@
 	- Algorithm learns the **mapping function**, which represents the trained model
 		- This function receives an input, and based on it's value, it calculates the result (output)
 		- The entire purpose of a regression model is to perfect this function
+#### Algorithms
+##### KNN (K-Nearest Neighbors)
+- Lazy learning algorithm (doesn't actually learn, just memorizes all training examples)
+- Non-parametric
+- Used for classification and regression
+- Calculates the distance of the input to the trained data, 
+	- Classify as "X" if the majority of "K" nearest neighbors belong to class "X"
+	- Predicts based on the average of the values of "K" nearest neighbors
 ### Unsupervised Learning
 - **Extracts trends and relationships from data**
 - Main objective is to make the agent learn the **optimal policy** that will yield the most rewards
