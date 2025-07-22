@@ -28,4 +28,3 @@
 # RLHF (Reinforcement Learning from Human Feedback)
 - Model training procedure that is applied to a fine-tuned language model to further align model behavior with human preferences and instruction following
 	- Uses human feedback to train a reward model
-- 

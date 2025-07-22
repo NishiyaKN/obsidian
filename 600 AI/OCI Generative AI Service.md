@@ -1,7 +1,7 @@
 - Fully managed service thar provides LLMs via a single API to build gen AI apps
 - Choice of pretrained models from Meta and Cohere
 - Flexible Fine-tuning with your own dataset 
-	- **Uses T-Few fine-tuning:** inserts new layers in the base model and selectively updates a fraction of the weights
+	- Uses **T-Few fine-tuning:** inserts new layers in the base model and selectively updates a fraction of the weights
 		- Reduces time and cost for fine-tuning, since it does not update the entire model
 - **Dedicated AI Clusters**: GPU based compute resource for fine-tuning and inference
 ## Pretrained Foundational Models

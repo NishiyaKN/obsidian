@@ -7,7 +7,7 @@
 - LLMs by itself are trained to predict the next word rather than to performe a task the user wants
 	- This base training gives the LLM a deep understanding of language, grammar, facts and reasoning patterns 
 	- If given a input, it will complete the input text rather than doing what the prompt says
-- To a LLM perform tasks, it needs instruction tuning, 
+- To a LLM perform tasks, it needs instruction tuning
 	- Involves fine-tuning a LLM on a varied set of instructions, each paired with a desired output
 ## Model Creation Process
 1. **Data collection**: books, websites, articles, etc

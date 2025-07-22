@@ -26,9 +26,9 @@
 #### Image Analysis
 - Object detection
 - Image classification
-- Optical character recognition
+- OCR
 #### Document AI
-- Works with JpPEG, PNG, Tiff or photos containing text 
+- Works with JPEG, PNG, Tiff or photos containing text 
 - OCR
 - Document Classification
 	- Based on visual appearance and keywords
