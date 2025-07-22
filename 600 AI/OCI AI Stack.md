@@ -6,6 +6,11 @@
 # AI Services
 ### Language
 - Text analysis
+	- Detects the language
+	- Identifies entities (names, places, dates, etc)
+	- Identifies sentiment fo each aspect of text
+	- Identifies key phrases
+	- Classifies the general topic
 - Process unstructured text (no data science expertise required)
 #### Pretrained
 - Language Detection
