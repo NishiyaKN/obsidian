@@ -34,9 +34,26 @@
               "icon": "lucide-file",
               "title": "OCI Vector Search"
             }
+          },
+          {
+            "id": "025bca6b8185bdb8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "-board.canvas",
+                "viewState": {
+                  "x": 40,
+                  "y": 124,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "-board"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,8 +199,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5703be88aa0df550",
+  "active": "025bca6b8185bdb8",
   "lastOpenFiles": [
+    "600 AI/OCI Vector Search.md",
     "600 AI/OCI Select AI.md",
     "600 AI/OCI Generative AI Service.md",
     "600 AI/OCI AI Stack.md",
@@ -205,7 +223,6 @@
     "600 AI/2 - ML.md",
     "600 AI/1- AI Basics.md",
     "-board.canvas",
-    "600 AI/OCI Vector Search.md",
     "19-07.md",
     "19/07.md",
     "19",
