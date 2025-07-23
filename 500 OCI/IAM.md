@@ -2,26 +2,26 @@
 - Fine-grained Access Control
 ## Principal
 - Users
--  Resources
-	- Instance principal - can make API calls to other OCI services
--  Groups
-## AuthN - Authentication
+- Instance principal - resources that can make API calls to other OCI services
+- Groups
+## Identity Domain
+- Container for managing users, groups and policies
+- Each tenancy has at least one Identity Domain
+### AuthN - Authentication
 - Username and password
 - API signing keys - public-private key pair to authenticate API calls
 - Authentication Tokens - Oracle generated token strings for third-party APIs 
-### Identity Domain
-- Container for users and groups and security configuration
-## AuthZ - Authorization
+### AuthZ - Authorization
 - Permissions via IAM policies
 	- Can be attached to a compartment or tenancy
 - **Everything is denied by default**
-- Example: `Allow <domain_name>/<group_name> to <verb> <resource-type> in <location> wehre <conditions>`
-### Verbs
+- Example: `Allow <domain_name>/<group_name> to <verb> <resource-type> in <location> where <conditions>`
+#### Verbs
 - **Inspect:** list resources
 - **Read:** inspect + user-specified metadata
 - **Use:** read + actions varies by resource type
 - **Manage:** all permissions for the resource
-### Resource Type
+#### Resource Type
 - all-resources
 - specific resource
 - database-family
@@ -37,5 +37,11 @@
 	- Every compartment is global, available in every region
 	- Up to 6 levels of nesting of compartments
 	- Can set budgets and quotas in each compartment
+# Tenancy
+- Tenancy Admin: who creates the account
+- Best practices:
+	- Don't use Tenancy Admin for day-to-day operations
+		 - Have OCI Admin (a user or group of admins) with proper policies to do that
+	- Create dedicated compartments to isolate resources
 # OCID (Oracle Cloud ID)
 - Unique Oracle-assigned identifier for each OCI resource 
