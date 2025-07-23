@@ -18,4 +18,8 @@
 - Used to send traffic from the VCN to the internet, on-premises network or peered VCN
 - Consists of route rules
 	- Specifies Destination CIDR block and Route Target
-- 
+### Peering
+- **Local Peering**: communication between 2 VCNs in the same region
+	- Up to 300 VCNs can communicate with each other, by linking all of them to a Dynamic Routing Gateway V2
+- **Remote Peering**:; communication between 2 VCNs in different regions
+	- Uses Dynamic Routing Gateways
