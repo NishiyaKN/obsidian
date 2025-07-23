@@ -1,4 +1,3 @@
-
 ## Regions
 - Geografical area
 - Comprised of 1 or more AD
