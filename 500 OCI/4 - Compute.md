@@ -1,0 +1,15 @@
+- Virtual Machine
+	- Shared, multi-tenant
+- Bare Metal
+- Dedicated Host
+	- Run VMs without sharing the host with any other user
+- Option to run on AMD, Intel or Ampere (Arm) CPU
+- Preemptible VM: 
+	- Low cost short lived VMs
+	- Suited for batch jobs and fault-tolerant workloads
+	- 50% cheaper than normal VM instance
+
+- To create a compute instance, a VCN is needed
+- Instance gets an private IP by virtualizing it's physical NIC (VNIC)
+- Uses a boot disk for OS and data disk for data remotely
+	- Both are block volume service

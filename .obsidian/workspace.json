@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/3.1 - Security.md",
+                "file": "500 OCI/4 - Compute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 - Security"
+              "title": "4 - Compute"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "17a07be91b4546aa",
   "lastOpenFiles": [
-    "500 OCI/3 - Networking.md",
     "500 OCI/3.1 - Security.md",
+    "500 OCI/3 - Networking.md",
     "-board.canvas",
     "500 OCI/1 - OCI Architecture.md",
     "500 OCI/Media/Pasted image 20250723170929.png",

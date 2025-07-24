@@ -9,9 +9,11 @@
 	- Enables outbound to the internet
 	- Disables inbout from the internet
 #### Service Gateway
-- Used for secured access to OCI public services, available on the internet
+- Used for secured access to OCI public services
+	- Don't need to go throught the internet
 #### Dynamic Routing Gateway
 - Routes traffic from the private subnet to on-premises environment
+- Routes traffic between different VCNs
 	- Don't need to go throught the internet
 ###  Routing
 #### Route Tables 
@@ -22,9 +24,11 @@
 - Cannot have overlapping CIDRs
 - **Local Peering**: communication between 2 VCNs in the same region
 	- Uses Local Peering Gateway ( not created by default when creating a VCN)
-	- Up to 300 VCNs can communicate with each other, by linking all of them to a Dynamic Routing Gateway V2
 - **Remote Peering**: communication between 2 VCNs in different regions
-	- Uses Dynamic Routing Gateways
+	- Uses Dynamic Routing Gateway on each each VCN
+- **VCN Transit Routing:** communication between up to 300 VCNs
+	- By linking all of them to a Dynamic Routing Gateway V2
+
 ## Load Balancer (Reverse Proxy)
 - High availability and scalability
 ### Layer 7 LB
@@ -36,5 +40,5 @@
 	- Can inspect the package to route the package
 ### Layer 4 LB
 - Network Load Balancer
-- Works with TCP & UDP
-- Faster than Layer 7 LB
+- Works with TCP, UDP & ICMP
+- Ultra-low latency, faster than Layer 7 LB
