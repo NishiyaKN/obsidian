@@ -19,23 +19,22 @@
 - Consists of route rules
 	- Specifies Destination CIDR block and Route Target
 ### Peering
+- Cannot have overlapping CIDRs
 - **Local Peering**: communication between 2 VCNs in the same region
+	- Uses Local Peering Gateway ( not created by default when creating a VCN)
 	- Up to 300 VCNs can communicate with each other, by linking all of them to a Dynamic Routing Gateway V2
-- **Remote Peering**:; communication between 2 VCNs in different regions
+- **Remote Peering**: communication between 2 VCNs in different regions
 	- Uses Dynamic Routing Gateways
 ## Load Balancer (Reverse Proxy)
 - High availability and scalability
 ### Layer 7 LB
 - Understand HTTP/S
-- Flexible shape: defines minimum and maximun of a range
+- Flexible shape: defines minimum and maximum bandwidth
 	- 10 mbps to 8gbps
-- Dynamic shape: automatically scales
-- Public Load Balancer: available on the internet
-- Private Load Balancer: 
+- Dynamic shape: automatically scales bandwidth according to demand
 - Content-Based Routing
 	- Can inspect the package to route the package
-### Layer 3 / 4 LB
+### Layer 4 LB
 - Network Load Balancer
-- Works with TCP & UDP (& ICMP)
-- Public and Private options
+- Works with TCP & UDP
 - Faster than Layer 7 LB
