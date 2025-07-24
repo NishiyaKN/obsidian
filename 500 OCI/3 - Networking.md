@@ -23,3 +23,19 @@
 	- Up to 300 VCNs can communicate with each other, by linking all of them to a Dynamic Routing Gateway V2
 - **Remote Peering**:; communication between 2 VCNs in different regions
 	- Uses Dynamic Routing Gateways
+## Load Balancer (Reverse Proxy)
+- High availability and scalability
+### Layer 7 LB
+- Understand HTTP/S
+- Flexible shape: defines minimum and maximun of a range
+	- 10 mbps to 8gbps
+- Dynamic shape: automatically scales
+- Public Load Balancer: available on the internet
+- Private Load Balancer: 
+- Content-Based Routing
+	- Can inspect the package to route the package
+### Layer 3 / 4 LB
+- Network Load Balancer
+- Works with TCP & UDP (& ICMP)
+- Public and Private options
+- Faster than Layer 7 LB

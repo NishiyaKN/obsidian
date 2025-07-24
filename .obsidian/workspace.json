@@ -25,20 +25,18 @@
             "id": "17a07be91b4546aa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "-board.canvas",
-                "viewState": {
-                  "x": 40,
-                  "y": 124,
-                  "zoom": 0
-                }
+                "file": "500 OCI/3 - Networking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "-board"
+              "icon": "lucide-file",
+              "title": "3 - Networking"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,11 +182,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4d072084bf05d010",
+  "active": "17a07be91b4546aa",
   "lastOpenFiles": [
-    "500 OCI/1 - OCI Architecture.md",
-    "500 OCI/3 - Networking.md",
     "500 OCI/3.1 - Security.md",
+    "-board.canvas",
+    "500 OCI/3 - Networking.md",
+    "500 OCI/1 - OCI Architecture.md",
     "500 OCI/Media/Pasted image 20250723170929.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/7 - Governance & Administration.md",
@@ -201,7 +200,6 @@
     "500 OCI/Media/Pasted image 20250723124706.png",
     "600 AI/4 - LLM.md",
     "600 AI/OCI Vector Search.md",
-    "-board.canvas",
     "500 OCI",
     "600 AI/OCI Select AI.md",
     "600 AI/OCI Generative AI Service.md",
