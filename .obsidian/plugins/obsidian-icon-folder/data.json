@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiAmazonaws",
       "LiBookText",
       "LiLayoutDashboard",
       "SiExcalidraw",
-      "LiExcalidrawIcon",
-      "LiAtom"
+      "LiExcalidrawIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,7 @@
   },
   "500 OCI": "SiOracle",
   "400 GCP": "SiGooglecloud",
-  "300 AWS": "FabAws",
+  "300 AWS": "SiAmazonaws",
   "200 Linux": "SiLinux",
   "100 Prompts": "SiGnubash",
   "600 AI": "SiOpenai",
