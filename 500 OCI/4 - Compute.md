@@ -1,25 +1,24 @@
 ## Compute Offerings
-- Can to run on AMD, Intel or Ampere (Arm) CPU
+- A **Shape** specifies the number of CPUs, amount of RAM, and other resources allocated to an instance.
+- Shapes can be based on AMD, Intel, or Ampere (Arm) CPUs.
 ### Instance Types
 - **Virtual Machine**: shared, multi-tenant
 - **Bare Metal**: direct and exclusive access to the entire physical server hardware (no hypervisor)
 - **Dedicated Host**: run VMs without sharing the host with any other user (uses OCI's provided hypervisor)
 - **Preemptible VM:** 
-	- Low cost short lived VMs
+	- Low cost short lived VMs (can be terminated any time with a 2-minute warning)
 	- Suited for batch jobs and fault-tolerant workloads
 	- 50% cheaper than normal VM instance
 ## Compute Networking
 - To create a compute instance, a VCN is needed
 - Instance gets an private IP by virtualizing it's physical NIC (VNIC)
-- Uses a remote boot disk for OS and data disk 
-	- Both are backed by the OCI Block Volume service
+- Uses a remote Boot Volume for OS and a remote Block Volume for additional data
 ## High Availability
 ### Live Migrate
-- If any compute host goes down, the VM is migrated to another host
+- During scheduled infrastructure maintenance, VMs are migrated to another host
 	- No need to reboot
 	- No downtime
 ### Autoscaling	
-- Scale vertically by increasing or decreasing compute & RAM from a single instance
 - Scale horizontally by adding or removing instances of the same time
 #### Autoscaling Steps
 1. Create config (template of an instance)
