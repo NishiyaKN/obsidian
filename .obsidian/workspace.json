@@ -11,17 +11,14 @@
             "id": "6861f6003110f563",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 252.34539175714465,
-                  "y": 35.071202135786905,
-                  "zoom": -0.3
-                }
+                "file": "500 OCI/6.3 - OCI Vault.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "6.3 - OCI Vault"
             }
           }
         ]
@@ -90,7 +87,7 @@
       {
         "id": "1e5af30d408f566a",
         "type": "tabs",
-        "dimension": 64.16184971098265,
+        "dimension": 54.01459854014598,
         "children": [
           {
             "id": "9908abf78b6230a9",
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/6.3 - OCI Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard"
+              "title": "Backlinks for 6.3 - OCI Vault"
             }
           },
           {
@@ -117,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/6.3 - OCI Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dashboard"
+              "title": "Outgoing links from 6.3 - OCI Vault"
             }
           },
           {
@@ -146,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/6.3 - OCI Vault.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 6.3 - OCI Vault"
             }
           }
         ],
@@ -161,7 +158,7 @@
       {
         "id": "615af9a3782b5b12",
         "type": "tabs",
-        "dimension": 35.83815028901734,
+        "dimension": 45.98540145985402,
         "children": [
           {
             "id": "bcaac76a25a0db8c",
@@ -192,8 +189,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a83c32916dc19d5d",
+  "active": "6861f6003110f563",
   "lastOpenFiles": [
+    "500 OCI/6.2 - Security Zones and Security Advisor.md",
+    "500 OCI/6.3 - OCI Vault.md",
+    "500 OCI/6.1 - Cloud Guard.md",
+    "500 OCI/6 - Security.md",
+    "500 OCI/7 - Governance & Administration.md",
     "Dashboard.canvas",
     "Intern.md",
     "500 OCI/4 - Compute.md",
@@ -203,7 +205,6 @@
     "500 OCI/4.1 - Containers.md",
     "500 OCI/5 - Storage.md",
     "500 OCI/1 - OCI Architecture.md",
-    "500 OCI/6 - Security.md",
     "500 OCI/5.3 - File Storage.md",
     "500 OCI/5.2 - Block Volume.md",
     "500 OCI/5.1 - Object Storage.md",
@@ -216,15 +217,12 @@
     "600 AI/3.1.6 - Transformers (wip).md",
     "500 OCI/Media/Pasted image 20250723170929.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
-    "500 OCI/7 - Governance & Administration.md",
     "100 Prompts/CS Notes Analysis.md",
     "500 OCI/Media",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "600 AI/4 - LLM.md",
     "600 AI/OCI Vector Search.md",
     "500 OCI",
-    "600 AI/OCI Select AI.md",
-    "600 AI/OCI Generative AI Service.md",
     "19",
     "998 MISC/0MKSH/05S",
     "600 AI",
