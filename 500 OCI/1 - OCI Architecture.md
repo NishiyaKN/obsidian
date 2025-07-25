@@ -2,9 +2,9 @@
 - Geografical area
 - Comprised of 1 or more AD
 ### AD (Availability Domain)
-- Datacenter
-- Isolated from each other
-- Comprised of 3 FD
+- 1 or more datacenter
+- Isolated from each other in power, cooling and networking
+- Comprised of 3 FDs
 #### FD (Fault Domain)
 - Logical datacenters
 - Infrastructure within an AD to provide anti-affinity
