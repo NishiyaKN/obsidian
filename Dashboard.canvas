@@ -10,7 +10,8 @@
 		{"id":"4d9ba6883f755f15","type":"text","text":"OCI Generative AI","x":-220,"y":320,"width":250,"height":60},
 		{"id":"7a1353f8a6734b4c","type":"text","text":"31/10","x":60,"y":320,"width":250,"height":60},
 		{"id":"2db36341d8e00f9c","type":"text","text":"OCI DevOps","x":-220,"y":220,"width":250,"height":60},
-		{"id":"885d15519748ae9c","type":"text","text":"25/09","x":60,"y":220,"width":250,"height":60}
+		{"id":"885d15519748ae9c","type":"text","text":"25/09","x":60,"y":220,"width":250,"height":60},
+		{"id":"afa9667f3b87b47e","x":380,"y":-145,"width":250,"height":525,"type":"text","text":"```tasks\nnot done\n```"}
 	],
 	"edges":[]
 }

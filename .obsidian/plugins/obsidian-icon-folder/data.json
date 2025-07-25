@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBookText",
+      "LiLayoutDashboard",
+      "SiExcalidraw",
+      "LiExcalidrawIcon",
+      "LiAtom"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "500 OCI": "SiOracle",
+  "400 GCP": "SiGooglecloud",
+  "300 AWS": "FabAws",
+  "200 Linux": "SiLinux",
+  "100 Prompts": "SiGnubash",
+  "600 AI": "SiOpenai",
+  "800 PY": "SiPython",
+  "998 MISC": "LiAtom",
+  "999 Excalidraw": "SiExcalidraw",
+  "Dashboard.canvas": "LiLayoutDashboard",
+  "000 USCS": "LiBookText"
+}

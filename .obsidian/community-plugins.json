@@ -1,5 +1,15 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-vimrc-support",
-  "homepage"
+  "homepage",
+  "calendar",
+  "obsidian-icon-folder",
+  "obsidian-file-color",
+  "file-explorer-note-count",
+  "code-styler",
+  "ninja-cursor",
+  "file-explorer-plus",
+  "omnisearch",
+  "cmdr",
+  "obsidian-tasks-plugin"
 ]
