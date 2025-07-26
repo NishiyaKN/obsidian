@@ -17,7 +17,7 @@
 	- Don't need to go throught the internet
 ###  Routing
 #### Route Tables 
-- Used to send traffic from the VCN to the internet, on-premises network or peered VCN
+- Used to direct network traffic from the VCN to the internet, on-premises network or peered VCN
 - Consists of route rules
 	- Specifies Destination CIDR block and Route Target
 ### Peering

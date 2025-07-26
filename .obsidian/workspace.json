@@ -11,34 +11,49 @@
             "id": "920d9389872b8ad1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 278.0467873969695,
-                  "y": 188.3532126030305,
-                  "zoom": -0.3
-                }
+                "file": "500 OCI/3.1 - Security.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "3.1 - Security"
+            }
+          },
+          {
+            "id": "4755e3262430ec2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 OCI/7 - Governance & Administration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 - Governance & Administration"
             }
           },
           {
             "id": "0948cd5fe48b7c8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "600 AI/OCI Select AI.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 360,
+                  "y": 196,
+                  "zoom": -0.6029145455438982
+                }
               },
-              "icon": "lucide-file",
-              "title": "OCI Select AI"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,36 +232,35 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "920d9389872b8ad1",
+  "active": "0948cd5fe48b7c8d",
   "lastOpenFiles": [
-    "500 OCI/6.3 - OCI Vault.md",
     "600 AI/OCI Select AI.md",
-    "600 AI/5 - Customize LLM.md",
+    "500 OCI/7 - Governance & Administration.md",
+    "500 OCI/6.3 - OCI Vault.md",
     "Dashboard.canvas",
+    "500 OCI/3.1 - Security.md",
+    "500 OCI/3 - Networking.md",
+    "500 OCI/4.2 - Serverless.md",
+    "500 OCI/5 - Storage.md",
+    "500 OCI/5.1 - Object Storage.md",
+    "500 OCI/5.3 - File Storage.md",
+    "500 OCI/5.2 - Block Volume.md",
+    "500 OCI/1 - OCI Architecture.md",
+    "600 AI/5 - Customize LLM.md",
     "Intern.md",
     "Untitled.canvas",
     "600 AI/3 - DL.md",
-    "500 OCI/1 - OCI Architecture.md",
     "25-07.md",
-    "500 OCI/7 - Governance & Administration.md",
     "500 OCI/6.2 - Security Zones and Security Advisor.md",
     "500 OCI/6.1 - Cloud Guard.md",
     "500 OCI/6 - Security.md",
-    "500 OCI/5.3 - File Storage.md",
-    "500 OCI/5.2 - Block Volume.md",
-    "500 OCI/5.1 - Object Storage.md",
-    "500 OCI/5 - Storage.md",
-    "500 OCI/4.2 - Serverless.md",
     "500 OCI/4.1 - Containers.md",
     "500 OCI/4 - Compute.md",
-    "500 OCI/3.1 - Security.md",
-    "500 OCI/3 - Networking.md",
     "500 OCI/2 - IAM.md",
     "200 Linux/Commands.md",
     "100 Prompts/CS Help.md",
     "200 Linux/Linux Essentials.md",
     "600 AI/3.1.2 - CNN.md",
-    "600 AI/3.1.1 - FNN (wip).md",
     "500 OCI/Media/Pasted image 20250723170929.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media",
