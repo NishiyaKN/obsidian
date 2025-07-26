@@ -11,14 +11,17 @@
             "id": "920d9389872b8ad1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "500 OCI/6.3 - OCI Vault.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 278.0467873969695,
+                  "y": 188.3532126030305,
+                  "zoom": -0.3
+                }
               },
-              "icon": "lucide-file",
-              "title": "6.3 - OCI Vault"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           },
           {
@@ -27,16 +30,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/1 - OCI Architecture.md",
+                "file": "600 AI/OCI Select AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - OCI Architecture"
+              "title": "OCI Select AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/1 - OCI Architecture.md",
+                "file": "Dashboard.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 - OCI Architecture"
+              "title": "Outline of Dashboard"
             }
           }
         ],
@@ -215,11 +217,18 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "0948cd5fe48b7c8d",
+  "active": "920d9389872b8ad1",
   "lastOpenFiles": [
+    "500 OCI/6.3 - OCI Vault.md",
+    "600 AI/OCI Select AI.md",
+    "600 AI/5 - Customize LLM.md",
+    "Dashboard.canvas",
+    "Intern.md",
+    "Untitled.canvas",
+    "600 AI/3 - DL.md",
+    "500 OCI/1 - OCI Architecture.md",
     "25-07.md",
     "500 OCI/7 - Governance & Administration.md",
-    "500 OCI/6.3 - OCI Vault.md",
     "500 OCI/6.2 - Security Zones and Security Advisor.md",
     "500 OCI/6.1 - Cloud Guard.md",
     "500 OCI/6 - Security.md",
@@ -233,17 +242,11 @@
     "500 OCI/3.1 - Security.md",
     "500 OCI/3 - Networking.md",
     "500 OCI/2 - IAM.md",
-    "500 OCI/1 - OCI Architecture.md",
-    "Dashboard.canvas",
-    "Untitled.canvas",
     "200 Linux/Commands.md",
     "100 Prompts/CS Help.md",
     "200 Linux/Linux Essentials.md",
-    "Intern.md",
     "600 AI/3.1.2 - CNN.md",
     "600 AI/3.1.1 - FNN (wip).md",
-    "600 AI/3.1.3 - RNN.md",
-    "600 AI/3.1.3.1 - LSTM.md",
     "500 OCI/Media/Pasted image 20250723170929.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media",
