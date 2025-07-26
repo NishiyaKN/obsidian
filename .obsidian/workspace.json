@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/6.3 - OCI Vault.md",
+                "file": "500 OCI/7 - Governance & Administration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.3 - OCI Vault"
+              "title": "7 - Governance & Administration"
             }
           }
         ],
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/6.3 - OCI Vault.md",
+                "file": "500 OCI/7 - Governance & Administration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6.3 - OCI Vault"
+              "title": "Outline of 7 - Governance & Administration"
             }
           }
         ],
@@ -217,17 +217,17 @@
   },
   "active": "0948cd5fe48b7c8d",
   "lastOpenFiles": [
-    "Dashboard.canvas",
     "500 OCI/6.3 - OCI Vault.md",
+    "500 OCI/6.2 - Security Zones and Security Advisor.md",
+    "500 OCI/7 - Governance & Administration.md",
+    "500 OCI/6.1 - Cloud Guard.md",
+    "Dashboard.canvas",
     "25-07.md",
     "Untitled.canvas",
     "200 Linux/Commands.md",
     "100 Prompts/CS Help.md",
     "200 Linux/Linux Essentials.md",
-    "500 OCI/6.2 - Security Zones and Security Advisor.md",
-    "500 OCI/6.1 - Cloud Guard.md",
     "500 OCI/6 - Security.md",
-    "500 OCI/7 - Governance & Administration.md",
     "Intern.md",
     "500 OCI/4 - Compute.md",
     "500 OCI/2 - IAM.md",
