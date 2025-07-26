@@ -23,12 +23,11 @@
 ### Peering
 - Cannot have overlapping CIDRs
 - **Local Peering**: communication between 2 VCNs in the same region
-	- Uses Local Peering Gateway ( not created by default when creating a VCN)
+	- Uses Local Peering Gateway (not created by default when creating a VCN)
 - **Remote Peering**: communication between 2 VCNs in different regions
 	- Uses Dynamic Routing Gateway on each each VCN
 - **VCN Transit Routing:** communication between up to 300 VCNs
 	- By linking all of them to a Dynamic Routing Gateway V2
-
 ## Load Balancer (Reverse Proxy)
 - High availability and scalability
 ### Layer 7 LB

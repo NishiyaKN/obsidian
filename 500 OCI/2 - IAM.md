@@ -12,7 +12,6 @@
 - API signing keys - public-private key pair to authenticate API calls
 - Authentication Tokens - Oracle generated token strings for third-party APIs 
 - Federation - uses an external Identity Provider (IdP)
-
 ### AuthZ - Authorization
 - Permissions via IAM policies
 	- Can be attached to a compartment or tenancy
@@ -38,7 +37,6 @@
 	- Resources can be moved between compartments
 	- Every compartment is global, available in every region
 	- Up to 6 levels of nesting of compartments
-	- Can set budgets and quotas in each compartment
 # Tenancy
 - User account environment
 - Tenancy Admin: who creates the account
