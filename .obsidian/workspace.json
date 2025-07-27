@@ -39,17 +39,14 @@
             "id": "0948cd5fe48b7c8d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.6029145455438982
-                }
+                "file": "500 OCI/2 - IAM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "2 - IAM"
             }
           }
         ],
@@ -185,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/2 - IAM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 2 - IAM"
             }
           }
         ],
@@ -234,10 +231,13 @@
   },
   "active": "0948cd5fe48b7c8d",
   "lastOpenFiles": [
+    "500 OCI/2.1 - Identity Domain Types.md",
+    "500 OCI/2 - IAM.md",
+    "500 OCI/2.2 - Tenancy.md",
+    "Dashboard.canvas",
     "600 AI/OCI Select AI.md",
     "500 OCI/7 - Governance & Administration.md",
     "500 OCI/6.3 - OCI Vault.md",
-    "Dashboard.canvas",
     "500 OCI/3.1 - Security.md",
     "500 OCI/3 - Networking.md",
     "500 OCI/4.2 - Serverless.md",
@@ -256,11 +256,9 @@
     "500 OCI/6 - Security.md",
     "500 OCI/4.1 - Containers.md",
     "500 OCI/4 - Compute.md",
-    "500 OCI/2 - IAM.md",
     "200 Linux/Commands.md",
     "100 Prompts/CS Help.md",
     "200 Linux/Linux Essentials.md",
-    "600 AI/3.1.2 - CNN.md",
     "500 OCI/Media/Pasted image 20250723170929.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media",

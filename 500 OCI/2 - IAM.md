@@ -1,17 +1,21 @@
 # Identity and Access Management Service
-- Fine-grained Access Control
 ## Principal
 - Users
 - Instance principal - resources that can make API calls to other OCI services
 - Groups
 ## Identity Domain
 - Container for managing users, groups and policies
+	- For example: separate production team, development team
 - Each tenancy has at least one Identity Domain
 ### AuthN - Authentication
 - Username and password
 - API signing keys - public-private key pair to authenticate API calls
 - Authentication Tokens - Oracle generated token strings for third-party APIs 
 - Federation - uses an external Identity Provider (IdP)
+#### AuthN glossary
+- **SSO (Single Sign-On)** - use a single set of credentials (user & passwd) to access multiple independent applications
+- **SAML (Security Assertion Markup Language)** - protocol used to exchange auth data between Identity Provider and Service Provider (SSO for web apps)
+- **OAuth** - allow a third-party app to have limited access to a service (like login with Google or Facebook)
 ### AuthZ - Authorization
 - Permissions via IAM policies
 	- Can be attached to a compartment or tenancy
@@ -30,19 +34,3 @@
 - object-family
 - virtual-network-family
 - volume-family 
-# Compartment
-- When creating an account in OCI you get a **Root Compartment**
-- Inside the root compartment, you can create compartments for isolation and controlling access of the cloud resources
-	- Resources from different compartments can communicate to each other
-	- Resources can be moved between compartments
-	- Every compartment is global, available in every region
-	- Up to 6 levels of nesting of compartments
-# Tenancy
-- User account environment
-- Tenancy Admin: who creates the account
-- Best practices:
-	- Don't use Tenancy Admin for day-to-day operations
-		 - Have OCI Admin (a user or group of admins) with proper policies to do that
-	- Create dedicated compartments to isolate resources
-# OCID (Oracle Cloud ID)
-- Unique Oracle-assigned identifier for each OCI resource 
