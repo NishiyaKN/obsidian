@@ -4,5 +4,5 @@
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }

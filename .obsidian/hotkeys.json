@@ -16,5 +16,15 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:open-search-replace": []
 }

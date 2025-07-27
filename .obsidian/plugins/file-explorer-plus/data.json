@@ -24,6 +24,20 @@
         "type": "FILES",
         "pattern": "Dashboard.canvas",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "500 OCI/Media",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "500 OCI/1 - OCI Architecture.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

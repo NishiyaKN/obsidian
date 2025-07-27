@@ -1,0 +1,21 @@
+# Identity and Access Management Service
+## Principal
+- Users
+- Instance principal - resources that can make API calls to other OCI services
+- Groups
+## Identity Domain
+- Container for managing users, groups and policies
+	- For example: separate production team, development team
+- **Default Domain**: created automatically in the **Root Compartment**
+	- ==To create domain, it needs to be contained in a Compartment, either Root or a new one==
+- Each Identity Domain has a default administrator group and admin user
+- The selected region in the console when creating a domain will become the domain's home region
+	- Not replicated automatically to other regions
+### Default Domain
+- Auto created in the tenancy
+- Replicated across all regions
+### Default Groups
+- Exists in every domain
+- Cannot be deleted
+- **All Domain Users** - contains all users
+- **Administrators** - users with access to all OCI resources
