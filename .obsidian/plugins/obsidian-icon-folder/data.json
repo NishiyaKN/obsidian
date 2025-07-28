@@ -38,11 +38,11 @@
   "400 GCP": "SiGooglecloud",
   "300 AWS": "SiAmazonaws",
   "200 Linux": "SiLinux",
-  "100 Prompts": "SiGnubash",
   "600 AI": "SiOpenai",
   "800 PY": "SiPython",
   "998 MISC": "LiAtom",
   "999 Excalidraw": "SiExcalidraw",
   "Dashboard.canvas": "LiLayoutDashboard",
-  "000 USCS": "LiBookText"
+  "000 USCS": "LiBookText",
+  "100 AI Prompts": "SiGnubash"
 }

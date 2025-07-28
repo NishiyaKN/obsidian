@@ -1,6 +1,89 @@
 {
-  "cascadeColors": false,
+  "cascadeColors": true,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "lFBed10gt8rOqJAIBgtrU",
+      "name": "Oracle",
+      "value": "#ec0005"
+    },
+    {
+      "id": "Tcyf8M41Vb_2FQafv4vI4",
+      "name": "OpenAI",
+      "value": "#0ea882"
+    },
+    {
+      "id": "S0bB0fN4gIihX97cvHtsV",
+      "name": "Amazon",
+      "value": "#ff9a00"
+    },
+    {
+      "id": "sY12nTlPuzz5f4dQlcwjL",
+      "name": "Linux",
+      "value": "#f6da1f"
+    },
+    {
+      "id": "gEolfxRvkjsGRAD8xQp6E",
+      "name": "Bash",
+      "value": "#47b453"
+    },
+    {
+      "id": "HwSwdnL6ZFlFfhPWym1Vq",
+      "name": "Google",
+      "value": "#4889f4"
+    },
+    {
+      "id": "nFDNUgbT1fJlAyWeerqEC",
+      "name": "Python",
+      "value": "#ffd347"
+    },
+    {
+      "id": "7N5Y8vzC5WCfUVgMeGQni",
+      "name": "React",
+      "value": "#0880a4"
+    },
+    {
+      "id": "CbKmc9wenNmQ64DOMKFw6",
+      "name": "USCS",
+      "value": "#0d5bab"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "500 OCI",
+      "color": "lFBed10gt8rOqJAIBgtrU"
+    },
+    {
+      "path": "300 AWS",
+      "color": "S0bB0fN4gIihX97cvHtsV"
+    },
+    {
+      "path": "200 Linux",
+      "color": "sY12nTlPuzz5f4dQlcwjL"
+    },
+    {
+      "path": "600 AI",
+      "color": "Tcyf8M41Vb_2FQafv4vI4"
+    },
+    {
+      "path": "800 PY",
+      "color": "nFDNUgbT1fJlAyWeerqEC"
+    },
+    {
+      "path": "998 MISC",
+      "color": "7N5Y8vzC5WCfUVgMeGQni"
+    },
+    {
+      "path": "400 GCP",
+      "color": "HwSwdnL6ZFlFfhPWym1Vq"
+    },
+    {
+      "path": "100 AI Prompts",
+      "color": "gEolfxRvkjsGRAD8xQp6E"
+    },
+    {
+      "path": "000 USCS",
+      "color": "CbKmc9wenNmQ64DOMKFw6"
+    }
+  ]
 }
