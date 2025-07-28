@@ -1,8 +1,3 @@
-# Identity and Access Management Service
-## Principal
-- Users
-- Instance principal - resources that can make API calls to other OCI services
-- Groups
 ## Identity Domain
 - Container for managing users, groups and policies
 	- For example: separate production team, development team
@@ -19,3 +14,7 @@
 - Cannot be deleted
 - **All Domain Users** - contains all users
 - **Administrators** - users with access to all OCI resources
+## Principal
+- Users
+- Instance principal - resources that can make API calls to other OCI services
+- Groups
