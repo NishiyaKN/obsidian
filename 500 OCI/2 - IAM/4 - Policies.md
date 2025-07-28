@@ -1,0 +1,34 @@
+>`Allow <subject> to <action> in <placement> where <conditions>`
+## Subjects
+![[Pasted image 20250727214014.png]]
+>`allow group 'Production'/'NetworkAdmin' ...`
+
+ **Dynamic-group:** used when you want to call a particular service from another service
+	Ex: compute instance call object storage
+
+- You can use OCID too
+![[Pasted image 20250727214121.png]]
+ **More than one name or group can be specified in the same policy:**
+`allow group default/A-Admins, default/B-Admins`
+
+==**If no domain is prefixed, default will be assumed**==:
+>`allow group NetworkAdmin` == `allow group default/NetworkAdmin`
+## Actions
+![[Pasted image 20250727214512.png|800]]
+### Verbs
+- **Inspect:** observe and monitor w/o access to confidential info
+- **Read:** inspect + access everything
+- **Use:** read + modify pre-existing resources
+- **Manage:** all permissions for the resource
+### Resource Type
+- all-resources
+- specific resource (ex: buckets, db-systems, instances, etc)
+- database-family
+- instance-family
+- object-family
+- virtual-network-family
+- volume-family 
+## Placement
+![[Pasted image 20250727215252.png]]
+Determines the scope of the policy (tenancy, specific compartment)
+> `allow group Prod/NetworkAdmin to manage virtual-network-family in compartment Sandbox`

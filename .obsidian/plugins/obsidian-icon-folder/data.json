@@ -42,7 +42,10 @@
   "800 PY": "SiPython",
   "998 MISC": "LiAtom",
   "999 Excalidraw": "SiExcalidraw",
-  "Dashboard.canvas": "LiLayoutDashboard",
+  "Dashboard.canvas": {
+    "iconName": "LiLayoutDashboard",
+    "iconColor": "#e50b0b"
+  },
   "000 USCS": "LiBookText",
   "100 AI Prompts": "SiGnubash"
 }
