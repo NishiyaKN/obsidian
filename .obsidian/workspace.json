@@ -25,20 +25,18 @@
             "id": "dbc95526c583495b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
+                "file": "500 OCI/2 - IAM/2.1 Compartments.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "2.1 Compartments"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/1 - OCI Architecture.md",
+                "file": "500 OCI/2 - IAM/2.1 Compartments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 - OCI Architecture"
+              "title": "Outline of 2.1 Compartments"
             }
           }
         ],
@@ -217,15 +215,23 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "05cdab3fc946d599",
+  "active": "dbc95526c583495b",
   "lastOpenFiles": [
-    "500 OCI/3 - Networking/3 - Networking.md",
-    "Dashboard.canvas",
-    "500 OCI/2 - IAM/2.2 ID.md",
     "500 OCI/2 - IAM/2.1.1 Quotas.md",
-    "500 OCI/2 - IAM/2.1 Compartments.md",
-    "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
     "500 OCI/2 - IAM/2.4.4 TBAC.md",
+    "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
+    "500 OCI/2 - IAM/2.4.3 Permissions.md",
+    "500 OCI/2 - IAM/2.4.2 Conditional Policies.md",
+    "500 OCI/2 - IAM/2.4.1 Inheritance.md",
+    "500 OCI/2 - IAM/2.4 Policies.md",
+    "500 OCI/2 - IAM/2.3 Managing Users.md",
+    "500 OCI/2 - IAM/2.2.2 ID Types.md",
+    "500 OCI/2 - IAM/2.2.1 Auth.md",
+    "500 OCI/2 - IAM/2.1 Compartments.md",
+    "Dashboard.canvas",
+    "500 OCI/1 - OCI Architecture.md",
+    "500 OCI/3 - Networking/3 - Networking.md",
+    "500 OCI/2 - IAM/2.2 ID.md",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media/Pasted image 20250727183939.png",
@@ -236,14 +242,6 @@
     "500 OCI/Media/Pasted image 20250727215252.png",
     "500 OCI/Media/Pasted image 20250727224123.png",
     "500 OCI/Media/Pasted image 20250728125640.png",
-    "500 OCI/1 - OCI Architecture.md",
-    "500 OCI/2 - IAM/2.4.2 Conditional Policies.md",
-    "500 OCI/2 - IAM/2.4.3 Permissions.md",
-    "500 OCI/2 - IAM/2.4 Policies.md",
-    "500 OCI/2 - IAM/2.2.2 ID Types.md",
-    "500 OCI/2 - IAM/2.2.1 Auth.md",
-    "500 OCI/2 - IAM/2.3 Managing Users.md",
-    "500 OCI/2 - IAM/2.4.1 Inheritance.md",
     "100 Prompts/Untitled.md",
     "Intern.md",
     "Pasted image 20250727183939.md",
