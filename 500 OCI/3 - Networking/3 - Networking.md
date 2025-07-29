@@ -1,6 +1,7 @@
 ## VCN - Virtual Cloud Network
 - Private network used for communication between resources
 - Specific to each OCI region
+- Up to 5 IPv4 and IPv6
 ### Gateways
 #### Internet Gateway
 - Handles communication between the public subnet and the internet
@@ -41,3 +42,13 @@
 - Network Load Balancer
 - Works with TCP, UDP & ICMP
 - Ultra-low latency, faster than Layer 7 LB
+# CIDR Blocks
+- Denotes the range of IP addresses
+- Example: 10.0.0.0 to 10.0.255.255 = 10.0.0.0/16
+	- /16 since the first 16 bits (10.0) does not change
+	- To get the total IPs in this network, do 2^32-16
+		- -16 since it is /16, so in total 2^16 = 65536
+- The **network address** is derived from an IP address && subnet mask
+>`192.168.1.2 = 11000000 10101000 00000001 00000010
+> `/24 mask    = 11111111 11111111 11111111 00000000`
+> `192.168.1.0 = 11000000 10101000 00000001 00000000`

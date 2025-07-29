@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/2 - IAM/2.2 ID.md",
+                "file": "500 OCI/3 - Networking/3 - Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 ID"
+              "title": "3 - Networking"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/2 - IAM/2.2 ID.md",
+                "file": "500 OCI/3 - Networking/3 - Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.2 ID"
+              "title": "Outline of 3 - Networking"
             }
           }
         ],
@@ -219,9 +219,11 @@
   },
   "active": "05cdab3fc946d599",
   "lastOpenFiles": [
+    "Dashboard.canvas",
+    "500 OCI/3 - Networking/3 - Networking.md",
+    "500 OCI/2 - IAM/2.2 ID.md",
     "500 OCI/2 - IAM/2.1.1 Quotas.md",
     "500 OCI/2 - IAM/2.1 Compartments.md",
-    "500 OCI/2 - IAM/2.2 ID.md",
     "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
     "500 OCI/2 - IAM/2.4.4 TBAC.md",
     "500 OCI/Media/Pasted image 20250723124706.png",
@@ -235,7 +237,6 @@
     "500 OCI/Media/Pasted image 20250727224123.png",
     "500 OCI/Media/Pasted image 20250728125640.png",
     "500 OCI/1 - OCI Architecture.md",
-    "Dashboard.canvas",
     "500 OCI/2 - IAM/2.4.2 Conditional Policies.md",
     "500 OCI/2 - IAM/2.4.3 Permissions.md",
     "500 OCI/2 - IAM/2.4 Policies.md",
@@ -254,7 +255,6 @@
     "998 MISC/NIPOMED.md",
     "998 MISC/Logic Rationale.md",
     "998 MISC/Linux.md",
-    "998 MISC/2025 exame óculos.md",
     "500 OCI/6 - Security",
     "500 OCI/5 - Storage",
     "500 OCI/4 - Compute",
