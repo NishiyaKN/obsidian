@@ -1,7 +1,10 @@
 ## VCN - Virtual Cloud Network
 - Private network used for communication between resources
 - Specific to each OCI region
-- Up to 5 IPv4 and IPv6
+- Allowable VCN size range is /16 to /30
+- Up to 5 IPv4 and 5 IPv6 CIDR blocks
+	- Oracle-allocated IPv6 prefix is /56
+	- BYOIPv6 prefix is allowed
 ### Gateways
 #### Internet Gateway
 - Handles communication between the public subnet and the internet
@@ -52,3 +55,7 @@
 >`192.168.1.2 = 11000000 10101000 00000001 00000010
 > `/24 mask    = 11111111 11111111 11111111 00000000`
 > `192.168.1.0 = 11000000 10101000 00000001 00000000`
+### Reserved IPs
+- 1st = Network Address
+- 2nd = Subnet Default Gateway Address
+- Last = Broadcast Address
