@@ -25,20 +25,18 @@
             "id": "30fb388c0d239b8d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
+                "file": "100 AI Prompts/Japanese Vocab.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Japanese Vocab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
+                "file": "100 AI Prompts/Japanese Vocab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.4.5 - Network Sources"
+              "title": "Outline of Japanese Vocab"
             }
           }
         ],
@@ -217,8 +215,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "96e5cb3fa20e4837",
+  "active": "30fb388c0d239b8d",
   "lastOpenFiles": [
+    "100 AI Prompts/Japanese Vocab Disambiguation.md",
+    "100 AI Prompts/Japanese Vocab.md",
+    "Dashboard.canvas",
+    "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
     "500 OCI/2 - IAM/2.4.1 Inheritance.md",
     "500 OCI/2 - IAM/2.4 Policies.md",
     "500 OCI/2 - IAM/2.3 Managing Users.md",
@@ -228,9 +230,7 @@
     "500 OCI/2 - IAM/2.1.1 Quotas.md",
     "500 OCI/2 - IAM/2.1 Compartments.md",
     "500 OCI/1 - OCI Architecture.md",
-    "Dashboard.canvas",
     "500 OCI/2 - IAM/2.4.4 TBAC.md",
-    "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
     "500 OCI/2 - IAM/2.4.3 Permissions.md",
     "500 OCI/2 - IAM/2.4.2 Conditional Policies.md",
     "500 OCI/3 - Networking/3 - Networking.md",
@@ -254,7 +254,6 @@
     "998 MISC/React JS.md",
     "998 MISC/NIPOMED.md",
     "998 MISC/Logic Rationale.md",
-    "998 MISC/Linux.md",
     "500 OCI/6 - Security",
     "500 OCI/5 - Storage",
     "500 OCI/4 - Compute",
