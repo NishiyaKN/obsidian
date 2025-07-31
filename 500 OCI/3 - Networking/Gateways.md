@@ -8,3 +8,11 @@
 - Max of 20,000 concurrent connections
 ### Traffic Blocking
 - Regardless of any route or security rule, you can set to block traffic flowing through the NATGW
+## Service Gateway
+- Connect to Oracle Services Network without going through the Internet
+	- Only connects to resources in the same **region**
+### Services CIDR Label
+- String that represents all regional public IP address ranges
+### Private Network Definition List
+-  Enables Cloud Shell to connect to a private subnet
+	- Makes possible to ssh into instances in the private subnet
