@@ -25,17 +25,14 @@
             "id": "385e1346022d986c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
+                "file": "500 OCI/3 - Networking/3.5 IP Addresses.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "3.5 IP Addresses"
             }
           }
         ],
@@ -171,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/3 - Networking/3.5 IP Addresses.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 3.5 IP Addresses"
             }
           }
         ],
@@ -220,8 +217,8 @@
   },
   "active": "385e1346022d986c",
   "lastOpenFiles": [
-    "500 OCI/3 - Networking/3.5 IP Addresses.md",
     "Dashboard.canvas",
+    "500 OCI/3 - Networking/3.5 IP Addresses.md",
     "500 OCI/3 - Networking/3.1 VCN.md",
     "500 OCI/3 - Networking/3.4 Security.md",
     "500 OCI/3 - Networking/3.3 Gateways.md",
