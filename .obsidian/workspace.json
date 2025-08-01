@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/3 - Networking/IP Addresses.md",
+                "file": "500 OCI/3 - Networking/3.5 IP Addresses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP Addresses"
+              "title": "3.5 IP Addresses"
             }
           },
           {
@@ -38,7 +38,8 @@
               "title": "Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/3 - Networking/IP Addresses.md",
+                "file": "Dashboard.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IP Addresses"
+              "title": "Outline of Dashboard"
             }
           }
         ],
@@ -217,10 +218,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "96e5cb3fa20e4837",
+  "active": "385e1346022d986c",
   "lastOpenFiles": [
+    "500 OCI/3 - Networking/3.5 IP Addresses.md",
     "Dashboard.canvas",
-    "500 OCI/3 - Networking/IP Addresses.md",
     "500 OCI/3 - Networking/3.1 VCN.md",
     "500 OCI/3 - Networking/3.4 Security.md",
     "500 OCI/3 - Networking/3.3 Gateways.md",
