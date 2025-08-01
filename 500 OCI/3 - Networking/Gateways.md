@@ -13,6 +13,3 @@
 	- Only connects to resources in the same **region**
 ### Services CIDR Label
 - String that represents all regional public IP address ranges
-### Private Network Definition List
--  Enables Cloud Shell to connect to a private subnet
-	- Makes possible to ssh into instances in the private subnet
