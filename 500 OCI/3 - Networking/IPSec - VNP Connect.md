@@ -1,0 +1,24 @@
+- Site-to-Site VPN connection
+- Packets traverse through the internet
+	- Encrypted before going through
+- When creating this connection, needs to provide
+	- DRG
+	- CPE object - Customer Provided Equipment (on-premises) with a public IP address
+		- Up to 8 IPSec connections per public IP
+		- Default Internet Key Exchange Identifier is the public IP
+			- If CPE is connected to a NAT device
+				- Need to change the IKE Identifier to the CPE private IP
+## Modes
+### Transport
+- Header stays intact
+- Payload is encrypted
+### Tunnel
+- This is the one used by OCI
+- Encrypt and authenticate both header and payload
+- Uses 2 redundant tunnels, each can any of those, but recommended to both be the same type:
+	- Static routing 
+	- Dynamic routing with BGP
+	- Policy based routing 
+- Each tunnel has
+	- Public IP address
+	- Shared secret
