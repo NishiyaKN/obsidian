@@ -20,6 +20,23 @@
               "icon": "lucide-file",
               "title": "3.3.1 DRG"
             }
+          },
+          {
+            "id": "44104890d89c2f36",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 360,
+                  "y": 196,
+                  "zoom": -0.5710464918808523
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
+            }
           }
         ]
       }
@@ -202,11 +219,11 @@
   },
   "active": "96e5cb3fa20e4837",
   "lastOpenFiles": [
-    "500 OCI/3 - Networking/3.3 Gateways.md",
+    "Dashboard.canvas",
     "500 OCI/3 - Networking/3.3.1 DRG.md",
+    "500 OCI/3 - Networking/3.3 Gateways.md",
     "500 OCI/3 - Networking/3.2 Route Table.md",
     "500 OCI/3 - Networking/3.5 IP Addresses.md",
-    "Dashboard.canvas",
     "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
     "500 OCI/3 - Networking/3.1 VCN.md",
     "500 OCI/3 - Networking/3.4 Security.md",
@@ -238,7 +255,6 @@
     "500 OCI/Media/Pasted image 20250727224123.png",
     "500 OCI/Media/Pasted image 20250728125640.png",
     "100 Prompts/Untitled.md",
-    "Pasted image 20250727183939.md",
     "500 OCI/6 - Security",
     "500 OCI/5 - Storage",
     "500 OCI/4 - Compute",
