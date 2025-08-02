@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/3 - Networking/IPSec - VNP Connect.md",
+                "file": "500 OCI/3 - Networking/3.3.1 DRG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPSec - VNP Connect"
+              "title": "3.3.1 DRG"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/3 - Networking/IPSec - VNP Connect.md",
+                "file": "500 OCI/3 - Networking/3.3.1 DRG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IPSec - VNP Connect"
+              "title": "Outline of 3.3.1 DRG"
             }
           }
         ],
@@ -219,16 +219,17 @@
   },
   "active": "96e5cb3fa20e4837",
   "lastOpenFiles": [
+    "500 OCI/3 - Networking/3.3.1.2 FastConnect.md",
+    "500 OCI/3 - Networking/3.5 IP Addresses.md",
+    "500 OCI/3 - Networking/3.4 Security.md",
+    "500 OCI/3 - Networking/3.3.1.1 IPSec - VNP Connect.md",
     "500 OCI/Untitled.md",
-    "500 OCI/3 - Networking/IPSec - VNP Connect.md",
     "500 OCI/3 - Networking/3.3 Gateways.md",
     "500 OCI/3 - Networking/3.3.1 DRG.md",
     "Dashboard.canvas",
     "500 OCI/3 - Networking/3.2 Route Table.md",
-    "500 OCI/3 - Networking/3.5 IP Addresses.md",
     "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
     "500 OCI/3 - Networking/3.1 VCN.md",
-    "500 OCI/3 - Networking/3.4 Security.md",
     "500 OCI/3 - Networking/3.0 Networking.md",
     "Intern.md",
     "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
@@ -245,7 +246,6 @@
     "500 OCI/1 - OCI Architecture.md",
     "500 OCI/2 - IAM/2.4.4 TBAC.md",
     "500 OCI/2 - IAM/2.4.3 Permissions.md",
-    "500 OCI/2 - IAM/2.4.2 Conditional Policies.md",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media/Pasted image 20250727183939.png",
