@@ -25,17 +25,14 @@
             "id": "44104890d89c2f36",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
+                "file": "500 OCI/3 - Networking/3.3 Route Table.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "3.3 Route Table"
             }
           }
         ],
@@ -171,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/3 - Networking/3.3 Route Table.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 3.3 Route Table"
             }
           }
         ],
@@ -220,20 +217,20 @@
   },
   "active": "44104890d89c2f36",
   "lastOpenFiles": [
+    "500 OCI/3 - Networking/3.1.1.2.1 FC Concepts.md",
+    "500 OCI/3 - Networking/3.2 Gateways.md",
+    "500 OCI/3 - Networking/3.1 VCN.md",
+    "Dashboard.canvas",
     "500 OCI/Untitled.md",
     "500 OCI/3 - Networking/3.1.1.1 IPSec - VNP Connect.md",
-    "500 OCI/3 - Networking/3.1.1.2.1 FC Concepts.md",
     "500 OCI/3 - Networking/3.1.1.2 FastConnect.md",
     "500 OCI/3 - Networking/3.2.1 DRG.md",
     "500 OCI/3 - Networking/3.1.2 Transit Routing.md",
     "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
-    "500 OCI/3 - Networking/3.1 VCN.md",
     "500 OCI/3 - Networking/3.0.1 IP Addresses.md",
     "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/3 - Networking/3.3 Route Table.md",
-    "500 OCI/3 - Networking/3.2 Gateways.md",
     "500 OCI/3 - Networking/3.4 Security.md",
-    "Dashboard.canvas",
     "Intern.md",
     "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
     "100 AI Prompts/Japanese Vocab.md",
@@ -246,7 +243,6 @@
     "500 OCI/2 - IAM/2.2 ID.md",
     "500 OCI/2 - IAM/2.1.1 Quotas.md",
     "500 OCI/2 - IAM/2.1 Compartments.md",
-    "500 OCI/1 - OCI Architecture.md",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media/Pasted image 20250727183939.png",
