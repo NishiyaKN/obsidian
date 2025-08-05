@@ -39,21 +39,18 @@
             "id": "dc93bdcddfe97baf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
+                "file": "100 AI Prompts/Japanese Vocab.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Japanese Vocab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/3 - Networking/3.0 Networking.md",
+                "file": "100 AI Prompts/Japanese Vocab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.0 Networking"
+              "title": "Outline of Japanese Vocab"
             }
           }
         ],
@@ -232,8 +229,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "44104890d89c2f36",
+  "active": "dc93bdcddfe97baf",
   "lastOpenFiles": [
+    "100 AI Prompts/Japanese Vocab Disambiguation.md",
+    "Dashboard.canvas",
+    "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/3 - Networking/3.0.1 IP Addresses.md",
     "500 OCI/3 - Networking/3.5 Load Balancer.md",
     "500 OCI/3 - Networking/3.3 Route Table.md",
@@ -241,7 +241,6 @@
     "500 OCI/3 - Networking/3.1.1.2.1 FC Concepts.md",
     "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
     "500 OCI/3 - Networking/3.1 VCN.md",
-    "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/3 - Networking/3.5.1 LB Concepts.md",
     "500 OCI/3 - Networking/3.5.2 LB Policies.md",
     "100 AI Prompts/Flashcards EN 2.md",
@@ -259,8 +258,6 @@
     "500 OCI/2 - IAM/2.1.1 Quotas.md",
     "500 OCI/2 - IAM/2.1 Compartments.md",
     "100 AI Prompts/Flashcards EN.md",
-    "100 AI Prompts/Flashcards BR.md",
-    "Dashboard.canvas",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media/Pasted image 20250727183939.png",
