@@ -11,17 +11,14 @@
             "id": "96e5cb3fa20e4837",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
+                "file": "Intern.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Intern"
             }
           },
           {
@@ -38,8 +35,7 @@
               "title": "Intern"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,14 +214,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "4efbbd91cbf3f689",
+  "active": "96e5cb3fa20e4837",
   "lastOpenFiles": [
+    "Dashboard.canvas",
+    "Intern.md",
     "500 OCI/3 - Networking/3.6.1 DNS Zones.md",
     "500 OCI/3 - Networking/3.1.1.1 IPSec - VNP Connect.md",
     "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/3 - Networking/3.6 DNS.md",
-    "Dashboard.canvas",
     "500 OCI/3 - Networking/3.5 Load Balancer.md",
     "500 OCI/3 - Networking/3.5.1 LB Concepts.md",
     "500 OCI/3 - Networking/3.5.3 WAA.md",
@@ -246,8 +243,6 @@
     "500 OCI/2 - IAM/2.4.3 Permissions.md",
     "500 OCI/2 - IAM/2.4.2 Conditional Policies.md",
     "500 OCI/2 - IAM/2.4.1 Inheritance.md",
-    "500 OCI/2 - IAM/2.4 Policies.md",
-    "500 OCI/2 - IAM/2.3 Managing Users.md",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media/Pasted image 20250727183939.png",
