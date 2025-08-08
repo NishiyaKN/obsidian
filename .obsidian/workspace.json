@@ -13,12 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/3 - Networking/3.6.2 TM.md",
+                "file": "500 OCI/3 - Networking/3.7 Network Command Center.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6.2 TM"
+              "title": "3.7 Network Command Center"
+            }
+          },
+          {
+            "id": "b3a58335dcfc38f1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 360,
+                  "y": 196,
+                  "zoom": -0.5710464918808523
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -153,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/3 - Networking/3.6.2 TM.md",
+                "file": "500 OCI/3 - Networking/3.7 Network Command Center.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.6.2 TM"
+              "title": "Outline of 3.7 Network Command Center"
             }
           }
         ],
@@ -202,13 +219,14 @@
   },
   "active": "4efbbd91cbf3f689",
   "lastOpenFiles": [
-    "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
+    "Dashboard.canvas",
+    "500 OCI/3 - Networking/3.7 Network Command Center.md",
     "500 OCI/3 - Networking/3.6.2 TM.md",
+    "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
     "500 OCI/3 - Networking/3.6.1 DNS Zones.md",
     "500 OCI/3 - Networking/3.6 DNS.md",
     "500 OCI/3 - Networking/3.5.3 WAA.md",
     "Intern.md",
-    "Dashboard.canvas",
     "500 OCI/3 - Networking/3.1.1.1 IPSec - VNP Connect.md",
     "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/Media/Pasted image 20250805195626.png",
@@ -228,8 +246,6 @@
     "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
     "500 OCI/2 - IAM/2.4.4 TBAC.md",
     "500 OCI/2 - IAM/2.4.3 Permissions.md",
-    "500 OCI/2 - IAM/2.4.2 Conditional Policies.md",
-    "500 OCI/2 - IAM/2.4.1 Inheritance.md",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
     "500 OCI/Media/Pasted image 20250727183939.png",
