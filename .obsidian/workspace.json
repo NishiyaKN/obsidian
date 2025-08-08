@@ -20,26 +20,8 @@
               "icon": "lucide-file",
               "title": "4 Compute"
             }
-          },
-          {
-            "id": "b3a58335dcfc38f1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/4 - Compute/4 Compute.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 4 Compute"
             }
           }
         ],
@@ -218,8 +200,9 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b3a58335dcfc38f1",
+  "active": "4efbbd91cbf3f689",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "500 OCI/4 - Compute/4 Compute.md",
     "500 OCI/4 - Compute/4.1 Images.md",
     "500 OCI/7 - Governance & Administration.md",
@@ -245,8 +228,6 @@
     "500 OCI/3 - Networking/3.4 Security.md",
     "500 OCI/3 - Networking/3.3 Route Table.md",
     "500 OCI/3 - Networking/3.2.1 DRG.md",
-    "500 OCI/3 - Networking/3.1.1.1 VNP Connect.md",
-    "Dashboard.canvas",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",

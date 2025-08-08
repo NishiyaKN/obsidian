@@ -10,10 +10,25 @@
 - **Virtual Machine**: shared, multi-tenant
 - **Bare Metal**: direct and exclusive access to the entire physical server hardware (no hypervisor)
 - **Dedicated Host**: run VMs without sharing the host with any other user (uses OCI's provided hypervisor)
+	- Not billed for individual VM instances (only for the host)
+	- Host shape determines capacity and types of instances
+	- Some OCPU are reserved for VM management, 
+	- Not supported features: autoscaling, capacity reservation, instance configurations/pools, reboot migration, burstable instance
+### Capacity
 - **Preemptible VM:** 
 	- Low-cost short-lived VMs (can be terminated any time with a 2-minute warning)
 	- Suited for batch jobs and fault-tolerant workloads
+	- Shape cannot be changed after creation
 	- 50% cheaper than normal VM instance
+- **Reserved:**
+	- Reserve compute capacity in advance
+		- Use this reserve when creating instances
+	- No size nor time commitment
+		- Reservation can be deleted anytime
+	- Unused reserved capacity is billed at 85%
+	- Used reserved capacity is billed at 100%
+	- Specific to the selected AD
+	- Cannot be used with dedicated VM Hosts
 ## Compute Networking
 - To create a compute instance, a VCN is needed
 - Instance gets an private IP by virtualizing it's physical NIC (VNIC)
