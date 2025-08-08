@@ -1,9 +1,12 @@
-## Compute Offerings
-- A **Instance Shape** specifies the number of CPUs, amount of RAM, and other resources allocated to an instance.
-	- Shapes can be based on AMD, Intel, or Ampere (Arm) CPUs.
-- An **Instance Configuration** is like a template
-	- It has the shape, base image and metadata
-### Instance Types
+## Compute Configurations
+- **Instance Shape** specifies the number of CPUs, amount of RAM, and other resources 
+	- Can be based on AMD, Intel, or Ampere (Arm) CPUs.
+	- **Fixed Shape:** can't be customized, bare metal or VM
+	- **Flexible Shape**: customizable, only VM
+- **Instance Configuration** is like a template
+	- Has the shape, base image and metadata
+- **Image** determines the OS and software
+## Instance Types
 - **Virtual Machine**: shared, multi-tenant
 - **Bare Metal**: direct and exclusive access to the entire physical server hardware (no hypervisor)
 - **Dedicated Host**: run VMs without sharing the host with any other user (uses OCI's provided hypervisor)
