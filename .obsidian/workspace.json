@@ -11,14 +11,17 @@
             "id": "4efbbd91cbf3f689",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "500 OCI/4 - Compute/4.4 Run Command.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 360,
+                  "y": 196,
+                  "zoom": -0.5710464918808523
+                }
               },
-              "icon": "lucide-file",
-              "title": "4.4 Run Command"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -153,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/4 - Compute/4.4 Run Command.md",
+                "file": "Dashboard.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.4 Run Command"
+              "title": "Outline of Dashboard"
             }
           }
         ],
