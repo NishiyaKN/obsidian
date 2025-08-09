@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/4 - Compute/4 Compute.md",
+                "file": "500 OCI/4 - Compute/4.4 Run Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Compute"
+              "title": "4.4 Run Command"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/4 - Compute/4 Compute.md",
+                "file": "500 OCI/4 - Compute/4.4 Run Command.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 Compute"
+              "title": "Outline of 4.4 Run Command"
             }
           }
         ],
@@ -202,8 +202,10 @@
   },
   "active": "4efbbd91cbf3f689",
   "lastOpenFiles": [
-    "Dashboard.canvas",
+    "500 OCI/4 - Compute/4.3 Instance Management.md",
+    "500 OCI/4 - Compute/4.4 Run Command.md",
     "500 OCI/4 - Compute/4 Compute.md",
+    "Dashboard.canvas",
     "500 OCI/4 - Compute/4.1 Images.md",
     "500 OCI/4 - Compute/4.2 Instance Types.md",
     "500 OCI/7 - Governance & Administration.md",
@@ -227,7 +229,6 @@
     "500 OCI/3 - Networking/3.5.1 LB Concepts.md",
     "500 OCI/3 - Networking/3.5 Load Balancer.md",
     "500 OCI/3 - Networking/3.4 Security.md",
-    "500 OCI/3 - Networking/3.3 Route Table.md",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
