@@ -12,14 +12,32 @@
 - To create a compute instance, a VCN is needed
 - Instance gets an private IP by virtualizing it's physical NIC (VNIC)
 - Uses a remote Boot Volume for OS and a remote Block Volume for additional data
-## High Availability
-### Live Migrate
-- During scheduled infrastructure maintenance, VMs are migrated to another host
-	- No need to reboot
-	- No downtime
-### Autoscaling	
+## Autoscaling	
 - Scale horizontally by adding or removing instances of the same time
-#### Autoscaling Steps
+	- Metric-based: when a performance metric exceeds a threshold
+	- Schedule-based: specific times that you schedule 
+### Autoscaling Steps
 1. Create Instance Configuration if it does not already exists
 2. Create an instance pool from the config (can manage the instances as one single unit)
 3. Write autoscaling rules (initial size, minimum size, maximum size, if CPU goes beyond X% add Y instances, etc)
+## Infrastructure Maintenance
+- When OCI's infra needs to receive some maintenance
+### Live Migration
+- Migrates VM to a health host
+- Small disruption
+- Only supported by specifi Linux shapes
+### Reboot Migration
+- Notifies 14 to 16 days in advance to reboot in order to migrate
+	- Needs to reboot the instance, not only the OS
+- If not rebooted in such time period, on the scheduled maintenance time it will auto reboot
+- Short downtime due to reboot
+### Manual Migration
+- Instance will be terminated and recreated
+- Boot volume needs to be preserved manually
+## Shielded Instances
+- Protects VM from rootkits and bootkits
+- Not all images and shapes support
+- Uses a combinations of
+	 - Secure Boot: ensures every component in the boot process has avalid signature
+	- Measured Boot: tracks boot measures
+	- TPM: security cyhip used by Measured Boot to store boot measurements
