@@ -1,8 +1,5 @@
 ## Storage Types
-- Local NVMe
-- Block Volume
-- Block Storage 
-- File Storage
+![[Pasted image 20250811125244.png]]
 ## Migration Services
 ### Data Transfer Disk
 - Send disks to Oracle to migrate the data
