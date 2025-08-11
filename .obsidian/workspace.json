@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/5 - Storage/5.1.3 Replication Policy.md",
+                "file": "500 OCI/5 - Storage/5.1.3 Object Durability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1.3 Replication Policy"
+              "title": "5.1.3 Object Durability"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/5 - Storage/5.1.3 Replication Policy.md",
+                "file": "500 OCI/5 - Storage/5.1.3 Object Durability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.1.3 Replication Policy"
+              "title": "Outline of 5.1.3 Object Durability"
             }
           }
         ],
@@ -218,11 +218,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "4cb6c259d41d4181",
+  "active": "a83c32916dc19d5d",
   "lastOpenFiles": [
-    "500 OCI/5 - Storage/5.1 Object Storage.md",
-    "500 OCI/5 - Storage/5.1.3 Replication Policy.md",
     "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
+    "500 OCI/5 - Storage/5.1.3 Object Durability.md",
+    "500 OCI/5 - Storage/5.1 Object Storage.md",
     "500 OCI/5 - Storage/5.3 File Storage.md",
     "500 OCI/5 - Storage/5.2 Block Volume.md",
     "500 OCI/5 - Storage/5.1.1 Tiers.md",
