@@ -11,17 +11,14 @@
             "id": "9eed3d341ea75f7a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 360,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
+                "file": "500 OCI/5 - Storage/5.3 File Storage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "5.3 File Storage"
             }
           },
           {
@@ -184,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/5 - Storage/5.3 File Storage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 5.3 File Storage"
             }
           }
         ],
@@ -233,15 +230,15 @@
   },
   "active": "9eed3d341ea75f7a",
   "lastOpenFiles": [
+    "500 OCI/5 - Storage/5.2.3 Durability.md",
+    "500 OCI/5 - Storage/5.2 Block Volume.md",
+    "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
+    "Dashboard.canvas",
     "JLPT N3.md",
     "Intern.md",
-    "500 OCI/5 - Storage/5.2 Block Volume.md",
-    "500 OCI/5 - Storage/5.2.3 Durability.md",
-    "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
     "500 OCI/5 - Storage/5.2.2 Types.md",
     "500 OCI/5 - Storage/Untitled.md",
     "500 OCI/5 - Storage/5.3 File Storage.md",
-    "Dashboard.canvas",
     "500 OCI/5 - Storage/Drawing 2025-08-11 13.06.09.excalidraw.md",
     "500 OCI/5 - Storage/5 Storage.md",
     "500 OCI/Media/Pasted image 20250811125244.png",
@@ -260,7 +257,6 @@
     "500 OCI/3 - Networking/3.3 Route Table.md",
     "500 OCI/3 - Networking/3.2.1 DRG.md",
     "500 OCI/3 - Networking/3.2 Gateways.md",
-    "500 OCI/3 - Networking/3.1.2 Transit Routing.md",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
