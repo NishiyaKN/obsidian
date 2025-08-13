@@ -11,14 +11,17 @@
             "id": "ec3bd8448ef302f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "500 OCI/5 - Storage/5.3.1 Durability.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 360,
+                  "y": 196,
+                  "zoom": -0.5710464918808523
+                }
               },
-              "icon": "lucide-file",
-              "title": "5.3.1 Durability"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -153,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/5 - Storage/5.3.1 Durability.md",
+                "file": "Dashboard.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.3.1 Durability"
+              "title": "Outline of Dashboard"
             }
           }
         ],
@@ -202,34 +205,35 @@
   },
   "active": "ec3bd8448ef302f0",
   "lastOpenFiles": [
+    "500 OCI/Untitled.md",
     "500 OCI/5 - Storage/5.3 File Storage.md",
     "500 OCI/5 - Storage/5.3.1 Durability.md",
-    "Dashboard.canvas",
+    "500 OCI/5 - Storage/5.3.2 Replication.md",
+    "500 OCI/5 - Storage/5.3.3 Security.md",
     "500 OCI/5 - Storage/5.2.3 Durability.md",
-    "100 AI Prompts/Japanese Vocab.md",
-    "500 OCI/5 - Storage/5.1.3 Object Durability.md",
-    "Pasted image 20250812151005.png",
-    "500 OCI/5 - Storage/5.2 Block Volume.md",
+    "500 OCI/5 - Storage/5.2.2 Types.md",
     "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
+    "500 OCI/5 - Storage/5.2 Block Volume.md",
+    "500 OCI/5 - Storage/5.1.4 Security.md",
+    "500 OCI/5 - Storage/5.1.3 Object Durability.md",
+    "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
+    "500 OCI/5 - Storage/5.1.1 Tiers.md",
+    "500 OCI/5 - Storage/5.1 Object Storage.md",
+    "500 OCI/5 - Storage/5 Storage.md",
+    "500 OCI/4 - Compute/4.8 Containers.md",
+    "500 OCI/4 - Compute/4.3 Instance Management.md",
+    "500 OCI/4 - Compute/4.4 IDK.md",
+    "500 OCI/4 - Compute/4.2 Instance Types.md",
+    "500 OCI/4 - Compute/4.1 Images.md",
+    "500 OCI/4 - Compute/4 Compute.md",
+    "Dashboard.canvas",
+    "100 AI Prompts/Japanese Vocab.md",
+    "Pasted image 20250812151005.png",
     "JLPT N3.md",
     "Intern.md",
-    "500 OCI/5 - Storage/5.2.2 Types.md",
     "500 OCI/5 - Storage/Drawing 2025-08-11 13.06.09.excalidraw.md",
-    "500 OCI/5 - Storage/5 Storage.md",
     "500 OCI/Media/Pasted image 20250811125244.png",
-    "500 OCI/5 - Storage/5.1.4 Security.md",
-    "500 OCI/5 - Storage/5.1 Object Storage.md",
-    "500 OCI/5 - Storage/5.1.1 Tiers.md",
-    "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
     "500 OCI/3 - Networking/3.6.1 DNS Zones.md",
-    "500 OCI/3 - Networking/3.6 DNS.md",
-    "500 OCI/3 - Networking/3.5.3 WAA (L7).md",
-    "500 OCI/3 - Networking/3.5.2 LB L7 Policies.md",
-    "500 OCI/3 - Networking/3.5.1 LB Concepts.md",
-    "500 OCI/3 - Networking/3.5 Load Balancer.md",
-    "500 OCI/3 - Networking/3.4 Security.md",
-    "500 OCI/3 - Networking/3.3 Route Table.md",
-    "500 OCI/3 - Networking/3.2.1 DRG.md",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/Media/Pasted image 20250723124706.png",
     "500 OCI/Media/Pasted image 20250723171027.png",
