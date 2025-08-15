@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
+                "file": "500 OCI/3 - Networking/3.2.1 DRG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1.1 VNC Connectivity Options"
+              "title": "3.2.1 DRG"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
+                "file": "500 OCI/3 - Networking/3.2.1 DRG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.1.1 VNC Connectivity Options"
+              "title": "Outline of 3.2.1 DRG"
             }
           }
         ],
@@ -219,10 +219,14 @@
   },
   "active": "ec3bd8448ef302f0",
   "lastOpenFiles": [
-    "Dashboard.canvas",
-    "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
     "500 OCI/3 - Networking/3.2 Gateways.md",
+    "500 OCI/3 - Networking/3.1.2 Transit Routing.md",
+    "500 OCI/3 - Networking/3.1.1.2.1 FC Concepts.md",
+    "500 OCI/3 - Networking/3.1.1.2 FastConnect.md",
+    "500 OCI/3 - Networking/3.1.1.1 VNP Connect.md",
+    "500 OCI/3 - Networking/3.1.1 VCNConnectivity Options.md",
     "500 OCI/3 - Networking/3.1 VCN.md",
+    "Dashboard.canvas",
     "500 OCI/3 - Networking/3.0.1 IP Addresses.md",
     "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
@@ -242,9 +246,6 @@
     "500 OCI/5 - Storage/5.3 File Storage.md",
     "500 OCI/5 - Storage/5.3.1 Durability.md",
     "500 OCI/5 - Storage/5.3.2 Replication.md",
-    "500 OCI/5 - Storage/5.3.3 Security.md",
-    "500 OCI/5 - Storage/5.2.3 Durability.md",
-    "500 OCI/5 - Storage/5.2.2 Types.md",
     "Pasted image 20250812151005.png",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
