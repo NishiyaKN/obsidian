@@ -13,12 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/3 - Networking/3.0.1 IP Addresses.md",
+                "file": "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.0.1 IP Addresses"
+              "title": "3.1.1 VNC Connectivity Options"
+            }
+          },
+          {
+            "id": "ca1cce58b2f5b838",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 608.6895729890765,
+                  "y": 196,
+                  "zoom": -0.5710464918808523
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -153,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/3 - Networking/3.0.1 IP Addresses.md",
+                "file": "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.0.1 IP Addresses"
+              "title": "Outline of 3.1.1 VNC Connectivity Options"
             }
           }
         ],
@@ -202,6 +219,11 @@
   },
   "active": "ec3bd8448ef302f0",
   "lastOpenFiles": [
+    "Dashboard.canvas",
+    "500 OCI/3 - Networking/3.1.1 VNC Connectivity Options.md",
+    "500 OCI/3 - Networking/3.2 Gateways.md",
+    "500 OCI/3 - Networking/3.1 VCN.md",
+    "500 OCI/3 - Networking/3.0.1 IP Addresses.md",
     "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/2 - IAM/2.4.5 - Network Sources.md",
     "500 OCI/2 - IAM/2.4.4 TBAC.md",
@@ -216,7 +238,6 @@
     "500 OCI/2 - IAM/2.2.2 ID Types.md",
     "500 OCI/2 - IAM/2.2.1 Auth.md",
     "500 OCI/1 - OCI Architecture.md",
-    "Dashboard.canvas",
     "500 OCI/Untitled.md",
     "500 OCI/5 - Storage/5.3 File Storage.md",
     "500 OCI/5 - Storage/5.3.1 Durability.md",
@@ -224,11 +245,6 @@
     "500 OCI/5 - Storage/5.3.3 Security.md",
     "500 OCI/5 - Storage/5.2.3 Durability.md",
     "500 OCI/5 - Storage/5.2.2 Types.md",
-    "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
-    "500 OCI/5 - Storage/5.2 Block Volume.md",
-    "500 OCI/5 - Storage/5.1.4 Security.md",
-    "500 OCI/5 - Storage/5.1.3 Object Durability.md",
-    "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
     "Pasted image 20250812151005.png",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",

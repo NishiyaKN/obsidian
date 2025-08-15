@@ -14,7 +14,8 @@
 		{"id":"4d9ba6883f755f15","type":"text","text":"OCI Networking","x":-200,"y":300,"width":250,"height":60},
 		{"id":"885d15519748ae9c","type":"text","text":"17/08 - 29/09; 120h","x":80,"y":200,"width":250,"height":60},
 		{"id":"7a1353f8a6734b4c","type":"text","text":"30/09 - 17/10; 60h","x":80,"y":300,"width":250,"height":60},
-		{"id":"10da219b89e84d9f","type":"text","text":"07/09 - 17/10; 120h","x":690,"y":300,"width":250,"height":60}
+		{"id":"10da219b89e84d9f","type":"text","text":"07/09 - 17/10; 120h","x":690,"y":300,"width":250,"height":60},
+		{"id":"a40e1ce2425fa2b1","type":"text","text":"Study: 1h","x":720,"y":20,"width":250,"height":80}
 	],
 	"edges":[
 		{"id":"3ca7e537579c8ce9","fromNode":"07df54360e67d2d7","fromSide":"right","toNode":"323136d36a78120b","toSide":"left"},
@@ -27,6 +28,7 @@
 		{"id":"09dc6890402b5889","fromNode":"2db36341d8e00f9c","fromSide":"right","toNode":"885d15519748ae9c","toSide":"left"},
 		{"id":"94017b20edd6e0da","fromNode":"4d9ba6883f755f15","fromSide":"right","toNode":"7a1353f8a6734b4c","toSide":"left"},
 		{"id":"36c308341a05b7eb","fromNode":"7c6222a9126434c0","fromSide":"right","toNode":"435a2790fc8ead01","toSide":"left"},
-		{"id":"1e2009af89f6b6d5","fromNode":"723ed153703bc82b","fromSide":"right","toNode":"10da219b89e84d9f","toSide":"left"}
+		{"id":"1e2009af89f6b6d5","fromNode":"723ed153703bc82b","fromSide":"right","toNode":"10da219b89e84d9f","toSide":"left"},
+		{"id":"8bbe2b49f1a34ad1","fromNode":"2691d8f5069e6c9d","fromSide":"right","toNode":"a40e1ce2425fa2b1","toSide":"left"}
 	]
 }
