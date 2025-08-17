@@ -1,10 +1,3 @@
-YES
-- Web Application Acceleration
-- Network Analyzer
-NO
-- Database/ Data Warehouse
-
-
 Compute
 
     Select appropriate compute choices
