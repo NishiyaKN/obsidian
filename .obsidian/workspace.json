@@ -13,26 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/4 - Compute/4.3 Instance Management.md",
+                "file": "500 OCI/2 - IAM/2.2.1 Auth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 Instance Management"
+              "title": "2.2.1 Auth"
             }
           },
           {
-            "id": "ca1cce58b2f5b838",
+            "id": "ebe26b67237fdec0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "500 OCI/3 - Networking/3.7 NCC.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 265,
+                  "y": 196,
+                  "zoom": -0.5525410230287788
+                }
               },
-              "icon": "lucide-file",
-              "title": "3.7 NCC"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -167,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/4 - Compute/4.3 Instance Management.md",
+                "file": "500 OCI/2 - IAM/2.2.1 Auth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.3 Instance Management"
+              "title": "Outline of 2.2.1 Auth"
             }
           }
         ],
@@ -216,33 +219,33 @@
   },
   "active": "ec3bd8448ef302f0",
   "lastOpenFiles": [
+    "500 OCI/2 - IAM/2.2 ID.md",
+    "500 OCI/2 - IAM/2.1.1 Quotas.md",
+    "500 OCI/2 - IAM/2.1 Compartments.md",
+    "500 OCI/5 - Storage/5 Storage.md",
+    "500 OCI/5 - Storage/5.2 Block Volume.md",
+    "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
+    "500 OCI/5 - Storage/5.1.3 Object Durability.md",
+    "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
+    "500 OCI/4 - Compute/4.3 Instance Management.md",
     "Dashboard.canvas",
+    "Pasted image 20250812151005.png",
+    "500 OCI/3 - Networking/3.7 NCC.md",
     "500 OCI/2 - IAM/2.4.4 TBAC.md",
     "500 OCI/7 - Governance & Administration.md",
     "500 OCI/4 - Compute/4 Compute.md",
-    "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
-    "500 OCI/5 - Storage/5.2 Block Volume.md",
     "500 OCI/5 - Storage/5.1.1 Tiers.md",
     "500 OCI/5 - Storage/5.1 Object Storage.md",
     "500 OCI/3 - Networking/3.4 Security.md",
     "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/5 - Storage/5.2.3 Durability.md",
     "500 OCI/5 - Storage/5.3.2 Replication.md",
-    "500 OCI/5 - Storage/5.1.3 Object Durability.md",
-    "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
     "500 OCI/5 - Storage/5.1.4 Security.md",
-    "500 OCI/5 - Storage/5 Storage.md",
     "500 OCI/4 - Compute/4.1 Images.md",
-    "500 OCI/4 - Compute/4.3 Instance Management.md",
     "500 OCI/2 - IAM/2.2.1 Auth.md",
-    "500 OCI/2 - IAM/2.2 ID.md",
-    "500 OCI/2 - IAM/2.1.1 Quotas.md",
-    "500 OCI/2 - IAM/2.1 Compartments.md",
     "500 OCI/2 - IAM/2.4 Policies.md",
     "500 OCI/2 - IAM/2.3 Managing Users.md",
     "500 OCI/2 - IAM/2.2.2 ID Types.md",
-    "JLPT N3.md",
-    "Pasted image 20250812151005.png",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/Media/Pasted image 20250723124706.png",
