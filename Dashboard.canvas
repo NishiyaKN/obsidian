@@ -9,7 +9,7 @@
 		{"id":"885d15519748ae9c","type":"text","text":"17/08 - 29/09; 120h","x":110,"y":480,"width":250,"height":60},
 		{"id":"4d9ba6883f755f15","type":"text","text":"OCI Networking","x":-170,"y":580,"width":250,"height":60},
 		{"id":"7a1353f8a6734b4c","type":"text","text":"30/09 - 17/10; 60h","x":110,"y":580,"width":250,"height":60},
-		{"id":"d757888f5bd21c46","type":"text","text":"AI Foundations (17/07 - 21/07)\n- 9h30m to completion\n- 5 days in total\n\nOCI Foundations (22/07 - 25/07)\n- 9h to completion\n- 4 days in total \n\nOCI Architect (27/07 - ??/??)\n- Course & Notes: 26h (27/07 - 13/08)\n- Notes study: 3h (14/08 - 16/08)\n- Practice questions: 1h (16/08 - ??/08)","x":-290,"y":-260,"width":450,"height":660}
+		{"id":"d757888f5bd21c46","type":"text","text":"AI Foundations (17/07 - 21/07)\n- 9h30m to completion\n- 5 days in total\n\nOCI Foundations (22/07 - 25/07)\n- 9h to completion\n- 4 days in total \n\nOCI Architect (27/07 - ??/??)\n- Course & Notes: 26h (27/07 - 13/08)\n- Notes study: 3h (14/08 - 16/08)\n- Practice questions: 1h (16/08 - ??/08)\n- Hands-on practice: 1h (16/08 - ??/08)","x":-290,"y":-260,"width":450,"height":660}
 	],
 	"edges":[
 		{"id":"09dc6890402b5889","fromNode":"2db36341d8e00f9c","fromSide":"right","toNode":"885d15519748ae9c","toSide":"left"},
