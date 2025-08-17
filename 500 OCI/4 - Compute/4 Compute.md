@@ -13,7 +13,7 @@
 - Instance gets an private IP by virtualizing it's physical NIC (VNIC)
 - Uses a remote Boot Volume for OS and a remote Block Volume for additional data
 ## Autoscaling	
-- Scale horizontally by adding or removing instances of the same time
+- Scale horizontally by adding or removing instances of the same type
 	- Metric-based: when a performance metric exceeds a threshold
 	- Schedule-based: specific times that you schedule 
 ### Autoscaling Steps
@@ -23,7 +23,7 @@
 ## Infrastructure Maintenance
 - When OCI's infra needs to receive some maintenance
 ### Live Migration
-- Migrates VM to a health host
+- Migrates VM to a healthy host
 - Small disruption, no downtime nor reboot
 - Only supported by specific Linux shapes
 ### Reboot Migration
@@ -39,6 +39,6 @@
 - Protects VM from rootkits and bootkits
 - Not all images and shapes support
 - Uses a combinations of
-	 - Secure Boot: ensures every component in the boot process has avalid signature
+	- Secure Boot: ensures every component in the boot process has avalid signature
 	- Measured Boot: tracks boot measures
 	- TPM: security chip used by Measured Boot to store boot measurements

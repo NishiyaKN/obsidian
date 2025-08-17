@@ -25,20 +25,18 @@
             "id": "ca1cce58b2f5b838",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 608.6895729890765,
-                  "y": 196,
-                  "zoom": -0.5710464918808523
-                }
+                "file": "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "5.2.1 Performance Levels"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/4 - Compute/4 Compute.md",
+                "file": "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 Compute"
+              "title": "Outline of 5.2.1 Performance Levels"
             }
           }
         ],
@@ -217,8 +215,22 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ec3bd8448ef302f0",
+  "active": "ca1cce58b2f5b838",
   "lastOpenFiles": [
+    "500 OCI/5 - Storage/5.2 Block Volume.md",
+    "500 OCI/5 - Storage/5.1.4 Security.md",
+    "500 OCI/5 - Storage/5.1.3 Object Durability.md",
+    "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
+    "500 OCI/5 - Storage/5.1 Object Storage.md",
+    "500 OCI/5 - Storage/5 Storage.md",
+    "500 OCI/5 - Storage/5.1.1 Tiers.md",
+    "500 OCI/4 - Compute/4.9 Serverless.md",
+    "500 OCI/4 - Compute/4.8 Containers.md",
+    "500 OCI/4 - Compute/4.3 Instance Management.md",
+    "500 OCI/4 - Compute/4.2 Instance Types.md",
+    "500 OCI/4 - Compute/4.1 Images.md",
+    "500 OCI/4 - Compute/4 Compute.md",
+    "Dashboard.canvas",
     "998 MISC/0MKSH/04S/ARQ/N1.md",
     "998 MISC/0MKSH/04S/ARQ/Exercicios.md",
     "998 MISC/0MKSH/04S/ARQ/12 - sla.md",
@@ -232,20 +244,6 @@
     "998 MISC/0MKSH/04S/ARQ/4 - Registradores.md",
     "998 MISC/0MKSH/04S/ARQ/3 - Ciclo de Clock.md",
     "500 OCI/3 - Networking/3.7 NCC.md",
-    "500 OCI/3 - Networking/3.6.2 TM.md",
-    "500 OCI/3 - Networking/3.6.1 DNS Zones.md",
-    "500 OCI/3 - Networking/3.6 DNS.md",
-    "500 OCI/3 - Networking/3.5.3 WAA (L7).md",
-    "500 OCI/3 - Networking/3.5.2 LB L7 Policies.md",
-    "500 OCI/3 - Networking/3.5.1 LB Concepts.md",
-    "500 OCI/3 - Networking/3.5 Load Balancer.md",
-    "500 OCI/3 - Networking/3.4 Security.md",
-    "500 OCI/3 - Networking/3.3 Route Table.md",
-    "500 OCI/3 - Networking/3.2.1 DRG.md",
-    "500 OCI/3 - Networking/3.1.2 Transit Routing.md",
-    "500 OCI/3 - Networking/3.1.1 VCNConnectivity Options.md",
-    "500 OCI/3 - Networking/3.1 VCN.md",
-    "Dashboard.canvas",
     "Pasted image 20250812151005.png",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
