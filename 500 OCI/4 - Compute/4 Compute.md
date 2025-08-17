@@ -16,6 +16,8 @@
 - Scale horizontally by adding or removing instances of the same type
 	- Metric-based: when a performance metric exceeds a threshold
 	- Schedule-based: specific times that you schedule 
+- Each instance pool can have only one autoscaling configuration
+	- An autoscaling configuration can include one or more autoscaling policies
 ### Autoscaling Steps
 1. Create Instance Configuration if it does not already exists
 2. Create an instance pool from the config (can manage the instances as one single unit)

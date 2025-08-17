@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/2 - IAM/2.4 Policies.md",
+                "file": "500 OCI/4 - Compute/4 Compute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Policies"
+              "title": "4 Compute"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/2 - IAM/2.4 Policies.md",
+                "file": "500 OCI/4 - Compute/4 Compute.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.4 Policies"
+              "title": "Outline of 4 Compute"
             }
           }
         ],
@@ -216,6 +216,13 @@
   },
   "active": "ec3bd8448ef302f0",
   "lastOpenFiles": [
+    "500 OCI/4 - Compute/4.1 Images.md",
+    "500 OCI/4 - Compute/4.3 Instance Management.md",
+    "500 OCI/2 - IAM/2.2.1 Auth.md",
+    "500 OCI/2 - IAM/2.2 ID.md",
+    "500 OCI/2 - IAM/2.1.1 Quotas.md",
+    "500 OCI/2 - IAM/2.1 Compartments.md",
+    "500 OCI/2 - IAM/2.4 Policies.md",
     "500 OCI/2 - IAM/2.3 Managing Users.md",
     "500 OCI/2 - IAM/2.2.2 ID Types.md",
     "500 OCI/5 - Storage/5.1 Object Storage.md",
@@ -236,13 +243,6 @@
     "500 OCI/3 - Networking/3.4 Security.md",
     "500 OCI/3 - Networking/3.3 Route Table.md",
     "500 OCI/3 - Networking/3.2.1 DRG.md",
-    "500 OCI/3 - Networking/3.2 Gateways.md",
-    "500 OCI/3 - Networking/3.1.2 Transit Routing.md",
-    "500 OCI/3 - Networking/3.1.1.2.1 FC Concepts.md",
-    "500 OCI/3 - Networking/3.1.1.2 FastConnect.md",
-    "500 OCI/3 - Networking/3.1.1.1 VNP Connect.md",
-    "500 OCI/3 - Networking/3.1 VCN.md",
-    "500 OCI/3 - Networking/3.0.1 IP Addresses.md",
     "Pasted image 20250812151005.png",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
