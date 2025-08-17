@@ -11,17 +11,14 @@
             "id": "ec3bd8448ef302f0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -36.84418958962135,
-                  "y": 11.687456194538584,
-                  "zoom": 0.49285439331247455
-                }
+                "file": "500 OCI/2 - IAM/2.4.4 TBAC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "2.4.4 TBAC"
             }
           },
           {
@@ -170,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/2 - IAM/2.4.4 TBAC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 2.4.4 TBAC"
             }
           }
         ],
@@ -219,6 +216,9 @@
   },
   "active": "ec3bd8448ef302f0",
   "lastOpenFiles": [
+    "500 OCI/7 - Governance & Administration.md",
+    "500 OCI/4 - Compute/4 Compute.md",
+    "Dashboard.canvas",
     "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
     "500 OCI/5 - Storage/5.2 Block Volume.md",
     "500 OCI/5 - Storage/5.1.1 Tiers.md",
@@ -231,7 +231,6 @@
     "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
     "500 OCI/5 - Storage/5.1.4 Security.md",
     "500 OCI/5 - Storage/5 Storage.md",
-    "500 OCI/4 - Compute/4 Compute.md",
     "500 OCI/4 - Compute/4.1 Images.md",
     "500 OCI/4 - Compute/4.3 Instance Management.md",
     "500 OCI/2 - IAM/2.2.1 Auth.md",
@@ -241,11 +240,9 @@
     "500 OCI/2 - IAM/2.4 Policies.md",
     "500 OCI/2 - IAM/2.3 Managing Users.md",
     "500 OCI/2 - IAM/2.2.2 ID Types.md",
-    "Dashboard.canvas",
     "JLPT N3.md",
     "500 OCI/3 - Networking/3.7 NCC.md",
     "500 OCI/3 - Networking/3.6.2 TM.md",
-    "500 OCI/3 - Networking/3.6.1 DNS Zones.md",
     "Pasted image 20250812151005.png",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
