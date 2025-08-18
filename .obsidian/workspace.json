@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 OCI/2 - IAM/2.4 Policies.md",
+                "file": "500 OCI/2 - IAM/2.2 ID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Policies"
+              "title": "2.2 ID"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 OCI/2 - IAM/2.4 Policies.md",
+                "file": "500 OCI/2 - IAM/2.2 ID.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.4 Policies"
+              "title": "Outline of 2.2 ID"
             }
           }
         ],
@@ -219,9 +219,11 @@
   },
   "active": "ec3bd8448ef302f0",
   "lastOpenFiles": [
+    "500 OCI/2 - IAM/2.2.1 Auth.md",
     "500 OCI/2 - IAM/2.2 ID.md",
-    "500 OCI/2 - IAM/2.1.1 Quotas.md",
     "500 OCI/2 - IAM/2.1 Compartments.md",
+    "500 OCI/2 - IAM/2.4 Policies.md",
+    "500 OCI/2 - IAM/2.1.1 Quotas.md",
     "500 OCI/4 - Compute/4 Compute.md",
     "500 OCI/4 - Compute/4.3 Instance Management.md",
     "500 OCI/4 - Compute/4.8 Containers.md",
@@ -232,7 +234,6 @@
     "500 OCI/6 - Security/6.1 Cloud Guard.md",
     "500 OCI/6 - Security/6 Security.md",
     "500 OCI/2 - IAM/2.3 Managing Users.md",
-    "500 OCI/2 - IAM/2.2.1 Auth.md",
     "500 OCI/5 - Storage/5 Storage.md",
     "500 OCI/5 - Storage/5.2 Block Volume.md",
     "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
@@ -246,7 +247,6 @@
     "500 OCI/5 - Storage/5.1.1 Tiers.md",
     "500 OCI/5 - Storage/5.1 Object Storage.md",
     "500 OCI/3 - Networking/3.4 Security.md",
-    "500 OCI/3 - Networking/3.0 Networking.md",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/Media/Pasted image 20250723124706.png",
