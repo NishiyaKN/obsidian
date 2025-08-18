@@ -6,6 +6,7 @@
 - **Image** determines the OS and software
 - **Instance Configuration** is like a template
 	- Has the shape, base image, metadata, VNICs, block volume attachments (not the contents)
+	- Cannot delete if it's associated with an instance pool
 - **Instance Pool**: set of instances managed as a group
 	- Can only have one Instance Configuration in the pool
 ## Compute Networking
