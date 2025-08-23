@@ -43,7 +43,7 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "500 OCI/Monitoring",
+        "pattern": "500 OCI/Observability",
         "patternType": "STRICT"
       }
     ],

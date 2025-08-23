@@ -1,0 +1,6 @@
+- **Active Monitoring:** probing resources to assess health and resources
+- **Passive Monitoring**: observing a data point as it happnes naturally
+- **Single Pane of glass**: dashboards to visualize metric data
+- **MQL:** Monitoring Query Language, used to filter data
+- **OCI Connector Hub:** used to transfer metrics from the Monitoring to other services
+- 
