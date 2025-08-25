@@ -11,17 +11,14 @@
             "id": "ebe26b67237fdec0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -20,
-                  "zoom": 0
-                }
+                "file": "500 OCI/Observability/1 Monitoring/1.3 Alarms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.3 Alarms"
             }
           }
         ]
@@ -156,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "500 OCI/Observability/1 Monitoring/1.3 Alarms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 1.3 Alarms"
             }
           }
         ],
@@ -206,36 +203,38 @@
   },
   "active": "ebe26b67237fdec0",
   "lastOpenFiles": [
-    "100 AI Prompts/Japanese Vocab.md",
-    "500 OCI/Observability/1 Monitoring.md",
+    "500 OCI/Observability/1 Monitoring/1.1 Concepts.md",
+    "500 OCI/Observability/1 Monitoring/1.3 Alarms.md",
+    "500 OCI/Media/Pasted image 20250824225532.png",
+    "500 OCI/Observability/1 Monitoring/1.2 Notification Service.md",
+    "500 OCI/Observability/0bservability.md",
+    "500 OCI/Architect/1 - OCI Architecture.md",
+    "500 OCI/Untitled.md",
+    "500 OCI/Architect",
+    "500 OCI/Observability/1 Monitoring",
     "Dashboard.canvas",
+    "100 AI Prompts/Japanese Vocab.md",
     "500 OCI/Media/Pasted image 20250812151005.png",
     "500 OCI/Media/Pasted image 20250824005956.png",
-    "500 OCI/Observability/0bservability.md",
-    "500 OCI/1 - OCI Architecture.md",
     "500 OCI/Observability",
-    "500 OCI/2 - IAM/2.2 ID.md",
-    "500 OCI/2 - IAM/2.3 Managing Users.md",
-    "500 OCI/6 - Security/6.3 OCI Vault.md",
-    "500 OCI/2 - IAM/2.2.1 Auth.md",
-    "500 OCI/2 - IAM/2.1 Compartments.md",
-    "500 OCI/2 - IAM/2.4 Policies.md",
-    "500 OCI/2 - IAM/2.1.1 Quotas.md",
-    "500 OCI/4 - Compute/4 Compute.md",
-    "500 OCI/4 - Compute/4.3 Instance Management.md",
-    "500 OCI/4 - Compute/4.8 Containers.md",
-    "500 OCI/4 - Compute/4.2 Instance Types.md",
-    "500 OCI/4 - Compute/4.1 Images.md",
-    "500 OCI/6 - Security/6.2 Security Zones and Security Advisor.md",
-    "500 OCI/6 - Security/6.1 Cloud Guard.md",
-    "500 OCI/6 - Security/6 Security.md",
-    "500 OCI/5 - Storage/5 Storage.md",
-    "500 OCI/5 - Storage/5.2 Block Volume.md",
-    "500 OCI/5 - Storage/5.2.1 Performance Levels.md",
-    "500 OCI/5 - Storage/5.1.3 Object Durability.md",
-    "500 OCI/5 - Storage/5.1.2 Lifecyle Management.md",
-    "500 OCI/3 - Networking/3.7 NCC.md",
-    "500 OCI/2 - IAM/2.4.4 TBAC.md",
+    "500 OCI/Architect/2 - IAM/2.2 ID.md",
+    "500 OCI/Architect/2 - IAM/2.3 Managing Users.md",
+    "500 OCI/Architect/6 - Security/6.3 OCI Vault.md",
+    "500 OCI/Architect/2 - IAM/2.2.1 Auth.md",
+    "500 OCI/Architect/2 - IAM/2.1 Compartments.md",
+    "500 OCI/Architect/2 - IAM/2.4 Policies.md",
+    "500 OCI/Architect/2 - IAM/2.1.1 Quotas.md",
+    "500 OCI/Architect/4 - Compute/4 Compute.md",
+    "500 OCI/Architect/4 - Compute/4.3 Instance Management.md",
+    "500 OCI/Architect/4 - Compute/4.8 Containers.md",
+    "500 OCI/Architect/4 - Compute/4.2 Instance Types.md",
+    "500 OCI/Architect/4 - Compute/4.1 Images.md",
+    "500 OCI/Architect/6 - Security/6.2 Security Zones and Security Advisor.md",
+    "500 OCI/Architect/6 - Security/6.1 Cloud Guard.md",
+    "500 OCI/Architect/6 - Security/6 Security.md",
+    "500 OCI/Architect/5 - Storage/5 Storage.md",
+    "500 OCI/Architect/5 - Storage/5.2 Block Volume.md",
+    "500 OCI/Architect/5 - Storage/5.2.1 Performance Levels.md",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/Media/Pasted image 20250723124706.png",
@@ -243,16 +242,13 @@
     "500 OCI/Media/Pasted image 20250727183939.png",
     "500 OCI/Media/Pasted image 20250727184905.png",
     "500 OCI/Media/Pasted image 20250727214014.png",
-    "500 OCI/Media/Pasted image 20250727214512.png",
-    "500 OCI/6 - Security",
-    "500 OCI/5 - Storage",
-    "500 OCI/4 - Compute",
-    "500 OCI/3 - Networking",
-    "500 OCI/2 - IAM",
+    "500 OCI/Architect/6 - Security",
+    "500 OCI/Architect/5 - Storage",
+    "500 OCI/Architect/4 - Compute",
+    "500 OCI/Architect/3 - Networking",
+    "500 OCI/Architect/2 - IAM",
     "Untitled.canvas",
     "500 OCI/Media",
-    "500 OCI",
-    "19",
-    "998 MISC/0MKSH/05S"
+    "500 OCI"
   ]
 }

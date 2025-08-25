@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"35d9ecf0c6a64505","type":"group","x":-320,"y":-300,"width":540,"height":560,"label":"Certs"},
-		{"id":"d757888f5bd21c46","type":"text","text":"AI Foundations (17/07 - 21/07)\n- 9h30m to completion (5 days)\n\nOCI Foundations (22/07 - 25/07)\n- 9h to completion (4 days) \n\nOCI Architect (27/07 - 18/08)\n- 36h to completion (23 days)\n- Course & Notes: 26h (27/07 - 13/08)\n- Notes study: 3h\n- Practice questions: 5h30\n- Hands-on practice: 1h30","x":-290,"y":-260,"width":450,"height":500}
+		{"id":"d757888f5bd21c46","type":"text","text":"AI Foundations (17/07 - 21/07)\n- 9h30m to completion (5 days)\n\nOCI Foundations (22/07 - 25/07)\n- 9h to completion (4 days) \n\nOCI Architect (27/07 - 18/08)\n- 36h to completion (23 days)\n- Course & Notes: 26h (27/07 - 13/08)\n- Notes study: 3h\n- Practice questions: 5h30\n- Hands-on practice: 1h30\n\nOCI Observability (23/08 - )\n- 1h to completion","x":-290,"y":-260,"width":450,"height":500}
 	],
 	"edges":[]
 }
