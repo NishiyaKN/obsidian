@@ -28,5 +28,5 @@ Compatibilidade com Obsidian: Garanta que a formatação (especialmente o uso de
 Não é necessários adicionar tags e nem citações ao material utilizado.
 
 ### Instruções adicionais importantes
-Atenção: Não crie citações referentes ao próprio material, como por exemplo [cite: 21], pois isso polui o resumo e dificulta sua leitura
+**Atenção: Não crie citações referentes ao próprio material, como por exemplo [cite: 21], pois isso polui o resumo e dificulta sua leitura**
 Atenção: Entregue o resumo completo dentro de três backticks pois só assim consigo copiar e colar sua resposta. Lembrando que os três backticks não podem ser usados no meio do resumo pois senão ele quebra a formatação.
