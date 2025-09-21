@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/OS/3 Proc modes.md",
+                "file": "000 USCS/Preditivo/0 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Proc modes"
+              "title": "0 Notes"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/OS/3 Proc modes.md",
+                "file": "000 USCS/Preditivo/0 Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 Proc modes"
+              "title": "Outline of 0 Notes"
             }
           }
         ],
@@ -203,45 +203,45 @@
   },
   "active": "ebe26b67237fdec0",
   "lastOpenFiles": [
+    "000 USCS/OS/0 Notes.md",
+    "000 USCS/Preditivo/0 Notes.md",
+    "000 USCS/IOT/0 Notes.md",
+    "000 USCS/IA/0 Notes.md",
+    "000 USCS/COMP/0 Notes.md",
+    "000 USCS/IA/4 ML.md",
+    "000 USCS/IA/3 Agent Log e ProLog.md",
+    "000 USCS/IA/2 Agentes.md",
+    "000 USCS/IA/1 Introducao.md",
+    "000 USCS/COMP/3 Gramatica.md",
+    "000 USCS/COMP/2 Analise Lexica.md",
+    "000 USCS/COMP/1 Compiladores.md",
+    "000 USCS/IOT/3 Arq IOT advnc.md",
+    "000 USCS/IOT/2 Arq IOT.md",
+    "000 USCS/IOT/1 Base de num.md",
+    "000 USCS/OS/3 Proc modes.md",
     "000 USCS/OS/2.3 Virtmem mangm.md",
     "000 USCS/OS/2.2 Swap e virtmem.md",
     "000 USCS/OS/2.1 Segm e Pagn.md",
     "000 USCS/OS/2 Aloc contigua.md",
     "000 USCS/OS/1.2 Estrutura de FS.md",
-    "000 USCS/OS/3 Proc modes.md",
     "000 USCS/OS/1.1 Arquivos e Diretorios.md",
     "000 USCS/OS/1 File Systems.md",
-    "000 USCS/OS/0 Notes.md",
     "100 AI Prompts/Resuminho Gemini.md",
-    "000 USCS/IOT/1- Notes.md",
-    "000 USCS/IA/1- Notes.md",
-    "000 USCS/Preditivo/1- Notes.md",
-    "000 USCS/Compiladores/1- Notes.md",
     "000 USCS/OS",
     "000 USCS/Untitled",
     "000 USCS/IA",
     "000 USCS/IOT",
     "000 USCS/Preditivo",
-    "000 USCS/Compiladores",
+    "000 USCS/COMP",
     "100 AI Prompts/CS Notes Analysis.md",
     "500 OCI/Observability/1 Monitoring/Untitled.md",
     "Dashboard.canvas",
-    "500 OCI/Observability/1 Monitoring/1.3 Alarms.md",
-    "500 OCI/Observability/1 Monitoring/1.1 Concepts.md",
     "500 OCI/Media/Pasted image 20250824225532.png",
-    "500 OCI/Observability/1 Monitoring/1.2 Notification Service.md",
-    "500 OCI/Observability/0bservability.md",
-    "500 OCI/Architect/1 - OCI Architecture.md",
-    "500 OCI/Untitled.md",
     "500 OCI/Architect",
     "500 OCI/Observability/1 Monitoring",
-    "100 AI Prompts/Japanese Vocab.md",
     "500 OCI/Media/Pasted image 20250812151005.png",
     "500 OCI/Media/Pasted image 20250824005956.png",
     "500 OCI/Observability",
-    "500 OCI/Architect/2 - IAM/2.2 ID.md",
-    "500 OCI/Architect/2 - IAM/2.3 Managing Users.md",
-    "500 OCI/Architect/6 - Security/6.3 OCI Vault.md",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
     "500 OCI/Media/Pasted image 20250723124706.png",

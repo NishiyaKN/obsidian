@@ -1,26 +1,26 @@
 ### 📝 Visão Geral
-Este resumo apresenta o Prolog, uma linguagem de programação fundamentada no paradigma lógico[cite: 44]. Em Prolog, um programa é construído como uma base de conhecimento composta por fatos e regras. A interação com o programa ocorre por meio de perguntas (queries), que consultam essa base para obter respostas lógicas.
+Este resumo apresenta o Prolog, uma linguagem de programação fundamentada no paradigma lógico. Em Prolog, um programa é construído como uma base de conhecimento composta por fatos e regras. A interação com o programa ocorre por meio de perguntas (queries), que consultam essa base para obter respostas lógicas.
 
 ### 🧱 Componentes de um Programa Prolog
 Um programa em Prolog é estruturado em três elementos principais:
 
-| Componente | Descrição | Sintaxe Exemplo |
-| :--- | :--- | :--- |
-| **Fatos** | Informações declaradas como verdadeiras que compõem a base de conhecimento[cite: 44]. | `pai(andre, conrado).` |
-| **Regras** | Definições que são avaliadas como verdadeiras ou falsas com base nos fatos existentes[cite: 44]. A sintaxe de uma regra é `regra(Args) :- corpo`[cite: 46]. | `genitor(X,Y) :- pai(X,Y).` |
-| **Perguntas** | Forma de interagir e consultar a base de conhecimento[cite: 44]. | `?- pai(andre, X).` |
+| Componente    | Descrição                                                                                                                               | Sintaxe Exemplo             |
+| :------------ | :-------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- |
+| **Fatos**     | Informações declaradas como verdadeiras que compõem a base de conhecimento.                                                             | `pai(andre, conrado).`      |
+| **Regras**    | Definições que são avaliadas como verdadeiras ou falsas com base nos fatos existentes. A sintaxe de uma regra é `regra(Args) :- corpo`. | `genitor(X,Y) :- pai(X,Y).` |
+| **Perguntas** | Forma de interagir e consultar a base de conhecimento.                                                                                  | `?- pai(andre, X).`         |
 
 ### ✍️ Sintaxe e Conceitos
 A sintaxe do Prolog possui regras específicas para a representação de seus elementos.
 
 * **Nomenclatura:**
-    * **Variáveis** sempre começam com letra maiúscula (ex: `X`, `Pessoa`)[cite: 44].
-    * **Constantes** (átomos) sempre começam com letra minúscula (ex: `andre`, `conrado`)[cite: 44].
+    * **Variáveis** sempre começam com letra maiúscula (ex: `X`, `Pessoa`).
+    * **Constantes** (átomos) sempre começam com letra minúscula (ex: `andre`, `conrado`).
 * **Operadores Lógicos:**
-    * A vírgula (`,`) representa o operador lógico **E** (AND)[cite: 47].
-    * O ponto e vírgula (`;`) representa o operador lógico **OU** (OR)[cite: 47].
-* **Aridade:** Refere-se ao número de argumentos que um fato ou regra possui[cite: 47]. Por exemplo, `casado(joao, maria)` tem aridade 2[cite: 47].
-* **Consistência:** A ordem dos argumentos em fatos e regras é crucial e deve ser consistente em toda a base de conhecimento[cite: 45].
+    * A vírgula (`,`) representa o operador lógico **E** (AND).
+    * O ponto e vírgula (`;`) representa o operador lógico **OU** (OR).
+* **Aridade:** Refere-se ao número de argumentos que um fato ou regra possui. Por exemplo, `casado(joao, maria)` tem aridade 2.
+* **Consistência:** A ordem dos argumentos em fatos e regras é crucial e deve ser consistente em toda a base de conhecimento.
 
 ### 💡 Exemplo Prático
 Abaixo está um exemplo de uma pequena base de conhecimento e como ela pode ser consultada.
