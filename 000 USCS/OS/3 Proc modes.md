@@ -1,4 +1,4 @@
-### 📜 Visão Geral
+u### 📜 Visão Geral
 As modalidades de processamento definem as diferentes abordagens que os sistemas computacionais utilizam para manipular e analisar dados. A escolha da modalidade correta é crucial para otimizar a eficiência, a latência e o uso de recursos de um sistema. Este resumo compara as principais modalidades: Batch, Time-Sharing, Online, Offline e Tempo Real, destacando suas características, interatividade e casos de uso.
 
 ---
