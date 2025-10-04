@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b22bd99121821f0c",
+        "id": "d55ee6c007e3ce7c",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe26b67237fdec0",
+            "id": "bb9b2c2b350161f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "000 USCS/IA/Media/Pasted image 20251004175313.png"
+                "file": "000 USCS/IA/N1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251004175313"
+              "icon": "lucide-file",
+              "title": "N1"
             }
           }
         ]
@@ -151,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/IA/Media/Pasted image 20251004175313.png",
+                "file": "000 USCS/IA/N1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251004175313"
+              "title": "Outline of N1"
             }
           }
         ],
@@ -199,10 +201,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "a83c32916dc19d5d",
+  "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
-    "000 USCS/IA/N1.md",
     "000 USCS/IA/Media/Pasted image 20251004175313.png",
+    "000 USCS/IA/N1.md",
     "000 USCS/IA/Media/Pasted image 20251004175125.png",
     "Pasted image 20251004173614.png",
     "000 USCS/IA/Media/Pasted image 20251004115857.png",
