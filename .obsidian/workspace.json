@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/N1.md",
+                "file": "000 USCS/IA/N1.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/N1.md",
+                "file": "000 USCS/IA/N1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,8 +203,15 @@
   },
   "active": "ebe26b67237fdec0",
   "lastOpenFiles": [
+    "Pasted image 20251004115857.png",
+    "Pasted image 20251004115825.png",
+    "Pasted image 20251004115757.png",
+    "Pasted image 20251004115741.png",
+    "000 USCS/IA/Media/Pasted image 20251004115713.png",
+    "000 USCS/IA/Media",
+    "000 USCS/IA/Media/Pasted image 20251004115620.png",
     "Dashboard.canvas",
-    "000 USCS/N1.md",
+    "000 USCS/IA/N1.md",
     "000 USCS/OS/3 Proc modes.md",
     "000 USCS/OS/2.3 Virtmem mangm.md",
     "000 USCS/OS/2.2 Swap e virtmem.md",
@@ -243,12 +250,6 @@
     "500 OCI/Observability",
     "500 OCI/Media/Pasted image 20250811125244.png",
     "500 OCI/Media/Pasted image 20250805195626.png",
-    "500 OCI/Media/Pasted image 20250723124706.png",
-    "500 OCI/Media/Pasted image 20250723171027.png",
-    "500 OCI/Media/Pasted image 20250727183939.png",
-    "500 OCI/Media/Pasted image 20250727184905.png",
-    "500 OCI/Media/Pasted image 20250727214014.png",
-    "500 OCI/Architect/6 - Security",
     "Untitled.canvas"
   ]
 }
