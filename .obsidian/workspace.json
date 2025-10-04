@@ -11,14 +11,12 @@
             "id": "ebe26b67237fdec0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "000 USCS/IA/N1.md",
-                "mode": "source",
-                "source": false
+                "file": "000 USCS/IA/Media/Pasted image 20251004175313.png"
               },
-              "icon": "lucide-file",
-              "title": "N1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251004175313"
             }
           }
         ]
@@ -153,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/IA/N1.md",
+                "file": "000 USCS/IA/Media/Pasted image 20251004175313.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of N1"
+              "title": "Outline of Pasted image 20251004175313"
             }
           }
         ],
@@ -201,16 +199,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "ebe26b67237fdec0",
+  "active": "a83c32916dc19d5d",
   "lastOpenFiles": [
-    "Pasted image 20251004175313.png",
-    "Pasted image 20251004175125.png",
-    "Pasted image 20251004173614.png",
     "000 USCS/IA/N1.md",
-    "Pasted image 20251004115857.png",
-    "Pasted image 20251004115825.png",
-    "Pasted image 20251004115757.png",
-    "Pasted image 20251004115741.png",
+    "000 USCS/IA/Media/Pasted image 20251004175313.png",
+    "000 USCS/IA/Media/Pasted image 20251004175125.png",
+    "Pasted image 20251004173614.png",
+    "000 USCS/IA/Media/Pasted image 20251004115857.png",
+    "000 USCS/IA/Media/Pasted image 20251004115825.png",
+    "000 USCS/IA/Media/Pasted image 20251004115757.png",
+    "000 USCS/IA/Media/Pasted image 20251004115741.png",
     "000 USCS/IA/Media/Pasted image 20251004115713.png",
     "000 USCS/IA/Media",
     "000 USCS/IA/Media/Pasted image 20251004115620.png",
@@ -248,7 +246,6 @@
     "500 OCI/Media/Pasted image 20250824225532.png",
     "500 OCI/Architect",
     "500 OCI/Observability/1 Monitoring",
-    "500 OCI/Media/Pasted image 20250812151005.png",
     "500 OCI/Observability",
     "Untitled.canvas"
   ]
