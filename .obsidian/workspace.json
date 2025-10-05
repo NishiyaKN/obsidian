@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/IA/7 Clustering.md",
+                "file": "000 USCS/IA/N1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Clustering"
+              "title": "N1"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/IA/7 Clustering.md",
+                "file": "000 USCS/IA/N1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 Clustering"
+              "title": "Outline of N1"
             }
           }
         ],
@@ -203,9 +203,9 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
+    "000 USCS/IA/7 Clustering.md",
     "000 USCS/IA/N1.md",
     "000 USCS/IA/6 Regressao Linear.md",
-    "000 USCS/IA/7 Clustering.md",
     "000 USCS/IA/5 ML.md",
     "000 USCS/IA/2-3 Agentes.md",
     "000 USCS/IA/4 Agent Log e ProLog.md",
