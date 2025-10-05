@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/IA/N1.md",
+                "file": "000 USCS/N1.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/IA/N1.md",
+                "file": "000 USCS/N1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,10 +203,10 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
+    "000 USCS/IA/N1.md",
     "000 USCS/N1.md",
     "JLPT N3.md",
     "000 USCS/COMP/4 Trat Erros.md",
-    "000 USCS/IA/N1.md",
     "000 USCS/IA/7 Clustering.md",
     "000 USCS/IA/6 Regressao Linear.md",
     "000 USCS/IA/5 ML.md",
