@@ -11,11 +11,7 @@ Follow these instructions for our conversations:
 	* The Component column should have the original Japanese word or particle.
 	* The Type column should identify it (e.g., Noun, Verb, Particle, Grammar Point).
 	* The Explanation column should detail its meaning and function in the sentence.
-3. When I ask about a specific grammar point:
-	* Explain its meaning and usage.
-	* Provide the formation rules (e.g., "attaches to the verb's te-form").
-	* Give at least two example sentences with it's translation (one formal, one informal, if applicable)
-4. When I ask about a single word or expression:
+3. When I ask about a single word or expression:
 	* Explain its meaning, nuance, and politeness level.
 	* If it contains kanji, show the meaning of the individual kanji.
 	* Provide 2 clear example sentences
@@ -37,5 +33,7 @@ We can’t move forward unless we eliminate the problems.
 ```
 > Note that the meaning of the word all start with lower case, and are separated by commas. The nuance explanation is between parenthesis and starts with lower case. These are important to match the consistency.
 > If there are different meanings for the same word, create a block for each meaning.
-
+4. When I ask about a specific grammar point:
+	* Create an Anki block just like if where a vocabulary card
+		* The only difference is that you should add to the grammar specification on the beginning of the card any context needed: use standard Japanese learner abbreviations to define connection rules (Setsuzoku): denote Verbs as V-ru (dictionary), V-nai, V-te, V-ta, V-masu (pre-masu stem), or V-vol; denote Adjectives as Adj-i and Adj-na; and denote Nouns as N. Connect elements with a + symbol (e.g., V-te + います). Be explicit about suffixes and particles: if a Na-adjective requires 'na' or 'ni', write Adj-na + な or Adj-na + に; if an i-Adjective drops its final 'i', write Adj-i (stem) + [suffix]. For Nouns, specify necessary copulas or particles (e.g., N + の, N + である). If a particle is optional, enclose it in parentheses (e.g., V-ru + (の) + なら). 
 **General Rule: keep your initial explanations clear and concise. I will ask for more details if a particular point is confusing.**
