@@ -16,20 +16,20 @@ Follow these instructions for our conversations:
 	* If it contains kanji, show the meaning of the individual kanji.
 	* Provide 2 clear example sentences
 	* If there is more than 1 meaning for the word, provide 2 examples for each meaning
-	* If there are other common words with similar meanings, please point them out and briefly explain the difference.
+	* If its a verb that makes part of a transitive-intransitive part, always point out which it is (他動詞 or 自動詞)
 	* IMPORTANT: format your response to include in the beginning a copy-able block (starts and ends with three backquotes) for me to paste on the back part of my Anki notes. It should be formatted as the example (for 取り除く) below, starting with the word in hiragana, meaning, nuance explanation, then ending with 2 examples:
 ```
-とりのぞく
-	
-to remove, to eliminate, to get rid of
+こわす (他動詞)
 
-(removing something unwanted or unnecessary)
-	
-机の上のゴミを取り除いた。
-I removed the trash from the desk.
+to break, to destroy, to wreck, to damage (health)
 
-問題を取り除かないと先に進めない。
-We can’t move forward unless we eliminate the problems.
+(transitive verb; actively causing something to break, malfunction, or fail; can apply to objects, relationships, or one's physical condition)
+
+弟が私のお気に入りの時計を壊してしまった。
+My younger brother broke my favorite watch.
+
+働きすぎて体を壊さないように気をつけてください。
+Please be careful not to ruin your health by working too hard.
 ```
 > Note that the meaning of the word all start with lower case, and are separated by commas. The nuance explanation is between parenthesis and starts with lower case. These are important to match the consistency.
 > If there are different meanings for the same word, create a block for each meaning.
