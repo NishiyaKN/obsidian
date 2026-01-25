@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 AI Prompts/Japanese Vocab+ 1.md",
+                "file": "400 GCP/02 - GCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japanese Vocab+ 1"
+              "title": "02 - GCP"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 AI Prompts/Japanese Vocab+ 1.md",
+                "file": "400 GCP/02 - GCP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Japanese Vocab+ 1"
+              "title": "Outline of 02 - GCP"
             }
           }
         ],
@@ -203,8 +203,23 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
-    "100 AI Prompts/Japanese Vocab+.md",
+    "400 GCP/01 - Introduction.md",
+    "400 GCP/03 - Compute.md",
+    "400 GCP/gcloud.md",
+    "400 GCP/07 - Networking.md",
+    "400 GCP/06 - Security.md",
+    "400 GCP/05 - API.md",
+    "400 GCP/04 - Storage.md",
+    "400 GCP/02 - GCP.md",
+    "400 GCP/Media/Pasted image 20250610201539.png",
+    "400 GCP/Media/Pasted image 20250609105830.png",
+    "400 GCP/Media/Pasted image 20250609103715.png",
+    "400 GCP/08.md",
+    "400 GCP/10.md",
+    "400 GCP/09.md",
+    "500 OCI/Architect/2 - IAM/2.1 Compartments.md",
     "100 AI Prompts/Japanese Vocab+ 1.md",
+    "100 AI Prompts/Japanese Vocab+.md",
     "100 AI Prompts/Flashcards EN 2.md",
     "100 AI Prompts/Flashcards EN.md",
     "100 AI Prompts/Japanese Vocab.md",
@@ -216,12 +231,6 @@
     "000 USCS/Preditivo/0 Notes.md",
     "000 USCS/IA/4 Agent Log e ProLog.md",
     "JLPT N3.md",
-    "000 USCS/COMP/4 Trat Erros.md",
-    "000 USCS/IA/6 Regressao Linear.md",
-    "000 USCS/IA/5 ML.md",
-    "000 USCS/IA/2-3 Agentes.md",
-    "100 AI Prompts/Resuminho Gemini.md",
-    "000 USCS/IA/0 Notes.md",
     "000 USCS/IA/Media/Pasted image 20251004175313.png",
     "000 USCS/IA/Media/Pasted image 20251004175125.png",
     "Pasted image 20251004173614.png",
@@ -229,24 +238,14 @@
     "000 USCS/IA/Media/Pasted image 20251004115825.png",
     "000 USCS/IA/Media/Pasted image 20251004115757.png",
     "000 USCS/IA/Media/Pasted image 20251004115741.png",
-    "000 USCS/IA/Media/Pasted image 20251004115713.png",
     "000 USCS/IA/Media",
-    "000 USCS/IA/Media/Pasted image 20251004115620.png",
     "Dashboard.canvas",
-    "000 USCS/OS/3 Proc modes.md",
-    "000 USCS/OS/2.3 Virtmem mangm.md",
-    "000 USCS/OS/2.2 Swap e virtmem.md",
-    "000 USCS/OS/2.1 Segm e Pagn.md",
-    "000 USCS/OS/2 Aloc contigua.md",
-    "000 USCS/OS/1.2 Estrutura de FS.md",
-    "000 USCS/OS/1.1 Arquivos e Diretorios.md",
     "000 USCS/OS",
     "000 USCS/Untitled",
     "000 USCS/IA",
     "000 USCS/IOT",
     "000 USCS/Preditivo",
     "000 USCS/COMP",
-    "500 OCI/Media/Pasted image 20250824225532.png",
     "500 OCI/Architect",
     "500 OCI/Observability/1 Monitoring",
     "500 OCI/Observability",
