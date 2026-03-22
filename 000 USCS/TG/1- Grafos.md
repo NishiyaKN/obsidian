@@ -11,13 +11,13 @@ Este material introduz os conceitos básicos e as propriedades fundamentais da T
 * **Grau de um Vértice:** É o número de extremos de arestas conectados àquele vértice (um laço adiciona 2 ao grau).
 
 ## 📊 Classificação e Tipos de Grafos
-| Tipo de Grafo | Característica Principal |
-| :--- | :--- |
-| **Nulo / Vazio / Trivial** | Vértices vazios / Arestas vazias / Apenas 1 vértice e 0 arestas. |
-| **Regular** | Todos os vértices possuem exatamente o mesmo grau. |
-| **Simples** | Não possui laços e nem arestas paralelas. |
-| **Completo ($K_n$)** | Grafo simples onde todos os pares de vértices distintos são adjacentes. |
-| **Bipartido** | Vértices divididos em dois conjuntos separados; arestas só conectam vértices de conjuntos diferentes (não possui ciclos ímpares). |
+| Tipo de Grafo              | Característica Principal                                                                                                          |
+| :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| **Nulo / Vazio / Trivial** | Vértices vazios / Arestas vazias / Apenas 1 vértice e 0 arestas.                                                                  |
+| **Regular**                | Todos os vértices possuem exatamente o mesmo grau.                                                                                |
+| **Simples**                | Não possui laços e nem arestas paralelas.                                                                                         |
+| **Completo ($K_n$)**       | Grafo simples onde todos os pares de vértices distintos são adjacentes.                                                           |
+| **Bipartido**              | Vértices divididos em dois conjuntos separados; arestas só conectam vértices de conjuntos diferentes (não possui ciclos ímpares). |
 
 ## 🛣️ Caminhos, Conectividade e Fecho
 * **Caminho:** Sequência de vértices e arestas interligadas. O *comprimento* é o número de arestas percorridas.

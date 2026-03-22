@@ -28,7 +28,6 @@ Estabelece uma constante matemática universal para qualquer grafo que seja cone
 
 ## 💡 Conclusão
 O estudo conjunto de Kuratowski e Euler fornece o ferramental teórico completo para a análise de planaridade. Enquanto Euler permite validar as propriedades geométricas de um grafo que já sabemos ser planar, Kuratowski atua como o teste definitivo para descartar a planaridade de redes complexas, conceitos vitais para áreas aplicadas como o desenho de placas de circuitos impressos (PCBs).
-
 ## ✂️ Tópicos não aprofundados
 * **Contexto Histórico e Biografia:** A história de vida de Kazimierz Kuratowski (1896-1980), seus estudos na Escócia interrompidos pela 1ª Guerra Mundial, seu trabalho clandestino durante a ocupação alemã na 2ª Guerra, e sua participação no grupo da "Cafeteria Escocesa" em Lviv.
 * **Demonstrações Visuais Detalhadas:** O passo a passo gráfico ilustrando a inserção de vértices (subdivisão elementar) e o processo de remoção de arestas/vértices utilizado para ilustrar a prova por indução de Euler nas figuras da apresentação.
