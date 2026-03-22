@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 AI Prompts/USCS HELP.md",
+                "file": "000 USCS/TG/N1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "USCS HELP"
+              "title": "N1"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 AI Prompts/USCS HELP.md",
+                "file": "000 USCS/TG/N1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of USCS HELP"
+              "title": "Outline of N1"
             }
           }
         ],
@@ -203,11 +203,11 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
-    "000 USCS/TG/N1.md",
+    "000 USCS/TG/3- Euler.md",
     "000 USCS/TG/2- Kuratowski.md",
     "100 AI Prompts/USCS HELP.md",
+    "000 USCS/TG/N1.md",
     "100 AI Prompts/CS Help.md",
-    "000 USCS/TG/3- Euler.md",
     "000 USCS/TG/1- Grafos.md",
     "100 AI Prompts/CS Notes Analysis.md",
     "100 AI Prompts/Flashcards BR.md",
