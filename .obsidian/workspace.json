@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/ALG/4- Assintotismo e Big-O.md",
+                "file": "000 USCS/TG/1- Grafos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Assintotismo e Big-O"
+              "title": "1- Grafos"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/ALG/4- Assintotismo e Big-O.md",
+                "file": "000 USCS/TG/1- Grafos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4- Assintotismo e Big-O"
+              "title": "Outline of 1- Grafos"
             }
           }
         ],
@@ -203,13 +203,14 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
+    "000 USCS/TG/2- Kuratowski.md",
+    "000 USCS/TG/1- Grafos.md",
+    "000 USCS/ALG/4- Assintotismo e Big-O.md",
     "000 USCS/ALG/3- Função de Complexidad.md",
     "000 USCS/ALG/2- Modelo Knuth.md",
     "000 USCS/ALG/1- Introdução.md",
     "000 USCS/CG/5- Geometrics.md",
     "000 USCS/TG/3- Euler.md",
-    "000 USCS/TG/2- Kuratowski.md",
-    "000 USCS/TG/1- Grafos.md",
     "000 USCS/SD/2- Paradigmas.md",
     "000 USCS/SD/1- Fundamentos de SD.md",
     "000 USCS/CG/1 - Introdução.md",
@@ -217,7 +218,6 @@
     "000 USCS/CG/3- Realce e Filtragem.md",
     "000 USCS/CG/4- Pipeline Grafico.md",
     "100 AI Prompts/Resuminho Gemini.md",
-    "000 USCS/ALG/4- Assintotismo e Big-O.md",
     "000 USCS/SD/1.2- Revisão básicas.md",
     "000 USCS/ALG",
     "000 USCS/TG",
