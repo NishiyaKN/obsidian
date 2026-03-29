@@ -41,6 +41,12 @@ $$A=\frac{MTBF}{MTBF+MTTR}$$
 
 *Dica prática:* É muito mais barato e eficiente focar em reduzir o MTTR através de automação (subir instâncias novas em segundos) do que tentar aumentar o MTBF criando hardwares que nunca quebram.
 
+## Impactos decorrentes da arquitetura
+**Degradação em Cascata**: Uma falha pequena em um componente satura os outros, derrubando o sistema inteiro (Thundering Herd Problem).
+
+**Dano à Reputação**: Usuários migram para concorrentes se o serviço se mostra instável.
+
+**Custos de "Incêndio"**: Recuperar um sistema não planejado para HA após uma queda é muito mais caro e demorado do que manter um sistema resiliente.
 ## 📊 A Tabela dos "Noves" (Disponibilidade)
 | Disponibilidade | Downtime Anual Tolerado | Contexto Comum |
 | :--- | :--- | :--- |
