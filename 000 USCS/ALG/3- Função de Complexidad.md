@@ -33,7 +33,12 @@ A eficiência de um algoritmo pode variar drasticamente dependendo da configura�
 ## 💡 Conclusão
 O estudo das funções de complexidade revela uma dura realidade da Ciência da Computação: **hardware não resolve problemas de algoritmos ineficientes**. Como demonstrado no material, mesmo se executarmos um algoritmo exponencial ($2^n$) em um computador 100 vezes mais rápido, o tamanho do problema que conseguimos resolver no mesmo tempo aumenta de forma pífia (ex: de 25 para apenas 31 itens). Por isso, otimizar a lógica (passar de $n^3$ para $n^2$) é sempre superior a simplesmente comprar processadores melhores.
 
+![[Pasted image 20260329174804.png]]
+1. Calcula quantas operações são executadas no computador velho (2x25^2=1250)
+2. Multiplica pela velocidade do novo computador (1250x100=125000)
+3. Iguala o valor de op com a função (125000=2n^2=>250)
 ## ✂️ Tópicos não aprofundados
+
 * **Cálculos Algébricos Detalhados:** O passo a passo matemático para encontrar o ponto de equilíbrio onde $8n^2 = n^3$ (que resulta em $n=8$).
 * **Fórmulas de Impacto de Hardware:** O desenvolvimento das equações (ex: $tt_v = x^2 \cdot t_v$) usadas para calcular as porcentagens de melhoria de tempo e velocidade entre "máquinas velhas" e "máquinas novas".
 * **Gráficos e Tabelas de Dispersão:** As imagens plotando as curvas e linhas de tendência (como a reta $y = x - 1$ e o cruzamento das curvas $A$ e $B$) para instâncias de entrada variando de 1 a 12.
