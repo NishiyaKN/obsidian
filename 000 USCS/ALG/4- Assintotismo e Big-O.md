@@ -25,10 +25,10 @@ Classificação final da Ordem de Grandeza: O(n²)
 ## 📊 Comparativo: Linear vs Quadrático
 Para valores pequenos de $n$, um algoritmo assintoticamente pior pode parecer mais rápido devido às constantes. No entanto, para valores grandes de $n$, a ordem de complexidade sempre domina.
 
-| Algoritmo | Função F(n) | Operações (n=10) | Operações (n=100) | Conclusão |
-| :--- | :--- | :--- | :--- | :--- |
-| **Algoritmo A (Quadrático)** | $2n^2 + 50$ | 250 | 20.050 | Começa bem, mas escala mal. Crescimento muito acelerado. |
-| **Algoritmo B (Linear)** | $500n + 4000$ | 9.000 | 54.000 | Começa com alto custo fixo, mas é imensamente superior para altos volumes de dados. |
+| Algoritmo                    | Função F(n)   | Operações (n=10) | Operações (n=100) | Conclusão                                                                           |
+| :--------------------------- | :------------ | :--------------- | :---------------- | :---------------------------------------------------------------------------------- |
+| **Algoritmo A (Quadrático)** | $2n^2 + 50$   | 250              | 20.050            | Começa bem, mas escala mal. Crescimento muito acelerado.                            |
+| **Algoritmo B (Linear)**     | $500n + 4000$ | 9.000            | 54.000            | Começa com alto custo fixo, mas é imensamente superior para altos volumes de dados. |
 
 ## 📐 A Notação Big-Oh ($O$)
 É a notação matemática padrão utilizada para exprimir o limite superior do tempo de execução de um algoritmo (o pior cenário).
