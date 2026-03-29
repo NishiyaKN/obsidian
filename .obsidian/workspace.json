@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/ML/2-.md",
+                "file": "100 AI Prompts/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-"
+              "title": "Untitled"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/ML/2-.md",
+                "file": "100 AI Prompts/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -203,9 +203,27 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
-    "000 USCS/ML/1-.md",
+    "000 USCS/TG/N1.md",
+    "100 AI Prompts/Untitled.md",
+    "100 AI Prompts/Valida resumo.md",
+    "100 AI Prompts/Resumo Gemini.md",
+    "100 AI Prompts/CS Help.md",
+    "100 AI Prompts/Resumo DeepSeek.md",
+    "100 AI Prompts/CS Notes Analysis.md",
+    "100 AI Prompts/Japanese Vocab+ 1.md",
+    "100 AI Prompts/Flashcards EN.md",
+    "100 AI Prompts/Japanese Vocab+.md",
+    "000 USCS/ALG/1- Introdução.md",
+    "100 AI Prompts/Notebook NHG.md",
+    "000 USCS/CG/6- Recorte e Visibilidade.md",
+    "000 USCS/CG/5- Geometrics.md",
+    "000 USCS/ALG/5.1 - Demonstracao.md",
+    "000 USCS/ALG/5- Big O.md",
+    "000 USCS/ALG/4- Assintotismo e Big-O.md",
+    "000 USCS/ALG/3- Função de Complexidad.md",
+    "000 USCS/ALG/2- Modelo Knuth.md",
     "000 USCS/ML/2-.md",
-    "100 AI Prompts/Resuminho Gemini.md",
+    "000 USCS/ML/1-.md",
     "100 AI Prompts/USCS HELP.md",
     "000 USCS/SD/2.1- Ex.md",
     "000 USCS/SD/2- Paradigmas.md",
@@ -218,24 +236,6 @@
     "000 USCS/SD/media",
     "000 USCS/TG/media/Pasted image 20260322155012.png",
     "000 USCS/SD/1.2- Revisão básicas.md",
-    "000 USCS/SD/1- Fundamentos de SD.md",
-    "000 USCS/TG/N1.md",
-    "000 USCS/TG/1- Grafos.md",
-    "000 USCS/TG/2- Kuratowski.md",
-    "000 USCS/TG/3- Euler.md",
-    "JLPT N3.md",
-    "Intern.md",
-    "100 AI Prompts/CS Help.md",
-    "100 AI Prompts/CS Notes Analysis.md",
-    "100 AI Prompts/Flashcards BR.md",
-    "100 AI Prompts/Japanese Vocab+ 1.md",
-    "100 AI Prompts/Notebook NHG.md",
-    "100 AI Prompts/Presentation.md",
-    "000 USCS/ALG/4- Assintotismo e Big-O.md",
-    "000 USCS/ALG/3- Função de Complexidad.md",
-    "000 USCS/ALG/2- Modelo Knuth.md",
-    "000 USCS/ALG/1- Introdução.md",
-    "000 USCS/CG/5- Geometrics.md",
     "000 USCS/ALG",
     "000 USCS/TG",
     "000 USCS/ML",
