@@ -1,4 +1,4 @@
-****# ✨ Realce e Filtragem de Imagens Digitais
+# ✨ Realce e Filtragem de Imagens Digitais
 
 ### 📝 Visão Geral
 O realce de imagens visa destacar características específicas ou remover artefatos para tornar a imagem mais adequada a uma tarefa (como diagnóstico médico ou reconhecimento de placas). Diferente de outras técnicas, o realce não aumenta o conteúdo de informação, mas facilita a interpretação visual ou computacional através de operações matemáticas nos pixels.
