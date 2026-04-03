@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/CG/Untitled.md",
+                "file": "000 USCS/TG/3- Euler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3- Euler"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/CG/Untitled.md",
+                "file": "000 USCS/TG/3- Euler.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 3- Euler"
             }
           }
         ],
@@ -203,6 +203,10 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
+    "000 USCS/TG/2- Kuratowski.md",
+    "000 USCS/TG/3- Euler.md",
+    "000 USCS/TG/N1.md",
+    "000 USCS/CG/Untitled.md",
     "Pasted image 20260401221817.png",
     "Pasted image 20260401221751.png",
     "Pasted image 20260401221745.png",
@@ -211,7 +215,6 @@
     "000 USCS/CG/N1.md",
     "000 USCS/CG/3- Realce e Filtragem.md",
     "000 USCS/CG/4- Pipeline Grafico.md",
-    "000 USCS/CG/Untitled.md",
     "000 USCS/CG/5- Geometrics.md",
     "000 USCS/CG/2- Amostragem e Quantização.md",
     "000 USCS/CG/1 - Introdução.md",
@@ -228,8 +231,6 @@
     "Pasted image 20260329174804.png",
     "000 USCS/ALG/2- Modelo Knuth.md",
     "000 USCS/ALG/1- Introdução.md",
-    "000 USCS/TG/3- Euler.md",
-    "000 USCS/TG/2- Kuratowski.md",
     "000 USCS/TG/1- Grafos.md",
     "000 USCS/SD/N1.md",
     "JLPT N3.md",
@@ -239,7 +240,6 @@
     "000 USCS/TG/media",
     "000 USCS/SD/media/Pasted image 20260329111436.png",
     "000 USCS/SD/media/Pasted image 20260329111442.png",
-    "000 USCS/TG/media/Pasted image 20260322171536.png",
     "000 USCS/SD/media",
     "000 USCS/ALG",
     "000 USCS/TG",
