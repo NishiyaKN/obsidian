@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/TG/N1.md",
+                "file": "000 USCS/CG/N1.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/TG/N1.md",
+                "file": "000 USCS/CG/N1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,19 +201,23 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "bb9b2c2b350161f6",
+  "active": "a83c32916dc19d5d",
   "lastOpenFiles": [
+    "000 USCS/CG/Media/Pasted image 20260403144345.png",
+    "000 USCS/CG/6- Recorte e Visibilidade.md",
     "000 USCS/CG/Untitled.md",
+    "000 USCS/CG/N1.md",
+    "000 USCS/CG/Media/Pasted image 20260401221745.png",
+    "000 USCS/CG/Media/Pasted image 20260401221817.png",
+    "000 USCS/CG/Media",
+    "000 USCS/CG/Media/Pasted image 20260401221751.png",
+    "000 USCS/CG/Media/Pasted image 20260401221610.png",
+    "000 USCS/CG/Media/Pasted image 20260401221422.png",
+    "000 USCS/CG/Media/Pasted image 20260329174804.png",
+    "000 USCS/TG/N1.md",
     "000 USCS/CG/2- Amostragem e Quantização.md",
     "000 USCS/TG/3- Euler.md",
     "000 USCS/TG/2- Kuratowski.md",
-    "000 USCS/TG/N1.md",
-    "Pasted image 20260401221817.png",
-    "Pasted image 20260401221751.png",
-    "Pasted image 20260401221745.png",
-    "Pasted image 20260401221610.png",
-    "Pasted image 20260401221422.png",
-    "000 USCS/CG/N1.md",
     "000 USCS/CG/3- Realce e Filtragem.md",
     "000 USCS/CG/4- Pipeline Grafico.md",
     "000 USCS/CG/5- Geometrics.md",
@@ -228,14 +232,11 @@
     "000 USCS/ALG/5- Big O.md",
     "000 USCS/ALG/4- Assintotismo e Big-O.md",
     "000 USCS/ALG/3- Função de Complexidad.md",
-    "Pasted image 20260329174804.png",
     "000 USCS/ALG/2- Modelo Knuth.md",
     "000 USCS/ALG/1- Introdução.md",
     "000 USCS/TG/1- Grafos.md",
     "000 USCS/SD/N1.md",
     "JLPT N3.md",
-    "100 AI Prompts/So o file.md",
-    "000 USCS/ML/N1.md",
     "Pasted image 20260329111434.png",
     "000 USCS/TG/media",
     "000 USCS/SD/media/Pasted image 20260329111436.png",
@@ -249,7 +250,6 @@
     "998 MISC/0MKSH/06S",
     "998 MISC/0MKSH/06S/IA/Media",
     "Dashboard.canvas",
-    "998 MISC/0MKSH/06S/OS",
     "Untitled.canvas"
   ]
 }
