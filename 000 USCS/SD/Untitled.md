@@ -16,8 +16,10 @@
 **de Arquitetura:** Cliente-servidor, peer-to-peer, sistema em camadas (estrutura vertical n+1 para desacoplamentos, comum o 3 camadas: user, processamento, dados)
 **de Comunicação:** RPC (chamada a um serviço parece chamada de função local, transparência de acesso), RMI (JVM, orientado a objetos), MOM (sistemas assíncronos, msg enviada para filas)
 **de Organização**: basedos em objetos (coleção de objetos distribuídos com estado e comportamento, interação via msg), arquivos distribuidos (transparência de localização, interage remoto como se fosse local), baseado em documento (transparência de representaçãoes de recursos, REST)
-**de Coordenação:** acoplamento, nivel de dependência ou interli
+**de Coordenação:** acoplamento, nivel de dependência ou interligação entre componentes, espacial (IP, porta exata), temporal (sincrono travado, ou assincrono flexivel)
 **Trade-Off:**
-**Remoção de dependencia entre os sistemas:**
-**Projetar para falhar vs projetar para eliminar pontos de falha:**
-**Health Check:**
+![[Pasted image 20260404210146.png]]
+Teorema CAP: você precisa escolher entre Consistência perfeita, Disponibilidade contínua ou Tolerância a Partição (falhas de rede). Melhorar uma métrica geralmente prejudica outra.
+**Remoção de dependencia entre os sistemas:** comunicação assíncrona, arquitetura orientada a eventos, load balancer
+**Projetar para falhar vs projetar para eliminar pontos de falha:** eliminar spof evita que um único componente, se cair, derrube tudo, foca em redundância. Projetar para falha assume que falhas vao ocorrer, entao projeta para continuar entregando o serviço mesmo com falhas nos componentes individuais, usa circuit breakers ou retentativas automaticas
+**Health Check:** testes automáticos periódicos para verificar um server, bd, ou service está funcionando. se falha no check load balancer redireciona trafego para outro
