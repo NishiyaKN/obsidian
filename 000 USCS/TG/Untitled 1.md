@@ -44,3 +44,5 @@ b-) Trace um grafo conexo que não seja completo.
 ![[Pasted image 20260405170824.png]]
 ![[Pasted image 20260405171518.png]]
 ![[Pasted image 20260405171542.png]]
+
+ **V-E+F=2** para todo grafo planar conexo.
