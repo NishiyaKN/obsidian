@@ -45,4 +45,5 @@ b-) Trace um grafo conexo que não seja completo.
 ![[Pasted image 20260405171518.png]]
 ![[Pasted image 20260405171542.png]]
 
- **V-E+F=2** para todo grafo planar conexo.
+ **Euler: V-E+F=2** para todo grafo planar conexo.
+**Teorema de Hamilton (Condição Suficiente):** Se um grafo tem ordem $p \ge 3$ e todo vértice $v$ possui $grau(v) \ge p/2$, então ele é hamiltoniano. 
