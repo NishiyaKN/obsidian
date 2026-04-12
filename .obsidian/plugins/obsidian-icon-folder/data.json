@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLightbulb",
       "SiAmazonaws",
       "LiBookText",
       "LiLayoutDashboard",
-      "SiExcalidraw",
-      "LiExcalidrawIcon"
+      "SiExcalidraw"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
     "iconColor": "#e50b0b"
   },
   "000 USCS": "LiBookText",
-  "100 AI Prompts": "SiGnubash"
+  "100 AI Prompts": "SiGnubash",
+  "101 AI Skills": "LiLightbulb"
 }
