@@ -1,6 +1,6 @@
 ---
 name: jp-vocab-classifier
-description: Classifies Japanese vocabulary lists from immersion (anime, manga, light novels, visual novels, etc.) into three frequency tiers — Common, Rare, Unusual — to help prioritize Anki card creation. Use this skill whenever the user sends a list of Japanese words and wants them classified, sorted, triaged, or prioritized by frequency or usefulness. Also triggers when the user says things like "classify these words", "sort this vocab", "which of these should I learn first", "triage this list", "prioritize these", or sends a raw list of Japanese words with the expectation of classification. Trigger even if the user just pastes Japanese words without explicit instructions — if a previous conversation established the classification workflow, assume they want classification.
+description: Classifies Japanese vocabulary lists from immersion (anime, manga, light novels, visual novels, etc.) into three frequency tiers — Level 1, Level 2, and Level 3 — to help prioritize Anki card creation. Use this skill whenever the user sends a list of Japanese words and wants them classified, sorted, triaged, or prioritized by frequency or usefulness. Also triggers when the user says things like "classify these words", "sort this vocab", "which of these should I learn first", "triage this list", "prioritize these", or sends a raw list of Japanese words with the expectation of classification. Trigger even if the user just pastes Japanese words without explicit instructions — if a previous conversation established the classification workflow, assume they want classification.
 ---
 
 # Japanese Vocab Classifier
@@ -20,41 +20,41 @@ Classifies Japanese vocabulary extracted from immersion material (anime, manga, 
 
 ## The Three Tiers
 
-### 🟢 Common
-Words the user is **most likely to encounter again soon** in immersion and daily Japanese. These go into Anki first.
+### 🟢 Level 1
+Words within the **top ~8,000** most frequent Japanese words. The user is most likely to encounter these again soon — highest Anki priority.
 
-A word is Common if it meets **most** of these criteria:
-- Appears in general-purpose frequency lists within the **top ~10,000–15,000** most used words
+A word is Level 1 if it meets **most** of these criteria:
+- Appears in general-purpose frequency lists within the **top ~8,000** most used words
 - Shows up **regularly across multiple genres** of anime/manga (not confined to one setting)
 - Would be understood and used by an average Japanese adult in **everyday conversation, news, or writing**
-- Falls within JLPT N3–N1 vocabulary lists (but JLPT alone is not sufficient — frequency in real usage matters more)
+- Falls within JLPT N5–N2 vocabulary (but JLPT alone is not sufficient — frequency in real usage matters more)
 - Is the kind of word that, once learned, the user will see **multiple times per week** during active immersion
 
-**Examples of Common words**: 覚悟 (resolve), 裏切る (to betray), 手遅れ (too late), 偶然 (by chance), 油断 (carelessness), 邪魔 (hindrance), 諦める (to give up)
+**Examples of Level 1 words**: 覚悟 (resolve), 裏切る (to betray), 偶然 (by chance), 油断 (carelessness), 邪魔 (hindrance), 諦める (to give up)
 
-### 🟡 Rare
-Words that appear in immersion **occasionally** but are not everyday vocabulary. Add to Anki only when there are no Common words waiting.
+### 🟡 Level 2
+Words within the **top ~8,000–15,000** most frequent Japanese words. Appear in immersion occasionally — add to Anki after Level 1 words are cleared.
 
-A word is Rare if it meets **most** of these criteria:
-- Falls roughly in the **15,000–30,000** frequency range, or is common only within specific domains
+A word is Level 2 if it meets **most** of these criteria:
+- Falls roughly in the **8,000–15,000** frequency range, or is common only within specific domains
 - Appears in anime/manga **periodically** — maybe a few times across a full series, not every episode/chapter
 - A Japanese adult would recognize it but might not use it in casual conversation (more typical of **written language, formal speech, or specific genres**)
 - Often genre-weighted: frequent in battle shonen, historical drama, or mystery but uncommon in slice-of-life or daily conversation
 - Learning it adds depth but won't unlock frequent comprehension gains immediately
 
-**Examples of Rare words**: 凛々しい (dignified/gallant), 采配 (command/direction), 暗躍 (scheming behind the scenes), 志 (ambition/aspiration, in its literary sense), 愚弄 (to make a fool of)
+**Examples of Level 2 words**: 手遅れ (too late), 凛々しい (dignified/gallant), 采配 (command/direction), 暗躍 (scheming behind the scenes), 愚弄 (to make a fool of)
 
-### 🔴 Unusual
-Words that are **very infrequent** even within immersion. Lowest priority — add only when Common and Rare queues are empty.
+### 🔴 Level 3
+Words **beyond the top 15,000** in frequency. Very infrequent even in immersion — lowest priority.
 
-A word is Unusual if it meets **most** of these criteria:
-- Falls **beyond the top 30,000** in frequency, or is effectively absent from general-purpose frequency data
+A word is Level 3 if it meets **most** of these criteria:
+- Falls **beyond the top 15,000** in frequency, or is effectively absent from general-purpose frequency data
 - Appears in anime/manga **rarely** — maybe once in an entire series, or only in very niche works
 - Is **archaic, dialectal, highly literary, technical jargon, or character-specific catchphrases** that don't generalize
 - A typical Japanese adult might not immediately recognize it, or would consider it obscure
 - Often includes: classical/literary verb forms, obscure kanji compounds, ultra-specialized terminology (e.g., specific sword techniques, esoteric Buddhist terms, old military ranks)
 
-**Examples of Unusual words**: 矜持 (pride, literary), 罷免 (dismissal from office), 忌憚 (reserve/hesitation, literary), 畢竟 (after all, archaic), 韋駄天 (incredible speed, Buddhist origin)
+**Examples of Level 3 words**: 矜持 (pride, literary), 罷免 (dismissal from office), 忌憚 (reserve/hesitation, literary), 畢竟 (after all, archaic), 志 (ambition/aspiration, literary sense), 韋駄天 (incredible speed, Buddhist origin)
 
 ---
 
@@ -80,8 +80,8 @@ Consider these signals (in rough order of reliability):
 
 ### Step 3 — Assign tier
 Use the tier definitions above. When a word is borderline:
-- Between Common and Rare → **lean Common** (it's better to prioritize a borderline word than to delay it)
-- Between Rare and Unusual → **lean Rare** (same logic — when in doubt, promote)
+- Between Level 1 and Level 2 → **lean Level 1** (better to prioritize a borderline word than delay it)
+- Between Level 2 and Level 3 → **lean Level 2** (same logic — when in doubt, promote)
 
 ### Step 4 — Deduplicate
 If the same word appears multiple times in the list (possibly in different conjugations), include it **only once** in its dictionary form.
@@ -97,7 +97,7 @@ If a tier has zero words, still show the header but write `(none)` inside the bl
 ### Template:
 
 ```
-🟢 Common — add to Anki first
+🟢 Level 1 — add to Anki first
 ```
 ```
 [word1]
@@ -106,7 +106,7 @@ If a tier has zero words, still show the header but write `(none)` inside the bl
 ```
 
 ```
-🟡 Rare — add when no Common words are pending
+🟡 Level 2 — add when no Level 1 words are pending
 ```
 ```
 [word1]
@@ -114,7 +114,7 @@ If a tier has zero words, still show the header but write `(none)` inside the bl
 ```
 
 ```
-🔴 Unusual — lowest priority
+🔴 Level 3 — lowest priority
 ```
 ```
 [word1]
@@ -124,7 +124,7 @@ If a tier has zero words, still show the header but write `(none)` inside the bl
 ### After the blocks
 
 Add a **brief summary line** with counts only:
-`Common: X | Rare: Y | Unusual: Z`
+`Level 1: X | Level 2: Y | Level 3: Z`
 
 Do NOT add per-word explanations, translations, or justifications unless the user explicitly asks for them. Keep it clean.
 
