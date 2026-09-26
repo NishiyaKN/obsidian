@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/GSS/1. Introdução.md",
+                "file": "000 USCS/GSS/6. SI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introdução"
+              "title": "6. SI"
             }
           }
         ]
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/GSS/1. Introdução.md",
+                "file": "000 USCS/GSS/6. SI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,8 +219,17 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
-    "000 USCS/QDS/9. AF 1.md",
+    "000 USCS/GSS/5. COBIT.md",
+    "000 USCS/GSS/6. SI.md",
+    "000 USCS/GSS/4. Práticas Tact ITIL.md",
+    "000 USCS/GSS/MEdia/ishikawa-espinha-de-peixe-categorias-6m.png",
+    "000 USCS/GSS/3. Práticas Op ITIL.md",
+    "000 USCS/GSS/MEdia/itsm-portal-autoatendimento-catalogo-servicos.png",
+    "000 USCS/GSS/2. ITIL v4.md",
+    "000 USCS/GSS/MEdia/itil-automacao-ciclo-moderno-descobrir-otimizar.png",
+    "000 USCS/GSS/MEdia",
     "000 USCS/GSS/1. Introdução.md",
+    "000 USCS/QDS/9. AF 1.md",
     "000 USCS/QDS/3. Avaliação Heurística.md",
     "101 AI Skills/jp-vocab-classifier.md",
     "Fundamentos e Modelos de Qualidade de Software.md",
@@ -233,9 +242,6 @@
     "000 USCS/QDS/Media/expedicao-antartica-tela-08-tecla-e-dialogo.png",
     "000 USCS/QDS/Media/expedicao-antartica-tela-09-aviso-minijogos.png",
     "000 USCS/QDS/Media/expedicao-antartica-tela-10-teia-alimentar-barra.png",
-    "000 USCS/QDS/Media/expedicao-antartica-tela-11-cauda-baleia.png",
-    "000 USCS/QDS/Media/expedicao-antartica-tela-12-memoria-feedback-acerto.png",
-    "000 USCS/QDS/Media/expedicao-antartica-tela-13-fim-minijogo-itens.png",
     "000 USCS/QDS/Media/files/Avaliação Heurística e Graus de Severidade.md",
     "000 USCS/QDS/Media/files",
     "000 USCS/QDS/Media/files.zip",
@@ -258,14 +264,8 @@
     "998 MISC/Linux.md",
     "998 MISC/Logic Rationale.md",
     "998 MISC/NIPOMED.md",
-    "998 MISC/React JS.md",
-    "998 MISC/0MKSH/07S/TG/3- Euler.md",
     "998 MISC/0MKSH/07S",
-    "998 MISC/0MKSH/07S/TG/2- Kuratowski.md",
-    "998 MISC/0MKSH/07S/TG/1- Grafos.md",
-    "998 MISC/0MKSH/07S/TG/N1.md",
     "Dashboard.canvas",
-    "GH-200",
     "Untitled.canvas"
   ]
 }
