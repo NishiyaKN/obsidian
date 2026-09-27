@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/CNC/1. Ponto Flutuante.md",
+                "file": "000 USCS/CNC/9. N1 - Resumo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Ponto Flutuante"
+              "title": "9. N1 - Resumo"
             }
           }
         ]
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/CNC/1. Ponto Flutuante.md",
+                "file": "000 USCS/CNC/9. N1 - Resumo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,7 +219,14 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
+    "000 USCS/CNC/3. Sistemas de numeração.md",
+    "000 USCS/CNC/2. Zero de funções.md",
+    "000 USCS/CNC/1. Ponto Flutuante.md",
+    "000 USCS/CNC/9. Estudo Dirigido.md",
+    "000 USCS/CNC/9. N1 - Resumo.md",
     "000 USCS/N1.md",
+    "JLPT N3.md",
+    "000 USCS/CNC/999.md",
     "000 USCS/ROB/9. AF.md",
     "000 USCS/ROB/999.md",
     "000 USCS/ROB/3. Arduino.md",
@@ -236,15 +243,8 @@
     "000 USCS/GSS/3. Práticas Op ITIL.md",
     "000 USCS/GSS/2. ITIL v4.md",
     "000 USCS/GSS/1. Introdução.md",
-    "000 USCS/CNC/999.md",
-    "000 USCS/CNC/2. Zero de funções.md",
-    "000 USCS/CNC/9. Estudo Dirigido.md",
-    "000 USCS/CNC/3. Sistemas de numeração.md",
-    "000 USCS/CNC/1. Ponto Flutuante.md",
-    "000 USCS/CNC/9. N1 - Resumo.md",
     "Sistemas de Numeração e Mudança de Base.md",
     "REVIEW — Qualidade de Software.md",
-    "000 USCS/GSS/5. COBIT.md",
     "000 USCS/CNC/Media/ponto-flutuante-reta-underflow-overflow-lousa.png",
     "000 USCS/CNC/Media/bolzano-tres-casos-sinal-nas-pontas-lousa.png",
     "000 USCS/CNC/Media",
