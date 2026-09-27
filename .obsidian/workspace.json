@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "000 USCS/CNC/1. Ponto Flutuante.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -220,9 +220,9 @@
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
     "000 USCS/N1.md",
+    "000 USCS/CNC/1. Ponto Flutuante.md",
     "000 USCS/CNC/9. N1 - Resumo.md",
     "000 USCS/CNC/999.md",
-    "000 USCS/CNC/1. Ponto Flutuante.md",
     "000 USCS/CNC/3. Sistemas de numeração.md",
     "Sistemas de Numeração e Mudança de Base.md",
     "000 USCS/CNC/2. Zero de funções.md",
