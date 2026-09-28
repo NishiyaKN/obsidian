@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/CNC/2. Zero de funções.md",
+                "file": "000 USCS/CNC/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Zero de funções"
+              "title": "Untitled"
             }
           }
         ]
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/CNC/2. Zero de funções.md",
+                "file": "000 USCS/CNC/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,10 +219,11 @@
   },
   "active": "bb9b2c2b350161f6",
   "lastOpenFiles": [
+    "000 USCS/CNC/2. Zero de funções.md",
+    "000 USCS/CNC/Untitled.md",
     "000 USCS/N1.md",
     "000 USCS/CNC/9. N1 - Resumo.md",
     "000 USCS/CNC/3. Sistemas de numeração.md",
-    "000 USCS/CNC/2. Zero de funções.md",
     "000 USCS/CNC/1. Ponto Flutuante.md",
     "000 USCS/CNC/9. Estudo Dirigido.md",
     "JLPT N3.md",
@@ -244,7 +245,6 @@
     "000 USCS/GSS/2. ITIL v4.md",
     "000 USCS/GSS/1. Introdução.md",
     "Sistemas de Numeração e Mudança de Base.md",
-    "REVIEW — Qualidade de Software.md",
     "000 USCS/CNC/Media/ponto-flutuante-reta-underflow-overflow-lousa.png",
     "000 USCS/CNC/Media/bolzano-tres-casos-sinal-nas-pontas-lousa.png",
     "000 USCS/CNC/Media",
