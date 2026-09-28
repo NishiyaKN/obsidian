@@ -26,9 +26,9 @@ Regras usadas em todos os exercícios, salvo quando o enunciado disser outra coi
 
 ## 🟢 Set 1 — Básico
 
-**1.** Converta $45$ para a base 2.
+**1.** Converta $45$ para a base 2. 
 
-**2.** Converta para a base 10: (a) $(1011)_2$; (b) $(212)_3$.
+**2.** Converta para a base 10: (a) $(1011)_2$; (b) $(212)_3$. 
 
 **3.** Escreva na forma normalizada $0{,}d_1 d_2 \dots \times 10^e$: (a) $0{,}00372$; (b) $523{,}1$.
 
