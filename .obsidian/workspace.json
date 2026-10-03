@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/CNC/Untitled.md",
+                "file": "000 USCS/GSS/N1 - Mega resumo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "N1 - Mega resumo"
             }
           }
         ],
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 USCS/CNC/Untitled.md",
+                "file": "000 USCS/GSS/N1 - Mega resumo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -234,8 +234,13 @@
   },
   "active": "e67bffdf17159cea",
   "lastOpenFiles": [
-    "000 USCS/CNC/2. Zero de funções.md",
+    "000 USCS/GSS/N1 - Review.md",
+    "000 USCS/GSS/N1 - Mega resumo.md",
+    "000 USCS/GSS/N1 - Revisao.md",
+    "000 USCS/GSS/9. AF 7.md",
+    "000 USCS/GSS/7. LGPD.md",
     "000 USCS/CNC/Untitled.md",
+    "000 USCS/CNC/2. Zero de funções.md",
     "000 USCS/CNC/3. Sistemas de numeração.md",
     "000 USCS/N1.md",
     "000 USCS/CNC/9. N1 - Resumo.md",
@@ -254,12 +259,7 @@
     "000 USCS/QDS/2. Metricas.md",
     "000 USCS/QDS/1.1. Infografico.md",
     "000 USCS/QDS/1. Fundamentos.md",
-    "000 USCS/GSS/N1 - Review.md",
     "000 USCS/GSS/4. Práticas Tact ITIL.md",
-    "000 USCS/GSS/3. Práticas Op ITIL.md",
-    "000 USCS/GSS/2. ITIL v4.md",
-    "000 USCS/GSS/1. Introdução.md",
-    "Sistemas de Numeração e Mudança de Base.md",
     "000 USCS/CNC/Media/ponto-flutuante-reta-underflow-overflow-lousa.png",
     "000 USCS/CNC/Media/bolzano-tres-casos-sinal-nas-pontas-lousa.png",
     "000 USCS/CNC/Media",

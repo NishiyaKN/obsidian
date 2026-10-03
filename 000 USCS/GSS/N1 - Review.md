@@ -163,26 +163,42 @@ tags:
 - **Aplicar patch** = reduz a **vulnerabilidade**. **Seguro** = só **transfere** o prejuízo.
 
 # LGPD e Privacy by Design
-*Sem resumo de aula: os slides não vieram. Conteúdo com base na lei.*
+→ [[Legislação, Governança de Dados e LGPD]]
 
-- **Lei 13.709/2018**. Fiscalização: **ANPD**.
-- **Dado pessoal** = informação de **pessoa natural identificada ou identificável** (**CPF** é dado pessoal).
-- **Dado sensível** = origem **racial/étnica**, **religião**, opinião **política**, filiação **sindical**, **saúde**, vida sexual, dado **genético** ou **biométrico**.
-- **Dado anonimizado** = não identifica ninguém → **fora** da LGPD (salvo se a anonimização puder ser **revertida**).
+- **Lei 13.709/2018**; setores **público e privado**. Fiscalização: **ANPD**.
+- **Dado pessoal** = pessoa natural **identificada** (CPF) **ou identificável** (cargo + empresa). Inclui **IP, geolocalização, placa de veículo** (são **comuns**, não sensíveis).
+- **Dado sensível** = **biometria** (digital, facial), **DNA**, **saúde** (prontuário, exames, **convênio**), vida sexual, origem **racial/étnica**, opinião **política**, **religião**, filiação **sindical**.
+- **Anonimizado** = não identifica, **irreversível** → **fora** da LGPD.
+- **Pseudonimizado** ("pseudoanonimização" no slide) = troca por código (hash), chave guardada à parte → reidentificável → **LGPD se aplica**.
+- **Tratamento** = **qualquer operação**: coleta, armazenamento, uso, compartilhamento, **eliminação**.
+- **Ciclo de vida (5)**: coleta → armazenamento → utilização → compartilhamento → arquivamento & exclusão.
 
 | Agente | Papel |
 | :--- | :--- |
 | **Titular** | a **pessoa natural** a quem os dados se referem |
-| **Controlador** | **decide** finalidade e meios |
-| **Operador** | trata **em nome** do controlador |
-| **Encarregado (DPO)** | **canal de comunicação** controlador ↔ titulares ↔ ANPD |
+| **Controlador** | **decide** (ex.: instituição de ensino) |
+| **Operador** | trata **em nome** do controlador (ex.: **nuvem**, consultoria de folha) |
+| **Encarregado (DPO)** | **ponte** controlador ↔ titulares ↔ ANPD · **orientador** interno · **gestor de crise** |
 
-- **10 bases legais**: **consentimento**, **obrigação legal**, administração pública, pesquisa, **execução de contrato**, exercício de direitos, proteção da vida, tutela da saúde, **legítimo interesse** (com teste **LIA**), proteção do crédito.
+- **10 bases legais** (art. 7º): **consentimento**, **obrigação legal**, políticas públicas, pesquisa, **execução de contrato**, exercício de direitos, **proteção da vida** (titular **ou terceiros**), **tutela da saúde**, **legítimo interesse**, proteção do crédito.
+  - **Sensível** → **art. 11**: sem legítimo interesse e sem proteção do crédito.
   - **Revender dados sem consentimento/justificativa** = **não** é base legal.
-- **Princípios**: **finalidade**, **adequação**, **necessidade**, livre acesso, qualidade, **transparência**, segurança, prevenção, não discriminação, responsabilização.
+
+| Exemplo | Base |
+| :--- | :--- |
+| NF-e, eSocial | **obrigação legal** |
+| Cadastro para entrega no e-commerce | **contrato** |
+| Registros médicos, atendimento emergencial | **tutela da saúde** |
+| Prevenção à fraude | **legítimo interesse** |
+| Marketing | **consentimento** |
+
+- **Consentimento** = **livre, informado, inequívoco**, **destacado**. **Caixa pré-marcada = opt-out automático = proibido**. Revogação **gratuita e facilitada**, a qualquer momento.
+- **Legítimo interesse** = exige **LIA** (teste de balanceamento) + **expectativa do titular** (compatível com a relação).
+- **Princípios**: **finalidade & adequação** (propósito explícito) · **necessidade = minimização** (mínimo de dados) · **transparência & livre acesso** · **segurança & prevenção**.
   - Coletar para um fim e usar para outro, sem avisar → fere **finalidade, adequação, transparência**.
-- **Privacy by Design** = **Ann Cavoukian**: privacidade **desde a concepção**, **proativa, não reativa**.
-  - **Privacy by Default** = configuração **mais restritiva por padrão**, coleta **só o necessário**.
+- **Privacy by Design** = **Ann Cavoukian**: **desde a concepção**, **proativo, não reativo**, privacidade como padrão, segurança **ponta a ponta**.
+- **Privacy by Default** = **maior privacidade por padrão**, compartilhamento **desligado de fábrica**, formulário só com o **indispensável**.
+- **Práticas**: criptografia **TLS/HTTPS** (trânsito) + **AES-256** (descanso) · **RBAC** / menor privilégio · **DPIA = RIPD** (relatório de impacto, sistemas de **alto risco**).
 
 # PSI, ISO 27001/27002 e fator humano
 *Sem resumo de aula: os slides não vieram.*
@@ -201,23 +217,25 @@ tags:
 
 # ⚠️ Não confundir
 
-| Par | Diferença |
-| :--- | :--- |
-| Incidente × Problema | **restaurar** × **eliminar causa raiz** |
-| Incidente × Requisição | **falhou/degradou** × **pedido padrão** |
-| Governança × Gestão | **o quê/quem** (EDM, conselho) × **como** (APO/BAI/DSS/MEA, gerentes) |
-| Utilidade × Garantia | **o que faz** × **disponível, capaz, seguro, contínuo** |
-| Sob medida × Dinâmico | **porte, setor, cultura** × **readapta a mudanças** |
-| Autenticidade × Não-repúdio | **quem é** × **não pode negar depois** |
-| Autenticação × Autorização | **quem é** × **o que pode** |
-| Ameaça × Vulnerabilidade | **agente/evento** × **fraqueza** |
-| Confidencialidade × Integridade | **vazou** × **alterou** |
-| SLA × OLA × UC | **cliente** × **interno** × **fornecedor externo** |
-| CAB × ECAB | mudança **normal** × **emergencial** |
-| Controlador × Operador × Encarregado | **decide** × **executa** × **canal** |
-| ISO 27001 × 27002 | **requisitos/certifica** × **práticas/controles** |
-| Privacy by Design × by Default | **desde a concepção** × **padrão mais restritivo** |
-| Local × Centralizado × Virtual | **presencial por prédio** × **um local** × **distribuído 24/7** |
+| Par                                  | Diferença                                                                         |
+| :----------------------------------- | :-------------------------------------------------------------------------------- |
+| Incidente × Problema                 | **restaurar** × **eliminar causa raiz**                                           |
+| Incidente × Requisição               | **falhou/degradou** × **pedido padrão**                                           |
+| Governança × Gestão                  | **o quê/quem** (EDM, conselho) × **como** (APO/BAI/DSS/MEA, gerentes)             |
+| Utilidade × Garantia                 | **o que faz** × **disponível, capaz, seguro, contínuo**                           |
+| Sob medida × Dinâmico                | **porte, setor, cultura** × **readapta a mudanças**                               |
+| Autenticidade × Não-repúdio          | **quem é** × **não pode negar depois**                                            |
+| Autenticação × Autorização           | **quem é** × **o que pode**                                                       |
+| Ameaça × Vulnerabilidade             | **agente/evento** × **fraqueza**                                                  |
+| Confidencialidade × Integridade      | **vazou** × **alterou**                                                           |
+| SLA × OLA × UC                       | **cliente** × **interno** × **fornecedor externo**                                |
+| CAB × ECAB                           | mudança **normal** × **emergencial**                                              |
+| Controlador × Operador × Encarregado | **decide** × **executa** × **canal**                                              |
+| ISO 27001 × 27002                    | **requisitos/certifica** × **práticas/controles**                                 |
+| Privacy by Design × by Default       | **desde a concepção** × **padrão mais restritivo**                                |
+| Anonimizado × Pseudonimizado         | **irreversível, fora da LGPD** × **reidentificável, dentro da LGPD**              |
+| Dado comum × sensível                | **IP, geolocalização, placa** = comum × **biometria, saúde, convênio** = sensível |
+| Local × Centralizado × Virtual       | **presencial por prédio** × **um local** × **distribuído 24/7**                   |
 
 # 🎯 Eliminar alternativas
 
