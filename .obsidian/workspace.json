@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/ROB/9. N1 revisao.md",
+                "file": "000 USCS/ROB/3. Arduino.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. N1 revisao"
+              "title": "3. Arduino"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/ROB/2. Aprofundamento.md",
+                "file": "000 USCS/ROB/9. N1 revisao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Aprofundamento"
+              "title": "9. N1 revisao"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,11 +232,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "a83c32916dc19d5d",
+  "active": "e67bffdf17159cea",
   "lastOpenFiles": [
-    "000 USCS/ROB/Media/Pasted image 20261004115417.png",
+    "000 USCS/ROB/Media/Pasted image 20261004135430.png",
     "000 USCS/ROB/9. N1 revisao.md",
     "000 USCS/ROB/2. Aprofundamento.md",
+    "000 USCS/ROB/Media/Pasted image 20261004115417.png",
     "000 USCS/ROB/0. aaaaaaaaaaaaaaaaaaa.md",
     "000 USCS/ROB/1. Fundamentos.md",
     "000 USCS/ROB/9. mega resumo.md",
@@ -272,7 +272,6 @@
     "000 USCS/GSS/MEdia/itil-automacao-ciclo-moderno-descobrir-otimizar.png",
     "000 USCS/GSS/MEdia",
     "000 USCS/QDS/Media/expedicao-antartica-tela-04-menu-configuracoes.png",
-    "000 USCS/QDS/Media/expedicao-antartica-tela-05-configuracoes-botao-sem-rotulo.png",
     "000 USCS/QDS/Media/files",
     "000 USCS/QDS/Media/files.zip",
     "000 USCS/QDS/Media",
