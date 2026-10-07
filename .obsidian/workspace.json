@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/CNC/Base de Estudo Quiz.md",
+                "file": "000 USCS/CNC/1. Ponto Flutuante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base de Estudo Quiz"
+              "title": "1. Ponto Flutuante"
             }
           }
         ]
@@ -220,9 +220,11 @@
   },
   "active": "ce17aec922b6fa6a",
   "lastOpenFiles": [
+    "000 USCS/CNC/3. Sistemas de numeração.md",
+    "000 USCS/CNC/1. Ponto Flutuante.md",
+    "000 USCS/CNC/Base de Estudo Quiz.md",
     "000 USCS/CNC/9. N1 - Resumo.md",
     "000 USCS/CNC/9. Estudo Dirigido.md",
-    "000 USCS/CNC/Base de Estudo Quiz.md",
     "000 USCS/CNC/treino por IA.md",
     "000 USCS/CNC/999.md",
     "000 USCS/CNC/2. Zero de funções.md",
@@ -248,9 +250,7 @@
     "000 USCS/QDS/3. Avaliação Heurística.md",
     "000 USCS/QDS/2. Metricas.md",
     "000 USCS/QDS/1.1. Infografico.md",
-    "000 USCS/QDS/1. Fundamentos.md",
     "000 USCS/QDS/Media/modelo-v-desenvolvimento-niveis-de-teste.png",
-    "000 USCS/GSS/N1 - Review.md",
     "000 USCS/ROB/Media/divisor-de-tensao-ldr.png",
     "000 USCS/ROB/Media/painel-io-dobot-magician.png",
     "000 USCS/CNC/Media/ponto-flutuante-reta-underflow-overflow-lousa.png",

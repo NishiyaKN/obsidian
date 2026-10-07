@@ -9,7 +9,7 @@ tags:
 - base-quiz
 
 ---
-# 📝 Base de Estudo — Quiz de Cálculo Numérico
+g# 📝 Base de Estudo — Quiz de Cálculo Numérico
 
 ## 👁️ Visão geral
 
