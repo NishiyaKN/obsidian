@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 USCS/CNC/999.md",
+                "file": "000 USCS/CNC/1. Ponto Flutuante.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "999"
+              "title": "1. Ponto Flutuante"
             }
           }
         ]
@@ -220,14 +220,14 @@
   },
   "active": "ce17aec922b6fa6a",
   "lastOpenFiles": [
-    "000 USCS/CNC/9. N1 - Resumo.md",
-    "000 USCS/CNC/1. Ponto Flutuante.md",
     "000 USCS/CNC/2. Zero de funções.md",
     "000 USCS/CNC/3. Sistemas de numeração.md",
+    "000 USCS/CNC/999.md",
+    "000 USCS/CNC/9. N1 - Resumo.md",
+    "000 USCS/CNC/1. Ponto Flutuante.md",
     "000 USCS/CNC/Base de Estudo Quiz.md",
     "000 USCS/CNC/9. Estudo Dirigido.md",
     "000 USCS/CNC/treino por IA.md",
-    "000 USCS/CNC/999.md",
     "000 USCS/N1.md",
     "000 USCS/ROB/5. Atuadores e sensore.md",
     "000 USCS/ROB/999.md",
